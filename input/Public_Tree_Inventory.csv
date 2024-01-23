@@ -1,0 +1,932 @@
+fid,ObjectId,GS Type,Sample Site,No_civique,Species Code,Species Latin,ESSENCE_AN,DBH,Date_relev,Longitude,Latitude,GlobalID
+6779,198388,Street,Chemin De Breslay,3028,ABBA,Abies balsamea,Balsam Fir,13,2/29/2012 12:00:00 AM,-73.59033,45.491864,4002bec5-2b8d-4242-8d39-91ba8d06c5f1
+7643,198480,Street,Chemin De Breslay,3028,ABBA,Abies balsamea,Balsam Fir,20,2/29/2012 12:00:00 AM,-73.590378,45.491852,27e221f3-cec7-4c59-9245-5e42a757fdee
+7651,198488,Street,Chemin De Breslay,3028,ABBA,Abies balsamea,Balsam Fir,7,2/29/2012 12:00:00 AM,-73.590355,45.491858,1c67436f-be78-4508-a5c6-c342b53ecfdc
+7659,198496,Street,Chemin De Breslay,3028,ABBA,Abies balsamea,Balsam Fir,7,2/29/2012 12:00:00 AM,-73.590414,45.491845,0861326a-ac94-45be-9aff-43ae8a68dfbf
+7665,198502,Street,Chemin De Breslay,3028,ABBA,Abies balsamea,Balsam Fir,18,2/29/2012 12:00:00 AM,-73.59044,45.491839,3f4a4864-af70-4608-aee2-ceb55767ffe5
+4528,196540,Street,Avenue Seaforth,N/A,ACNE,Acer negundo,Manitoba Maple,52,4/3/2012 12:00:00 AM,-73.585863,45.496039,6e53a620-6d61-4715-9042-b772fe3aaba2
+7815,198652,Street,Chemin Saint-Sulpice,3074,ACNE,Acer negundo,Manitoba Maple,25,11/2/2006 12:00:00 AM,-73.590876,45.493377,661d9c75-a9fd-4c0b-886c-80d7dcce5ac7
+3444,43947,Parc,CABOT,N/A,ACNIGC,Acer nigrum 'Green Column',Green Column Black Maple,18,12/5/2016 12:00:00 AM,-73.583822,45.489548,a6d446e2-1995-4e5e-96cf-3bdccf268516
+4324,195947,Street,Avenue Atwater,N/A,ACPL,Acer platanoides,Norway Maple,34,1/23/2012 12:00:00 AM,-73.587503,45.490941,745dc6b3-e300-45eb-a922-ef920de43308
+6760,198369,Street,Chemin De Breslay,3000,ACPL,Acer platanoides,Norway Maple,26,2/29/2012 12:00:00 AM,-73.589493,45.492027,40eb9a14-be55-4875-86ad-842498b65aca
+8644,199461,Street,Rue Baile,1901,ACPL,Acer platanoides,Norway Maple,18,1/19/2012 12:00:00 AM,-73.57926,45.491648,a5da52ac-9b18-47fb-b01b-3bc26b44806e
+12906,204130,Street,Rue Saint-Mathieu,1170,ACPL,Acer platanoides,Norway Maple,40,1/10/2012 12:00:00 AM,-73.577277,45.492598,eaf1b702-bcbe-49ff-86d7-7b28b575b47e
+12914,204138,Street,Rue Saint-Mathieu,1182,ACPL,Acer platanoides,Norway Maple,48,1/10/2012 12:00:00 AM,-73.577407,45.492666,b203229e-75a6-4b1a-a7df-65ced3d05b72
+13018,204242,Street,Rue Saint-Mathieu,1190,ACPL,Acer platanoides,Norway Maple,47,1/10/2012 12:00:00 AM,-73.577541,45.492751,8ca82cc3-c5c0-4265-9e2b-fa4f46c6282e
+13196,204420,Street,Rue Saint-Marc,2295,ACPL,Acer platanoides,Norway Maple,32,6/27/2017 12:00:00 AM,-73.583003,45.494412,89af2d89-b601-4422-9d9d-a61feb7384c8
+13624,204461,Street,Rue Saint-Mathieu,N/A,ACPL,Acer platanoides,Norway Maple,29,1/10/2012 12:00:00 AM,-73.582687,45.495948,a195e3d6-abaf-4246-9a42-0703217d50ab
+13634,204471,Street,Rue Saint-Mathieu,N/A,ACPL,Acer platanoides,Norway Maple,31,1/10/2012 12:00:00 AM,-73.578336,45.493403,f760d59c-a280-4ed2-b211-4b5ca349e7d9
+14188,205023,Street,Rue Sherbrooke Ouest,1950,ACPL,Acer platanoides,Norway Maple,28,3/6/2012 12:00:00 AM,-73.583797,45.494072,4c74ee3a-81b2-40dc-8d25-bfe91bc140e9
+14212,205047,Street,Rue Sherbrooke Ouest,2168,ACPL,Acer platanoides,Norway Maple,20,10/23/2015 12:00:00 AM,-73.586419,45.492237,cb9caca9-a07f-4075-8e73-c444663893cb
+14216,205051,Street,Rue Sherbrooke Ouest,2330,ACPL,Acer platanoides,Norway Maple,24,3/6/2012 12:00:00 AM,-73.587112,45.491812,19544009-3b7c-457c-b8d7-8cb5f6a93128
+14301,205136,Street,Rue Towers,1409,ACPL,Acer platanoides,Norway Maple,18,1/10/2012 12:00:00 AM,-73.581197,45.492546,b05aa8ea-3536-4e14-8135-b51103c561cf
+14321,205156,Street,Rue Towers,1411,ACPL,Acer platanoides,Norway Maple,23,1/10/2012 12:00:00 AM,-73.581307,45.492609,5252dbb4-442e-4e01-bad0-fb1a7c5f885c
+14332,205167,Street,Rue Towers,1455,ACPL,Acer platanoides,Norway Maple,23,1/10/2012 12:00:00 AM,-73.581749,45.492865,dfb5165c-e14d-409c-83bd-4377c26a8894
+14337,205172,Street,Rue Towers,1420,ACPL,Acer platanoides,Norway Maple,20,1/10/2012 12:00:00 AM,-73.581837,45.492784,af127eb6-7003-43d0-ae79-174c3c7d347b
+4532,196544,Street,Avenue Lincoln,1955,ACPLCO,Acer platanoides 'Columnare',Columnare Norway Maple,5,5/24/2013 12:00:00 AM,-73.583013,45.493845,13e8cba4-0ee1-4a08-a465-2c9fb502e896
+4533,196545,Street,Avenue Lincoln,1955,ACPLCO,Acer platanoides 'Columnare',Columnare Norway Maple,5,5/24/2013 12:00:00 AM,-73.583128,45.493755,a4c14b46-1ecd-4f1e-b3d2-2bef0a9ce3fe
+4534,196546,Street,Avenue Lincoln,1955,ACPLCO,Acer platanoides 'Columnare',Columnare Norway Maple,5,5/24/2013 12:00:00 AM,-73.583185,45.49371,01417d3d-9e15-4fe7-b0f5-33c8b16978b9
+4535,196547,Street,Avenue Lincoln,1981,ACPLCO,Acer platanoides 'Columnare',Columnare Norway Maple,5,5/24/2013 12:00:00 AM,-73.5835,45.493453,d552584f-fcf0-493c-96f2-69ddae16eacd
+4536,196548,Street,Avenue Lincoln,1981,ACPLCO,Acer platanoides 'Columnare',Columnare Norway Maple,5,5/24/2013 12:00:00 AM,-73.583566,45.493401,afa146b2-5e59-45ce-aa5e-939f7b4d4d0f
+4537,196549,Street,Avenue Lincoln,1981,ACPLCO,Acer platanoides 'Columnare',Columnare Norway Maple,5,5/24/2013 12:00:00 AM,-73.583624,45.493353,46d8d008-a879-4b0d-9de1-e81ea5d70ccf
+4538,196550,Street,Avenue Lincoln,1981,ACPLCO,Acer platanoides 'Columnare',Columnare Norway Maple,5,5/24/2013 12:00:00 AM,-73.583691,45.493296,3822dbc9-5bc7-4f94-ac41-3f133408ca2a
+4546,196558,Street,Avenue Lincoln,N/A,ACPLCO,Acer platanoides 'Columnare',Columnare Norway Maple,5,5/24/2013 12:00:00 AM,-73.582954,45.493897,fa73fd9d-adae-4cc8-a43a-cce3fe9a057b
+4549,196561,Street,Avenue Lincoln,1850,ACPLCO,Acer platanoides 'Columnare',Columnare Norway Maple,5,6/1/2012 12:00:00 AM,-73.582419,45.494169,11f5900d-dc76-4d80-a467-1481607f77ff
+4564,196576,Street,Avenue Lincoln,2094,ACPLCO,Acer platanoides 'Columnare',Columnare Norway Maple,5,6/1/2012 12:00:00 AM,-73.584638,45.492355,a171d119-3505-455c-9a48-bc8c1e719231
+12904,204128,Street,Rue Saint-Mathieu,1160,ACPLCO,Acer platanoides 'Columnare',Columnare Norway Maple,8,1/10/2012 12:00:00 AM,-73.576993,45.492432,1235be5b-b218-440a-a9dc-d30c35eda634
+13201,204425,Street,Rue Saint-Marc,1220,ACPLCO,Acer platanoides 'Columnare',Columnare Norway Maple,6,1/12/2012 12:00:00 AM,-73.57906,45.491954,349d1621-1301-467b-975e-06f706168860
+13649,204486,Street,Rue Saint-Mathieu,1278,ACPLCO,Acer platanoides 'Columnare',Columnare Norway Maple,5,6/4/2012 12:00:00 AM,-73.578898,45.493533,66f345e4-b4bc-47dd-8b6d-6fd89445da84
+14312,205147,Street,Rue Towers,1409,ACPLCO,Acer platanoides 'Columnare',Columnare Norway Maple,5,5/30/2012 12:00:00 AM,-73.5811,45.492488,2ec3e0f2-9caf-4edf-a4b5-d8502b64015d
+14354,205189,Street,Rue Tupper,1961,ACPLCO,Acer platanoides 'Columnare',Columnare Norway Maple,5,6/1/2012 12:00:00 AM,-73.580411,45.491534,b5cfae6d-81c3-4531-ab1e-08886c7a7fdf
+14355,205190,Street,Rue Tupper,1961,ACPLCO,Acer platanoides 'Columnare',Columnare Norway Maple,5,6/1/2012 12:00:00 AM,-73.580504,45.491453,21891407-370a-4fac-aa95-f333b4f8abab
+14378,205213,Street,Rue Tupper,1950,ACPLCO,Acer platanoides 'Columnare',Columnare Norway Maple,12,1/19/2012 12:00:00 AM,-73.580117,45.491665,75b1711d-9321-4990-8811-a9671b086370
+15108,206324,Street,Rue du Fort,N/A,ACPLCO,Acer platanoides 'Columnare',Columnare Norway Maple,5,6/1/2012 12:00:00 AM,-73.584049,45.493434,38b99f73-869d-490d-adbb-671211028318
+15549,205968,Street,Rue Sherbrooke Ouest,N/A,ACPLCO,Acer platanoides 'Columnare',Columnare Norway Maple,34,3/6/2012 12:00:00 AM,-73.585291,45.493139,c2030936-3e97-406b-b845-1b78effe25b6
+901,40297,Parc,SAINT-MARC/RENÉ-LÉVESQUE,N/A,ACPLDE,Acer platanoides 'Deborah',Deborah Norway Maple,16,12/11/2019 12:00:00 AM,-73.577772,45.491255,275903aa-05b6-4065-aba4-b08831f1cd49
+902,40298,Parc,SAINT-MARC/RENÉ-LÉVESQUE,N/A,ACPLDE,Acer platanoides 'Deborah',Deborah Norway Maple,16,12/11/2019 12:00:00 AM,-73.577866,45.491306,958333c1-528a-49d4-b705-2dc4a03f6f70
+903,40299,Parc,SAINT-MARC/RENÉ-LÉVESQUE,N/A,ACPLDE,Acer platanoides 'Deborah',Deborah Norway Maple,16,12/11/2019 12:00:00 AM,-73.57795,45.491351,4267e315-8889-43ca-867b-54bbd75f2e8c
+904,40300,Parc,SAINT-MARC/RENÉ-LÉVESQUE,N/A,ACPLDE,Acer platanoides 'Deborah',Deborah Norway Maple,14,12/11/2019 12:00:00 AM,-73.578015,45.49139,e701b493-d4e6-4a1d-8a48-8e0052aa3325
+905,40301,Parc,SAINT-MARC/RENÉ-LÉVESQUE,N/A,ACPLDE,Acer platanoides 'Deborah',Deborah Norway Maple,15,12/11/2019 12:00:00 AM,-73.578099,45.491438,00b28b84-9c13-4d68-89bf-d793db04d831
+906,40302,Parc,SAINT-MARC/RENÉ-LÉVESQUE,N/A,ACPLDE,Acer platanoides 'Deborah',Deborah Norway Maple,16,12/11/2019 12:00:00 AM,-73.578177,45.491481,2fa08075-1975-420e-9136-5b7057d2d840
+907,40303,Parc,SAINT-MARC/RENÉ-LÉVESQUE,N/A,ACPLDE,Acer platanoides 'Deborah',Deborah Norway Maple,13,12/11/2019 12:00:00 AM,-73.578256,45.491526,a7fb3532-1dfa-4ead-8fa8-75b09a4e5662
+908,40304,Parc,SAINT-MARC/RENÉ-LÉVESQUE,N/A,ACPLDE,Acer platanoides 'Deborah',Deborah Norway Maple,14,12/11/2019 12:00:00 AM,-73.578337,45.491575,de8f971d-f155-4b6b-a659-15468429338e
+909,40305,Parc,SAINT-MARC/RENÉ-LÉVESQUE,N/A,ACPLDE,Acer platanoides 'Deborah',Deborah Norway Maple,15,12/11/2019 12:00:00 AM,-73.578421,45.491619,fb47f67f-dac6-409d-ba26-49395b79e84c
+910,40306,Parc,SAINT-MARC/RENÉ-LÉVESQUE,N/A,ACPLDE,Acer platanoides 'Deborah',Deborah Norway Maple,16,12/11/2019 12:00:00 AM,-73.578496,45.491665,1be060c2-e36b-4afb-8c37-87ce0b1e0301
+911,40307,Parc,SAINT-MARC/RENÉ-LÉVESQUE,N/A,ACPLDE,Acer platanoides 'Deborah',Deborah Norway Maple,14,12/11/2019 12:00:00 AM,-73.578577,45.491713,a16d0b9a-c370-448c-9629-a5701ba00de6
+912,40308,Parc,SAINT-MARC/RENÉ-LÉVESQUE,N/A,ACPLDE,Acer platanoides 'Deborah',Deborah Norway Maple,14,12/11/2019 12:00:00 AM,-73.578645,45.491766,b8b55af0-a74a-487e-9d3f-7e6a0b0c5708
+4322,195945,Street,Avenue Atwater,N/A,ACPLDE,Acer platanoides 'Deborah',Deborah Norway Maple,5,4/20/2010 12:00:00 AM,-73.586965,45.490624,9d90a5e0-3639-4086-b50f-c2d573066b58
+4224,195475,Street,Avenue Atwater,2021,ACPLEQ,Acer platanoides 'Emerald Queen',Emerald Queen Norway Maple,6,1/23/2012 12:00:00 AM,-73.586565,45.490661,17c38087-d415-4bb3-94ec-e472d3cd85c8
+4326,195949,Street,Avenue Atwater,N/A,ACPLEQ,Acer platanoides 'Emerald Queen',Emerald Queen Norway Maple,11,1/23/2012 12:00:00 AM,-73.586799,45.490528,c66a30ea-22dd-4788-aa65-509b6a7db069
+12821,204445,Street,Rue Saint-Mathieu,1185,ACPLEQ,Acer platanoides 'Emerald Queen',Emerald Queen Norway Maple,5,1/10/2012 12:00:00 AM,-73.57747,45.492913,84463759-362b-4326-8682-1b06c612ef36
+13040,204264,Street,Rue Saint-Mathieu,1220,ACPLEQ,Acer platanoides 'Emerald Queen',Emerald Queen Norway Maple,7,1/10/2012 12:00:00 AM,-73.578086,45.493066,11d32f1f-6340-41e2-9a38-c6f482ad4265
+13214,204446,Street,Rue Saint-Mathieu,1185,ACPLEQ,Acer platanoides 'Emerald Queen',Emerald Queen Norway Maple,26,1/10/2012 12:00:00 AM,-73.577573,45.492971,6f9cb94b-bd6f-4221-acfa-f0f24591d340
+14211,205046,Street,Rue Sherbrooke Ouest,2162,ACPLEQ,Acer platanoides 'Emerald Queen',Emerald Queen Norway Maple,6,3/6/2012 12:00:00 AM,-73.586314,45.492304,c540b6c1-84a6-4761-ade2-5cc2f0136138
+14338,205173,Street,Rue Towers,1420,ACPLEQ,Acer platanoides 'Emerald Queen',Emerald Queen Norway Maple,14,4/12/2012 12:00:00 AM,-73.581971,45.492865,f1efb16f-2228-4fa1-8f15-47bcc5ba7b54
+2345,43674,Parc,CABOT,N/A,ACSA,Acer saccharinum,Silver Maple,5,11/3/2020 12:00:00 AM,-73.583519,45.489298,5041303a-2bae-4638-9183-6cdaaa5d851c
+3276,43779,Parc,CABOT,N/A,ACSA,Acer saccharinum,Silver Maple,42,12/5/2016 12:00:00 AM,-73.583926,45.489436,c99bf7f0-4ab7-4135-84ea-6e8ffd2117c0
+3325,43828,Parc,CABOT,N/A,ACSA,Acer saccharinum,Silver Maple,58,12/5/2016 12:00:00 AM,-73.583765,45.489595,b9c9c316-5451-4d8d-9552-7cea5c27c828
+3337,43840,Parc,CABOT,N/A,ACSA,Acer saccharinum,Silver Maple,66,12/5/2016 12:00:00 AM,-73.583586,45.489853,fcfbc3d2-c57d-4f85-80e7-47ba72cd3e6c
+3431,43934,Parc,CABOT,N/A,ACSA,Acer saccharinum,Silver Maple,49,12/5/2016 12:00:00 AM,-73.583359,45.489518,8178379c-b15e-4a0c-8415-d03a36b2f35e
+3433,43936,Parc,CABOT,N/A,ACSA,Acer saccharinum,Silver Maple,30,12/5/2016 12:00:00 AM,-73.583519,45.489611,0f32667d-1021-44b3-a2c8-bce8f0fbb8ff
+3442,43945,Parc,CABOT,N/A,ACSA,Acer saccharinum,Silver Maple,41,12/5/2016 12:00:00 AM,-73.583829,45.489384,e6ba1e06-862a-4923-a7dd-036dc7381088
+3443,43946,Parc,CABOT,N/A,ACSA,Acer saccharinum,Silver Maple,78,12/5/2016 12:00:00 AM,-73.583767,45.489517,8ad23184-c285-4253-a81e-8acdf1f2fc4e
+4121,195130,Street,Avenue Atwater,2021,ACSA,Acer saccharinum,Silver Maple,22,1/23/2012 12:00:00 AM,-73.586071,45.490369,0f202b0a-5468-4a61-b095-3bde65b974ed
+4123,195139,Street,Avenue Atwater,2021,ACSA,Acer saccharinum,Silver Maple,40,1/23/2012 12:00:00 AM,-73.586482,45.490612,5a9b7f27-b45b-4865-9a1c-c4cb2ed63deb
+4125,195245,Street,Avenue Atwater,2021,ACSA,Acer saccharinum,Silver Maple,33,1/23/2012 12:00:00 AM,-73.586196,45.490446,37f4cd83-9a07-48a7-a7f5-be0abbae582d
+4323,195946,Street,Avenue Atwater,N/A,ACSA,Acer saccharinum,Silver Maple,28,1/23/2012 12:00:00 AM,-73.587336,45.490844,b485fb53-a4ee-4786-8898-aadc45c294e4
+4381,196004,Street,Avenue Docteur-Penfield,N/A,ACSA,Acer saccharinum,Silver Maple,5,7/15/2014 12:00:00 AM,-73.587002,45.495984,2d4a474d-24e4-44e5-8ea1-cfe6ec3c2375
+5003,196202,Street,Avenue Holton,3451,ACSA,Acer saccharinum,Silver Maple,139,10/17/2017 12:00:00 AM,-73.589732,45.491217,0ec0fb6e-d4a9-421f-be4e-05842614d143
+5004,196203,Street,Avenue Holton,3461,ACSA,Acer saccharinum,Silver Maple,120,10/17/2017 12:00:00 AM,-73.589879,45.491266,83e98425-c0c8-46ec-ba6e-b9d2aa466a4a
+5008,196207,Street,Avenue Holton,3481,ACSA,Acer saccharinum,Silver Maple,128,10/17/2017 12:00:00 AM,-73.590446,45.491378,8d08fb98-de0f-4fbe-b75a-ab6f3a4ad0f5
+5009,196208,Street,Avenue Holton,3481,ACSA,Acer saccharinum,Silver Maple,100,2/29/2012 12:00:00 AM,-73.590575,45.491383,e552eb68-9e75-4ae0-b48d-66a362456730
+6771,198380,Street,Chemin De Breslay,3018,ACSA,Acer saccharinum,Silver Maple,72,2/29/2012 12:00:00 AM,-73.59004,45.491914,a7d58268-760c-4ea6-85ed-c936cba0ce26
+6994,196997,Street,Avenue Docteur-Penfield,N/A,ACSA,Acer saccharinum,Silver Maple,5,7/15/2014 12:00:00 AM,-73.586305,45.496153,6afeb22d-a965-49aa-8e84-af2fdcbd8c11
+6995,196998,Street,Avenue Docteur-Penfield,N/A,ACSA,Acer saccharinum,Silver Maple,5,7/15/2014 12:00:00 AM,-73.586542,45.496137,a1624c5e-dd46-4186-a80a-db125f2b219f
+6996,196999,Street,Avenue Docteur-Penfield,N/A,ACSA,Acer saccharinum,Silver Maple,5,7/15/2014 12:00:00 AM,-73.586615,45.496132,737ea8ec-0d65-4bc0-959e-b86644a6dd2a
+6997,197000,Street,Avenue Docteur-Penfield,N/A,ACSA,Acer saccharinum,Silver Maple,5,7/15/2014 12:00:00 AM,-73.586691,45.496117,96b01228-5cba-49f7-b8f8-3f2d9e3aae63
+7766,198603,Street,Chemin De Breslay,3030,ACSA,Acer saccharinum,Silver Maple,92,2/29/2012 12:00:00 AM,-73.590792,45.491501,1a407518-d468-4f2c-bb89-dbede07aca44
+7807,198644,Street,Chemin Saint-Sulpice,3029,ACSA,Acer saccharinum,Silver Maple,5,10/5/2016 12:00:00 AM,-73.591139,45.493367,b2a7d42f-5501-47de-b50a-22edfafb8eef
+7808,198645,Street,Chemin Saint-Sulpice,3029,ACSA,Acer saccharinum,Silver Maple,5,10/5/2016 12:00:00 AM,-73.59122,45.493318,ef437242-98a0-4e36-8f82-494418bbef0f
+7809,198646,Street,Chemin Saint-Sulpice,3029,ACSA,Acer saccharinum,Silver Maple,5,10/5/2016 12:00:00 AM,-73.591265,45.493288,3049dff1-05c2-4b23-ab5b-a6785e68dfc8
+7982,198819,Street,Boulevard de Maisonneuve Ouest,1939,ACSA,Acer saccharinum,Silver Maple,44,3/6/2012 12:00:00 AM,-73.582327,45.493139,f0cd8fad-5a20-44f9-8d5f-9c1112e8077c
+7987,198824,Street,Boulevard de Maisonneuve Ouest,2097,ACSA,Acer saccharinum,Silver Maple,85,3/6/2012 12:00:00 AM,-73.583746,45.49195,f3d73cf3-7693-4983-825d-68e929f090d3
+8637,199454,Street,Rue Baile,1819,ACSA,Acer saccharinum,Silver Maple,38,1/19/2012 12:00:00 AM,-73.578133,45.492634,a7ff2c73-b40e-44e1-b69f-67a1653b80af
+8638,199455,Street,Rue Baile,1831,ACSA,Acer saccharinum,Silver Maple,20,1/19/2012 12:00:00 AM,-73.578282,45.492508,a8d0f268-ba27-4e63-a084-d13f68b39fa7
+8639,199456,Street,Rue Baile,1835,ACSA,Acer saccharinum,Silver Maple,23,1/19/2012 12:00:00 AM,-73.578366,45.492436,0e30f00f-3238-4a4a-a6d8-4eda426ac375
+8640,199457,Street,Rue Baile,1839,ACSA,Acer saccharinum,Silver Maple,27,1/19/2012 12:00:00 AM,-73.57842,45.49239,00d99dcd-0cf0-46e4-957f-9a85782bbe88
+8641,199458,Street,Rue Baile,1847,ACSA,Acer saccharinum,Silver Maple,32,1/19/2012 12:00:00 AM,-73.578505,45.492318,92a04df5-1231-4212-a702-ff1fbfa797c5
+9590,200406,Street,Rue Chomedey,1447,ACSA,Acer saccharinum,Silver Maple,46,1/12/2012 12:00:00 AM,-73.583472,45.491514,d78acd91-c2f7-4c03-9cf0-f25206c0ff6f
+9591,200407,Street,Rue Chomedey,1451,ACSA,Acer saccharinum,Silver Maple,40,1/12/2012 12:00:00 AM,-73.58355,45.491559,c30471f4-f5a0-4ce2-be43-42c12337f55f
+9592,200408,Street,Rue Chomedey,1459,ACSA,Acer saccharinum,Silver Maple,32,1/12/2012 12:00:00 AM,-73.583679,45.491631,2f2e7bab-9ae2-42ea-941a-3a3f2f69ec74
+9603,200419,Street,Rue Chomedey,1414,ACSA,Acer saccharinum,Silver Maple,30,1/12/2012 12:00:00 AM,-73.582988,45.491076,cdabc7a2-5fd5-46d9-b46e-967ad7fb6624
+9606,200422,Street,Rue Chomedey,1436,ACSA,Acer saccharinum,Silver Maple,32,1/12/2012 12:00:00 AM,-73.583432,45.49133,7597778c-8787-4ca4-8749-84f6b95908fe
+9608,200424,Street,Rue Chomedey,1440,ACSA,Acer saccharinum,Silver Maple,29,1/12/2012 12:00:00 AM,-73.583724,45.4915,d6a96c06-44c0-4074-b6f8-01922d3f68eb
+9609,200425,Street,Rue Chomedey,1440,ACSA,Acer saccharinum,Silver Maple,44,1/12/2012 12:00:00 AM,-73.583836,45.491563,b6a0f844-eeab-4909-bebe-2153d1669cbb
+12419,204440,Street,Rue Saint-Marc,2000,ACSA,Acer saccharinum,Silver Maple,27,6/27/2017 12:00:00 AM,-73.582091,45.493711,884b204b-2f1a-4960-a559-7c34237f7f4e
+12604,203032,Street,Rue Pierce,1419,ACSA,Acer saccharinum,Silver Maple,31,1/12/2012 12:00:00 AM,-73.579174,45.494851,091ac25d-d05e-407b-bdbc-9b6e6033a5e2
+12605,203033,Street,Rue Pierce,1419,ACSA,Acer saccharinum,Silver Maple,38,1/12/2012 12:00:00 AM,-73.57928,45.494909,2b4f9a98-79f0-4283-b05f-06adf29705ff
+12606,203034,Street,Rue Pierce,1419,ACSA,Acer saccharinum,Silver Maple,24,1/12/2012 12:00:00 AM,-73.579523,45.495049,644722a1-e27f-46ef-bd86-34505518a8c4
+12607,203035,Street,Rue Pierce,1419,ACSA,Acer saccharinum,Silver Maple,36,1/12/2012 12:00:00 AM,-73.579066,45.494788,51b2825f-1e39-422a-81c8-b2be7f4dee9e
+12812,204442,Street,Rue Saint-Marc,2150,ACSA,Acer saccharinum,Silver Maple,5,6/10/2011 12:00:00 AM,-73.582421,45.493904,2d94027a-5f83-4ee7-acc2-384aeb8de249
+13093,204317,Street,Rue Sainte-Catherine Ouest,1608,ACSA,Acer saccharinum,Silver Maple,5,5/14/2010 12:00:00 AM,-73.578127,45.494667,89275d1c-3a6a-4c71-a90a-343bce3c1c29
+13108,204332,Street,Rue Sainte-Catherine Ouest,1920,ACSA,Acer saccharinum,Silver Maple,32,3/6/2012 12:00:00 AM,-73.58064,45.492524,1ea35521-a55b-454c-94c0-d0d0f2dfee56
+13169,204393,Street,Rue Saint-Marc,1173,ACSA,Acer saccharinum,Silver Maple,48,1/12/2012 12:00:00 AM,-73.578148,45.491594,6a2c2fda-9336-4c48-a8a3-ed9dc45a797b
+13173,204397,Street,Rue Saint-Marc,1209,ACSA,Acer saccharinum,Silver Maple,30,1/12/2012 12:00:00 AM,-73.57867,45.491891,62c7fc1f-7338-453f-bb79-1a085aefa8b7
+13195,204419,Street,Rue Saint-Marc,2295,ACSA,Acer saccharinum,Silver Maple,5,5/30/2019 12:00:00 AM,-73.583097,45.494483,6e590371-9abd-4c5e-bc41-5e4aa2ba0abb
+13197,204421,Street,Rue Saint-Marc,2295,ACSA,Acer saccharinum,Silver Maple,5,6/12/2018 12:00:00 AM,-73.583232,45.494561,3ee296f1-3f65-47d4-9da9-629273c8fa5d
+13212,204436,Street,Rue Saint-Marc,1430,ACSA,Acer saccharinum,Silver Maple,33,6/27/2017 12:00:00 AM,-73.581011,45.493086,bc290720-9a10-4b69-8253-b20c06c9b545
+14174,205009,Street,Rue Sherbrooke Ouest,1836,ACSA,Acer saccharinum,Silver Maple,25,3/6/2012 12:00:00 AM,-73.582905,45.495081,31df6309-54d9-4e8b-9080-b9c7c8535eb9
+14177,205012,Street,Rue Sherbrooke Ouest,1850,ACSA,Acer saccharinum,Silver Maple,31,3/6/2012 12:00:00 AM,-73.583193,45.494751,053347c5-e6ae-4e3e-aeb7-26ca459e8235
+14183,205018,Street,Rue Sherbrooke Ouest,1850,ACSA,Acer saccharinum,Silver Maple,29,3/6/2012 12:00:00 AM,-73.583268,45.494671,5a22afa5-bfb0-4c24-9b7c-8d6efadde963
+14185,205020,Street,Rue Sherbrooke Ouest,1850,ACSA,Acer saccharinum,Silver Maple,30,3/6/2012 12:00:00 AM,-73.583111,45.494854,dc1ef93c-9d8a-4e72-94ad-9de3306710bd
+14189,205024,Street,Rue Sherbrooke Ouest,1950,ACSA,Acer saccharinum,Silver Maple,22,3/6/2012 12:00:00 AM,-73.583738,45.494138,b7b21710-4a9a-46d2-bc39-5c671637ecce
+14194,205029,Street,Rue Sherbrooke Ouest,2068,ACSA,Acer saccharinum,Silver Maple,25,3/6/2012 12:00:00 AM,-73.584903,45.493145,30170c49-5f70-43c4-974c-cf27cc930736
+14201,205036,Street,Rue Sherbrooke Ouest,2090,ACSA,Acer saccharinum,Silver Maple,20,3/6/2012 12:00:00 AM,-73.585507,45.492783,41b6e653-42ff-467f-8bd1-fede78fff472
+14202,205037,Street,Rue Sherbrooke Ouest,2090,ACSA,Acer saccharinum,Silver Maple,28,3/6/2012 12:00:00 AM,-73.585435,45.492828,92ab0047-535f-4404-8e1d-1aad5519fd13
+14213,205048,Street,Rue Sherbrooke Ouest,2174,ACSA,Acer saccharinum,Silver Maple,24,3/6/2012 12:00:00 AM,-73.58656,45.492154,b05321e8-09f0-405d-91cf-677fd806a154
+14215,205050,Street,Rue Sherbrooke Ouest,2330,ACSA,Acer saccharinum,Silver Maple,24,3/6/2012 12:00:00 AM,-73.587438,45.491563,c4892a4b-c8b1-4121-a1a7-8fa8e4514058
+15249,205669,Street,Rue Sherbrooke Ouest,1639,ACSA,Acer saccharinum,Silver Maple,31,3/6/2012 12:00:00 AM,-73.58245,45.495925,5ef8a62c-4e57-4db3-a3ea-9f0dfa0e30eb
+15252,205672,Street,Rue Sherbrooke Ouest,1669,ACSA,Acer saccharinum,Silver Maple,30,3/6/2012 12:00:00 AM,-73.583491,45.494748,0a5c628b-de58-4f35-9a3e-e5405cc1fb52
+15334,205753,Street,Rue Sherbrooke Ouest,1669,ACSA,Acer saccharinum,Silver Maple,29,3/6/2012 12:00:00 AM,-73.583306,45.494961,55d9342f-9ecf-4078-bade-e773c4c36265
+15349,205768,Street,Rue Sherbrooke Ouest,1669,ACSA,Acer saccharinum,Silver Maple,71,3/6/2012 12:00:00 AM,-73.583131,45.49516,ca408380-dae9-4075-9ea5-21699382f358
+15511,205930,Street,Rue Sherbrooke Ouest,1669,ACSA,Acer saccharinum,Silver Maple,24,3/6/2012 12:00:00 AM,-73.583368,45.494889,03dae0da-bedb-4c26-a930-7b7ed8243593
+15512,205931,Street,Rue Sherbrooke Ouest,1669,ACSA,Acer saccharinum,Silver Maple,25,3/6/2012 12:00:00 AM,-73.582771,45.495571,7ad714fd-589c-48e4-a5b1-42c6368cfa77
+15513,205932,Street,Rue Sherbrooke Ouest,1669,ACSA,Acer saccharinum,Silver Maple,20,3/6/2012 12:00:00 AM,-73.582848,45.495479,bd4d8507-97b6-48f3-b152-940e476a3c7a
+15515,205934,Street,Rue Sherbrooke Ouest,1931,ACSA,Acer saccharinum,Silver Maple,22,3/6/2012 12:00:00 AM,-73.584523,45.493624,98d2a470-d383-4d98-8a2a-9db812f191a7
+15517,205936,Street,Rue Sherbrooke Ouest,1931,ACSA,Acer saccharinum,Silver Maple,26,3/6/2012 12:00:00 AM,-73.583582,45.494646,902f0090-a51d-4dca-9e0f-cbdd58ef7d4e
+15518,205937,Street,Rue Sherbrooke Ouest,1931,ACSA,Acer saccharinum,Silver Maple,25,3/6/2012 12:00:00 AM,-73.583721,45.494473,2995a729-8c1f-42ab-85d7-09d6261f8dbf
+15519,205938,Street,Rue Sherbrooke Ouest,1931,ACSA,Acer saccharinum,Silver Maple,22,3/6/2012 12:00:00 AM,-73.583804,45.494392,ee581a1f-bddc-4e28-91ad-33f2ad1764e9
+15529,205948,Street,Rue Sherbrooke Ouest,N/A,ACSA,Acer saccharinum,Silver Maple,30,3/6/2012 12:00:00 AM,-73.587224,45.491986,4785ff36-bc24-471a-89d3-cc0ce2bff470
+15531,205950,Street,Rue Sherbrooke Ouest,N/A,ACSA,Acer saccharinum,Silver Maple,24,3/6/2012 12:00:00 AM,-73.587559,45.491738,74c6c4c3-8c41-456e-86bb-6f7803e7edd7
+15532,205951,Street,Rue Sherbrooke Ouest,N/A,ACSA,Acer saccharinum,Silver Maple,23,3/6/2012 12:00:00 AM,-73.587818,45.491534,7d10319e-5465-452f-bd11-048dd707fdee
+15535,205954,Street,Rue Sherbrooke Ouest,N/A,ACSA,Acer saccharinum,Silver Maple,37,3/6/2012 12:00:00 AM,-73.586562,45.492389,aae67a20-db9d-4545-9afe-b47184f09eab
+15536,205955,Street,Rue Sherbrooke Ouest,N/A,ACSA,Acer saccharinum,Silver Maple,33,3/6/2012 12:00:00 AM,-73.585954,45.492745,17663612-1063-4219-a12f-30d64261c782
+15537,205956,Street,Rue Sherbrooke Ouest,N/A,ACSA,Acer saccharinum,Silver Maple,50,3/6/2012 12:00:00 AM,-73.586879,45.492202,db499b53-e67e-40f6-9aae-b0dc49f9dce3
+15538,205957,Street,Rue Sherbrooke Ouest,N/A,ACSA,Acer saccharinum,Silver Maple,24,3/6/2012 12:00:00 AM,-73.586195,45.492615,505c3958-b399-49ec-b0d3-c4f5303be57d
+15541,205960,Street,Rue Sherbrooke Ouest,N/A,ACSA,Acer saccharinum,Silver Maple,28,3/6/2012 12:00:00 AM,-73.586484,45.492437,f847cfb9-777c-4500-bfb7-e8cf186718bf
+15542,205961,Street,Rue Sherbrooke Ouest,N/A,ACSA,Acer saccharinum,Silver Maple,30,3/6/2012 12:00:00 AM,-73.586636,45.492346,9cb6b5f7-dc50-4d51-967a-f14c6496244b
+15543,205962,Street,Rue Sherbrooke Ouest,N/A,ACSA,Acer saccharinum,Silver Maple,24,3/6/2012 12:00:00 AM,-73.586794,45.492252,b7c259be-1841-492f-94d4-9adedd759e79
+15545,205964,Street,Rue Sherbrooke Ouest,N/A,ACSA,Acer saccharinum,Silver Maple,29,3/6/2012 12:00:00 AM,-73.58613,45.492645,cde97cc0-5635-4036-bfd4-c8004404368d
+15551,205970,Street,Rue Sherbrooke Ouest,N/A,ACSA,Acer saccharinum,Silver Maple,26,3/6/2012 12:00:00 AM,-73.5856,45.492959,4d5b2619-d7a2-43f8-918a-256c4b7189d9
+15576,205995,Street,Rue Sherbrooke Ouest,N/A,ACSA,Acer saccharinum,Silver Maple,28,3/6/2012 12:00:00 AM,-73.585864,45.492799,7ffac6e8-1f99-4c57-bab7-632eec1cb9f4
+15863,205500,Street,Rue Sherbrooke Ouest,1601,ACSA,Acer saccharinum,Silver Maple,36,3/6/2012 12:00:00 AM,-73.582133,45.496303,41f6c963-ea68-4267-b280-2f9912587ce1
+15934,205571,Street,Rue Sherbrooke Ouest,1620,ACSA,Acer saccharinum,Silver Maple,31,3/6/2012 12:00:00 AM,-73.581953,45.496159,1106b28c-874f-4592-a257-c6f8dfed5e23
+15936,205573,Street,Rue Sherbrooke Ouest,1620,ACSA,Acer saccharinum,Silver Maple,36,3/6/2012 12:00:00 AM,-73.582169,45.495919,e7080fce-9a84-4a84-9ff1-4dd4b7fe689e
+15937,205574,Street,Rue Sherbrooke Ouest,1620,ACSA,Acer saccharinum,Silver Maple,31,3/6/2012 12:00:00 AM,-73.582237,45.495843,dd189c80-c383-4e74-b6db-2d5cf2f72bc6
+15938,205575,Street,Rue Sherbrooke Ouest,1814,ACSA,Acer saccharinum,Silver Maple,46,3/6/2012 12:00:00 AM,-73.582591,45.495439,4e3bd01c-cc65-4c02-944a-b78d3425a144
+15940,205577,Street,Rue Sherbrooke Ouest,1826,ACSA,Acer saccharinum,Silver Maple,51,3/6/2012 12:00:00 AM,-73.58277,45.495234,fd3b93af-fa04-4494-8f32-8ae566665bb1
+15954,205591,Street,Rue Sherbrooke Ouest,1629,ACSA,Acer saccharinum,Silver Maple,26,3/6/2012 12:00:00 AM,-73.582374,45.496021,7e3f3421-9d02-4d23-b94a-8cffe6f97197
+4331,195954,Street,Avenue Atwater,N/A,ACSALA,Acer saccharinum 'Laciniatum',Cut-leaf Silver Maple,5,11/9/2017 12:00:00 AM,-73.58984,45.49289,318b5c71-c60a-4768-ab84-a5a2ea7c2576
+4332,195955,Street,Avenue Atwater,N/A,ACSALA,Acer saccharinum 'Laciniatum',Cut-leaf Silver Maple,5,10/5/2013 12:00:00 AM,-73.589836,45.492961,0e4092df-1393-4473-bcf4-ae48df6c29e7
+4333,195956,Street,Avenue Atwater,N/A,ACSALA,Acer saccharinum 'Laciniatum',Cut-leaf Silver Maple,5,10/5/2013 12:00:00 AM,-73.589841,45.493033,d5450231-a4cf-40ca-b840-41c74634ca15
+4329,195952,Street,Avenue Atwater,N/A,ACSAPY,Acer saccharinum 'Pyramidalis',Pyramidale Silver Maple,16,1/23/2012 12:00:00 AM,-73.586548,45.490381,0f8ddcef-5b5b-4959-aac6-7c58b1f6ac22
+4330,195953,Street,Avenue Atwater,N/A,ACSAPY,Acer saccharinum 'Pyramidalis',Pyramidale Silver Maple,30,1/23/2012 12:00:00 AM,-73.586715,45.49048,ac51b823-e872-49f8-b0a5-6b31e88d04d0
+9585,200401,Street,Rue Chomedey,1405,ACSAPY,Acer saccharinum 'Pyramidalis',Pyramidale Silver Maple,27,1/12/2012 12:00:00 AM,-73.582817,45.491137,709c2ccd-e6b4-4e7e-9a5b-941e9f406d71
+9586,200402,Street,Rue Chomedey,1415,ACSAPY,Acer saccharinum 'Pyramidalis',Pyramidale Silver Maple,38,2/15/2012 12:00:00 AM,-73.582986,45.491235,c85e2426-764b-433b-8abc-7840ba606163
+9587,200403,Street,Rue Chomedey,1425,ACSAPY,Acer saccharinum 'Pyramidalis',Pyramidale Silver Maple,40,6/21/2011 12:00:00 AM,-73.583122,45.491312,63e1d84f-44ec-4d09-97f1-8d4dab1bc5dd
+9588,200404,Street,Rue Chomedey,1433,ACSAPY,Acer saccharinum 'Pyramidalis',Pyramidale Silver Maple,6,1/12/2012 12:00:00 AM,-73.58324,45.491379,480038a0-29fe-4565-ad6b-edc7fe2428c2
+9589,200405,Street,Rue Chomedey,1441,ACSAPY,Acer saccharinum 'Pyramidalis',Pyramidale Silver Maple,31,1/12/2012 12:00:00 AM,-73.58334,45.491434,6a327d72-94b0-4365-a5f2-9839b8541a58
+9593,200409,Street,Rue Chomedey,2005,ACSAPY,Acer saccharinum 'Pyramidalis',Pyramidale Silver Maple,42,1/12/2012 12:00:00 AM,-73.584102,45.491851,bcda2b93-dc62-429e-8a2b-c9d3612c996f
+9605,200421,Street,Rue Chomedey,1414,ACSAPY,Acer saccharinum 'Pyramidalis',Pyramidale Silver Maple,14,1/12/2012 12:00:00 AM,-73.583089,45.491132,89fd17ce-5cba-431f-bfcc-34d70336c9c8
+13105,204329,Street,Rue Sainte-Catherine Ouest,1846,ACSAPY,Acer saccharinum 'Pyramidalis',Pyramidale Silver Maple,19,3/6/2012 12:00:00 AM,-73.58003,45.493042,0c0c8a00-76aa-4c35-8095-0ba0c5f09dc0
+13107,204331,Street,Rue Sainte-Catherine Ouest,1900,ACSAPY,Acer saccharinum 'Pyramidalis',Pyramidale Silver Maple,11,3/6/2012 12:00:00 AM,-73.580585,45.492573,b6865423-8632-41aa-83f4-f93ec971b096
+13116,204340,Street,Rue Sainte-Catherine Ouest,2150,ACSAPY,Acer saccharinum 'Pyramidalis',Pyramidale Silver Maple,19,3/6/2012 12:00:00 AM,-73.582683,45.490786,e701f1cb-47e8-45ea-8616-5c6633d223c6
+13117,204341,Street,Rue Sainte-Catherine Ouest,2162,ACSAPY,Acer saccharinum 'Pyramidalis',Pyramidale Silver Maple,32,3/6/2012 12:00:00 AM,-73.582879,45.490619,c31a3cda-35af-4cad-a504-a3913ddb7a2b
+14209,205044,Street,Rue Sherbrooke Ouest,2156,ACSAPY,Acer saccharinum 'Pyramidalis',Pyramidale Silver Maple,8,3/6/2012 12:00:00 AM,-73.586053,45.492454,478f75e4-de54-41bf-8561-65d244175514
+15533,205952,Street,Rue Sherbrooke Ouest,N/A,ACSAPY,Acer saccharinum 'Pyramidalis',Pyramidale Silver Maple,24,3/6/2012 12:00:00 AM,-73.587052,45.492094,0648a969-e143-48e3-8b85-39e5f901360d
+15534,205953,Street,Rue Sherbrooke Ouest,N/A,ACSAPY,Acer saccharinum 'Pyramidalis',Pyramidale Silver Maple,7,3/6/2012 12:00:00 AM,-73.587455,45.491816,b737bc74-0ad0-439c-afca-8b047cec0ee3
+15544,205963,Street,Rue Sherbrooke Ouest,N/A,ACSAPY,Acer saccharinum 'Pyramidalis',Pyramidale Silver Maple,24,3/6/2012 12:00:00 AM,-73.586964,45.492147,ff8c67db-51ac-4b8c-be02-5fef2f79590e
+2258,43587,Parc,CABOT,N/A,ACSC,Acer saccharum,Sugar Maple,5,9/12/2019 12:00:00 AM,-73.58351,45.489111,3b734ab0-8d84-4f9f-bc1c-dade60942393
+3321,43824,Parc,CABOT,N/A,ACSC,Acer saccharum,Sugar Maple,5,6/19/2018 12:00:00 AM,-73.583694,45.489598,6d362741-aff8-459d-b858-909ea726361f
+14334,205169,Street,Rue Towers,1408,ACTA,Acer tataricum,Tartarian Maple,5,5/30/2012 12:00:00 AM,-73.581165,45.492393,a6193d49-67dc-4ddb-817d-0e8255a5cacb
+2376,43705,Parc,CABOT,N/A,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,11/3/2020 12:00:00 AM,-73.58377,45.489288,d19128fb-a595-4186-b62d-3105b79bb550
+4628,196640,Street,Avenue Seymour,1177,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,10/30/2010 12:00:00 AM,-73.580016,45.490144,4de6e0d7-260a-4159-b8e6-346b7c83bb9b
+6476,198085,Street,Boulevard de Maisonneuve Ouest,2150,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,5/11/2015 12:00:00 AM,-73.583954,45.491532,be8d027b-d4b0-4a13-845a-6cb7a9c91b4b
+6540,198149,Street,Chemin De Breslay,3047,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,9/20/2014 12:00:00 AM,-73.591031,45.491359,422e1b24-0051-4146-9ad1-c8ada8258372
+6638,198247,Street,Chemin De Breslay,3047,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,9/20/2014 12:00:00 AM,-73.591096,45.491323,83983900-7558-4762-bc1d-9ce61790766e
+7984,198821,Street,Boulevard de Maisonneuve Ouest,2057,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,6/21/2014 12:00:00 AM,-73.583107,45.4925,decbb51a-f8de-4221-985f-c1ead5d3dc5e
+7985,198822,Street,Boulevard de Maisonneuve Ouest,2077,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,6/21/2014 12:00:00 AM,-73.583501,45.492162,d7062468-960e-401a-85da-f4604c9b9e7a
+7989,198826,Street,Boulevard de Maisonneuve Ouest,2097,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,6/21/2014 12:00:00 AM,-73.583915,45.491811,b2ae6c25-0c9a-423b-9c4a-c26dbb22d619
+7990,198827,Street,Boulevard de Maisonneuve Ouest,2157,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,6/21/2014 12:00:00 AM,-73.584129,45.491626,c91ba227-e0d9-4174-9c1d-e1faa8fe79f1
+7991,198828,Street,Boulevard de Maisonneuve Ouest,2157,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,4/9/2015 12:00:00 AM,-73.584251,45.491523,c1078744-a52a-425e-a8a8-59b05b56fb1a
+7992,198829,Street,Boulevard de Maisonneuve Ouest,2187,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,6/21/2014 12:00:00 AM,-73.584625,45.491203,1b8d9f3a-8700-4b07-9f74-721f35cbb268
+7993,198830,Street,Boulevard de Maisonneuve Ouest,2195,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,6/21/2014 12:00:00 AM,-73.584698,45.491131,7cdea440-6df1-4fd9-8b78-7182c080b86c
+7994,198831,Street,Boulevard de Maisonneuve Ouest,2195,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,9/21/2015 12:00:00 AM,-73.584753,45.491081,6a7b2ca9-bd95-4577-8e99-fd3373b21274
+7995,198832,Street,Boulevard de Maisonneuve Ouest,2195,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,9/21/2015 12:00:00 AM,-73.584823,45.491023,a095ed42-67d1-4443-a0fc-de14265e98f5
+10594,201020,Street,Rue Lambert-Closse,2010,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,9/30/2019 12:00:00 AM,-73.585079,45.490905,0d4c23e3-e9c0-42cf-8384-c13b6e4bfc3a
+10595,201021,Street,Rue Lambert-Closse,2010,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,9/30/2019 12:00:00 AM,-73.585162,45.490954,b9efc48d-0b74-434b-b556-14e07b6184fe
+10596,201022,Street,Rue Lambert-Closse,2052,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,9/30/2012 12:00:00 AM,-73.585377,45.491078,7a915650-b307-4f7c-850a-f944cd1c5fa6
+10597,201023,Street,Rue Lambert-Closse,2052,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,9/30/2012 12:00:00 AM,-73.585469,45.491135,9e0ab84a-046d-4884-9fd2-b500cc6571d9
+10598,201024,Street,Rue Lambert-Closse,2100,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,9/30/2012 12:00:00 AM,-73.58555,45.491182,046abfad-87fd-46ff-9bc0-5c7f5ba3846a
+10599,201025,Street,Rue Lambert-Closse,2100,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,9/30/2012 12:00:00 AM,-73.585634,45.49123,d2cca12f-849b-43a4-8026-dafacd580f47
+10600,201026,Street,Rue Lambert-Closse,2100,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,9/30/2012 12:00:00 AM,-73.585714,45.491279,4de8c947-df92-45e1-9b54-a0bd735de01d
+10601,201027,Street,Rue Lambert-Closse,2100,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,2/17/2015 12:00:00 AM,-73.585797,45.491326,cdc49fee-9788-4914-8f0b-6662824887e2
+13149,204373,Street,Rue Saint-Mathieu,1250,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,6/4/2012 12:00:00 AM,-73.578539,45.493326,d9f07fe1-005c-4ec0-812d-ffd45cee3b22
+13168,204392,Street,Rue Saint-Marc,1169,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,1/12/2012 12:00:00 AM,-73.578071,45.491545,012f1e2f-7b7e-42b9-a034-81702d1c244c
+13630,204467,Street,Rue Saint-Mathieu,N/A,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,6/11/2018 12:00:00 AM,-73.577838,45.493111,0e4a4f21-331f-43f0-9c34-726a9a2ad31e
+13636,204473,Street,Rue Saint-Mathieu,N/A,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,6/11/2018 12:00:00 AM,-73.578234,45.493336,0bde077f-96f6-4983-ab73-2291a69bc800
+13666,204503,Street,Rue Saint-Mathieu,1420,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,6/4/2012 12:00:00 AM,-73.580118,45.494243,f46a078e-c38d-4fa3-beea-63fee72713ed
+13681,204518,Street,Rue Saint-Mathieu,3450,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,9/21/2015 12:00:00 AM,-73.583405,45.49623,72875878-80a7-40d5-a7ca-026cddfc9652
+13682,204519,Street,Rue Saint-Mathieu,3450,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,9/21/2015 12:00:00 AM,-73.583501,45.496275,84080377-533d-4420-8e78-1bd0c2891c93
+15521,205940,Street,Rue Sherbrooke Ouest,1931,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,9/15/2020 12:00:00 AM,-73.584016,45.494152,b9928237-9dfc-470e-9dd1-149582310583
+15525,205944,Street,Rue Sherbrooke Ouest,3015,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,10/21/2013 12:00:00 AM,-73.588477,45.490949,ddbabcd6-d4a8-4a06-98f6-9c516b544e57
+15526,205945,Street,Rue Sherbrooke Ouest,3015,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,10/21/2013 12:00:00 AM,-73.588582,45.490864,54e4a219-ec1f-43e1-bcae-6d9214634898
+15527,205946,Street,Rue Sherbrooke Ouest,3025,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,5,10/21/2013 12:00:00 AM,-73.588707,45.490724,44b473f8-1213-4311-92bd-4134f41689ad
+15528,205947,Street,Rue Sherbrooke Ouest,3025,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,8,10/24/2013 12:00:00 AM,-73.588848,45.490613,67cfad9c-54dd-4703-8937-969c2a0bf7af
+8642,199459,Street,Rue Baile,1901,AEGL,Aesculus glabra,Ohio Buckeye,11,1/19/2012 12:00:00 AM,-73.579054,45.491828,544b16ef-e4b6-41ef-8394-cc9e6cd8947c
+8643,199460,Street,Rue Baile,1901,AEGL,Aesculus glabra,Ohio Buckeye,10,1/19/2012 12:00:00 AM,-73.579144,45.491751,7b341a6a-e998-41c2-ab9b-b9ca45b4943f
+8645,199462,Street,Rue Baile,1967,AEGL,Aesculus glabra,Ohio Buckeye,9,1/19/2012 12:00:00 AM,-73.579869,45.491134,0afd6aca-bdfd-4ec3-9053-365377931894
+14336,205171,Street,Rue Towers,1420,ALGL,Alnus glutinosa,European Black Alder,5,5/8/2014 12:00:00 AM,-73.581612,45.492649,92bde280-8d4a-4837-bea0-70bbc44a4839
+14339,205174,Street,Rue Towers,1420,ALGL,Alnus glutinosa,European Black Alder,5,5/8/2014 12:00:00 AM,-73.581722,45.492717,e7d7446f-341f-4060-814a-8c7031a60591
+14340,205175,Street,Rue Towers,1420,ALGL,Alnus glutinosa,European Black Alder,5,5/8/2014 12:00:00 AM,-73.581504,45.492586,0b772f2a-319d-49ce-b9ec-0fc2f50faeb3
+2277,43606,Parc,HECTOR-TOE-BLAKE,N/A,AM,Amelanchier,Serviceberry,7,1/27/2017 12:00:00 AM,-73.580836,45.489337,3b2a5cb7-edf7-40b6-8ade-a717f4d96c22
+3271,43774,Parc,HECTOR-TOE-BLAKE,N/A,AM,Amelanchier,Serviceberry,8,1/27/2017 12:00:00 AM,-73.580872,45.489491,6528591f-a0bd-4696-8baa-d3ff35dee92c
+4615,196627,Street,Avenue Selkirk,1627,AMCA,Amelanchier canadensis,Downy Serviceberry,8,1/12/2012 12:00:00 AM,-73.583495,45.496037,46b851a7-4749-4ff7-9a4f-f428591a93f9
+7771,198608,Street,Chemin De Breslay,3030,AMCA,Amelanchier canadensis,Downy Serviceberry,5,5/9/2016 12:00:00 AM,-73.590692,45.4917,2b236387-10f6-4925-a4a0-9b0f396c48c9
+10607,201033,Street,Rue Lambert-Closse,N/A,AMGR,Amelanchier x grandiflora,Apple Serviceberry,5,9/30/2019 12:00:00 AM,-73.58645,45.491705,670dfb3c-c947-4d6a-a89a-c89ad7aa7223
+10627,201053,Street,Rue Lambert-Closse,N/A,AMGR,Amelanchier x grandiflora,Apple Serviceberry,5,9/30/2019 12:00:00 AM,-73.586062,45.49147,c15b887b-a810-4537-9eb0-5ceb196f3f4e
+4610,196622,Street,Avenue Selkirk,1617,AMGRAB,Amelanchier x grandiflora 'Autumn Brillance',Autumn Brillance Serviceberry,5,5/10/2016 12:00:00 AM,-73.583409,45.496127,9d04ce2f-4cad-44e6-91ba-e1e7ccf93eed
+4612,196624,Street,Avenue Selkirk,1619,AMGRAB,Amelanchier x grandiflora 'Autumn Brillance',Autumn Brillance Serviceberry,5,5/10/2016 12:00:00 AM,-73.583453,45.496077,70a771a6-c3b2-4764-a4d5-053142bce90e
+6496,198105,Street,Chemin Barat,3014,AMGRAB,Amelanchier x grandiflora 'Autumn Brillance',Autumn Brillance Serviceberry,5,10/6/2016 12:00:00 AM,-73.589029,45.49129,27eaa339-7ec3-46aa-b56c-514eea9ce8df
+6497,198106,Street,Chemin Barat,3030,AMGRAB,Amelanchier x grandiflora 'Autumn Brillance',Autumn Brillance Serviceberry,5,10/6/2016 12:00:00 AM,-73.589312,45.491034,4de009af-896a-45e2-ab4e-fad4a2e8e786
+6498,198107,Street,Chemin Barat,3030,AMGRAB,Amelanchier x grandiflora 'Autumn Brillance',Autumn Brillance Serviceberry,5,10/6/2016 12:00:00 AM,-73.589292,45.49106,d93a921b-6a03-4571-88f0-a6aa18c1381b
+6499,198108,Street,Chemin Barat,3030,AMGRAB,Amelanchier x grandiflora 'Autumn Brillance',Autumn Brillance Serviceberry,5,10/6/2016 12:00:00 AM,-73.589344,45.491004,5fb13008-51a3-4ca8-a175-57581be42f48
+6500,198109,Street,Chemin Barat,N/A,AMGRAB,Amelanchier x grandiflora 'Autumn Brillance',Autumn Brillance Serviceberry,5,10/6/2016 12:00:00 AM,-73.588914,45.491391,aaf35215-1a70-48c1-a225-6c8a08f37f0e
+10603,201029,Street,Rue Lambert-Closse,N/A,AMGRAB,Amelanchier x grandiflora 'Autumn Brillance',Autumn Brillance Serviceberry,5,9/30/2012 12:00:00 AM,-73.586372,45.491658,f1aedc89-6c16-4029-9f39-6a62a675a9d7
+10604,201030,Street,Rue Lambert-Closse,N/A,AMGRAB,Amelanchier x grandiflora 'Autumn Brillance',Autumn Brillance Serviceberry,5,9/30/2012 12:00:00 AM,-73.586132,45.491516,340e88f7-da28-4a61-b0e2-1977a8cf7061
+10605,201031,Street,Rue Lambert-Closse,N/A,AMGRAB,Amelanchier x grandiflora 'Autumn Brillance',Autumn Brillance Serviceberry,5,9/30/2012 12:00:00 AM,-73.58621,45.491561,fe0be49e-ca2e-44cf-a254-c9fd19031b59
+10606,201032,Street,Rue Lambert-Closse,N/A,AMGRAB,Amelanchier x grandiflora 'Autumn Brillance',Autumn Brillance Serviceberry,5,9/30/2012 12:00:00 AM,-73.586297,45.49161,1201ef37-9749-4343-81a7-aef69e8ed3e5
+10608,201034,Street,Rue Lambert-Closse,N/A,AMGRAB,Amelanchier x grandiflora 'Autumn Brillance',Autumn Brillance Serviceberry,5,9/30/2012 12:00:00 AM,-73.586616,45.491804,aae8ed30-a5f2-4309-8ad8-12119499e8e7
+10609,201035,Street,Rue Lambert-Closse,N/A,AMGRAB,Amelanchier x grandiflora 'Autumn Brillance',Autumn Brillance Serviceberry,5,9/30/2012 12:00:00 AM,-73.58679,45.491903,e57ef33a-ac3c-44c7-be39-a7c4c08edfb3
+10610,201036,Street,Rue Lambert-Closse,N/A,AMGRAB,Amelanchier x grandiflora 'Autumn Brillance',Autumn Brillance Serviceberry,5,9/30/2012 12:00:00 AM,-73.586532,45.491755,6696ded5-82d9-4fde-aa29-5a550daeeb3d
+10611,201037,Street,Rue Lambert-Closse,N/A,AMGRAB,Amelanchier x grandiflora 'Autumn Brillance',Autumn Brillance Serviceberry,5,9/30/2012 12:00:00 AM,-73.586706,45.491857,b1c30f82-d6ff-40f1-84e7-758008ee87b6
+7821,198658,Street,Chemin Saint-Sulpice,3130,BENIHE,Betula nigra 'Heritage',Heritage River Birch,5,9/21/2019 12:00:00 AM,-73.592454,45.492576,1c7c8437-dcd8-4c12-b2da-f80407e8973c
+10602,201028,Street,Rue Lambert-Closse,N/A,CRCO,Carya cordiformis,Bitternut Hickory,5,9/30/2019 12:00:00 AM,-73.586112,45.491486,2dd2b7a1-d5fb-4d50-8244-50103b05fe0c
+10618,201044,Street,Rue Lambert-Closse,N/A,CRCO,Carya cordiformis,Bitternut Hickory,5,9/17/2016 12:00:00 AM,-73.586181,45.491531,89357b91-f902-4897-8079-e0d41177b2eb
+10619,201045,Street,Rue Lambert-Closse,N/A,CRCO,Carya cordiformis,Bitternut Hickory,5,9/17/2016 12:00:00 AM,-73.586264,45.49158,44132202-2328-4645-b8d7-40ec7abde10a
+10620,201046,Street,Rue Lambert-Closse,N/A,CRCO,Carya cordiformis,Bitternut Hickory,5,9/17/2016 12:00:00 AM,-73.586344,45.491624,761c4d53-ea1c-45c2-bf44-72687779c6a7
+10621,201047,Street,Rue Lambert-Closse,N/A,CRCO,Carya cordiformis,Bitternut Hickory,5,9/17/2016 12:00:00 AM,-73.586426,45.491672,1ba59c19-523e-4dd1-a6e2-8a3dca17906c
+10622,201048,Street,Rue Lambert-Closse,N/A,CRCO,Carya cordiformis,Bitternut Hickory,5,9/17/2016 12:00:00 AM,-73.586505,45.491719,2cefda73-7a56-46e8-b957-5bc2327e05ff
+10623,201049,Street,Rue Lambert-Closse,N/A,CRCO,Carya cordiformis,Bitternut Hickory,5,9/17/2016 12:00:00 AM,-73.586587,45.491768,00cc3c58-8a2b-42e8-ad6d-3d177330a5d5
+10624,201050,Street,Rue Lambert-Closse,N/A,CRCO,Carya cordiformis,Bitternut Hickory,5,9/17/2016 12:00:00 AM,-73.586675,45.491818,d8cc06c6-267d-440a-bab3-4391661bd84b
+10625,201051,Street,Rue Lambert-Closse,N/A,CRCO,Carya cordiformis,Bitternut Hickory,5,9/17/2016 12:00:00 AM,-73.586763,45.49187,d3f22fb6-9e43-435b-bc75-7aae3b6f24ce
+10626,201052,Street,Rue Lambert-Closse,N/A,CRCO,Carya cordiformis,Bitternut Hickory,5,9/30/2019 12:00:00 AM,-73.58603,45.49144,86d1e274-25f1-4003-b77d-1d50115bc3ed
+13188,204412,Street,Rue Saint-Marc,2005,CTSP,Catalpa speciosa,Western Catalpa,6,1/12/2012 12:00:00 AM,-73.581803,45.493706,0e6c57d0-303f-4a5c-80ff-84a8312facdd
+4383,196006,Street,Avenue Hope,1187,CEOC,Celtis occidentalis,Common Hackberry,49,1/19/2012 12:00:00 AM,-73.580934,45.489788,0804fd7e-babb-4f86-b310-309305a2b5dc
+4619,196631,Street,Avenue Seymour,1165,CEOC,Celtis occidentalis,Common Hackberry,29,1/19/2012 12:00:00 AM,-73.579815,45.49005,69a26af2-50d1-4c83-b079-e8b100c0cd4f
+4629,196641,Street,Avenue Seymour,1181,CEOC,Celtis occidentalis,Common Hackberry,35,1/19/2012 12:00:00 AM,-73.580124,45.490194,f054f724-7abb-48d4-a77d-0ee15b164818
+4630,196642,Street,Avenue Seymour,1189,CEOC,Celtis occidentalis,Common Hackberry,31,1/19/2012 12:00:00 AM,-73.580207,45.490234,356336dc-0e5e-4bac-861e-88ecde7897d0
+4632,196644,Street,Avenue Seymour,1199,CEOC,Celtis occidentalis,Common Hackberry,27,1/19/2012 12:00:00 AM,-73.580497,45.490369,c03f4a1d-f328-458b-8bce-bebf8293c96a
+4634,196646,Street,Avenue Seymour,1215,CEOC,Celtis occidentalis,Common Hackberry,32,1/19/2012 12:00:00 AM,-73.580771,45.490504,1f00fe41-6c1a-4a5a-8948-f265e375470d
+4635,196647,Street,Avenue Seymour,1225,CEOC,Celtis occidentalis,Common Hackberry,20,1/19/2012 12:00:00 AM,-73.581038,45.490629,34e070d9-9247-4b1a-9e58-d5d8517bf933
+4636,196648,Street,Avenue Seymour,N/A,CEOC,Celtis occidentalis,Common Hackberry,44,1/19/2012 12:00:00 AM,-73.579593,45.489944,a19d449c-1aaf-40e6-94b4-b7e0ebfff543
+4637,196649,Street,Avenue Seymour,N/A,CEOC,Celtis occidentalis,Common Hackberry,38,1/19/2012 12:00:00 AM,-73.579719,45.490001,23cea345-7f6e-4730-80e5-8fd4f4b39b25
+4639,196651,Street,Avenue Seymour,1198,CEOC,Celtis occidentalis,Common Hackberry,36,1/19/2012 12:00:00 AM,-73.58044,45.490225,fff5b360-344c-49f2-bf05-b4fdb9347bbd
+4640,196652,Street,Avenue Seymour,1206,CEOC,Celtis occidentalis,Common Hackberry,36,1/19/2012 12:00:00 AM,-73.580586,45.490292,902c3f85-8b8b-4632-a169-16818e03b511
+4642,196654,Street,Avenue Seymour,1222,CEOC,Celtis occidentalis,Common Hackberry,24,1/19/2012 12:00:00 AM,-73.580849,45.490418,b7a59085-4631-4309-be97-38b8f6ad2cf4
+4644,196656,Street,Avenue Seymour,1226,CEOC,Celtis occidentalis,Common Hackberry,26,1/19/2012 12:00:00 AM,-73.581162,45.490566,88ffddf7-b898-49fe-b392-ea43f7c7a5d1
+4645,196657,Street,Avenue Seymour,1226,CEOC,Celtis occidentalis,Common Hackberry,24,1/19/2012 12:00:00 AM,-73.581072,45.490526,8d804cad-a2bd-442e-8d7c-59864fbc4d1f
+4646,196658,Street,Avenue Seymour,N/A,CEOC,Celtis occidentalis,Common Hackberry,34,1/19/2012 12:00:00 AM,-73.579999,45.490003,e2e6ab0f-1605-4007-afb7-6d593ed1eb7c
+4647,196659,Street,Avenue Seymour,N/A,CEOC,Celtis occidentalis,Common Hackberry,14,1/19/2012 12:00:00 AM,-73.579673,45.489848,2c8c11fc-1e2c-43b7-a2e1-dacb7bea57a8
+4648,196660,Street,Avenue Seymour,N/A,CEOC,Celtis occidentalis,Common Hackberry,29,1/19/2012 12:00:00 AM,-73.579806,45.48991,9386c4d1-0dbc-4477-a81f-8876f2f80344
+4649,196661,Street,Avenue Seymour,N/A,CEOC,Celtis occidentalis,Common Hackberry,40,1/19/2012 12:00:00 AM,-73.579899,45.489954,a15d56db-7428-4c78-984c-b6851709053d
+4650,196662,Street,Avenue Seymour,N/A,CEOC,Celtis occidentalis,Common Hackberry,30,1/19/2012 12:00:00 AM,-73.58009,45.490044,7fe09b96-f0ee-4a36-9c18-e1af176226e4
+5005,196204,Street,Avenue Holton,3463,CEOC,Celtis occidentalis,Common Hackberry,49,2/29/2012 12:00:00 AM,-73.59001,45.491311,d9b8283e-d6a0-4e4d-b2a7-91c8e6f6489c
+5006,196205,Street,Avenue Holton,3469,CEOC,Celtis occidentalis,Common Hackberry,60,2/29/2012 12:00:00 AM,-73.590148,45.491347,68dd2083-ad66-4755-a66c-300f8288679c
+5010,196209,Street,Avenue Holton,3454,CEOC,Celtis occidentalis,Common Hackberry,62,2/29/2012 12:00:00 AM,-73.589798,45.491109,90a78cc0-433e-492d-a19e-fc1c8665d7ac
+5011,196210,Street,Avenue Holton,3458,CEOC,Celtis occidentalis,Common Hackberry,46,2/29/2012 12:00:00 AM,-73.589961,45.491176,05e29676-cfcf-4356-bf02-3bb4b357ae0e
+5012,196211,Street,Avenue Holton,3458,CEOC,Celtis occidentalis,Common Hackberry,51,2/29/2012 12:00:00 AM,-73.590106,45.491221,d005e9e6-5112-42a4-9d90-e7979e073e2f
+5013,196212,Street,Avenue Holton,3470,CEOC,Celtis occidentalis,Common Hackberry,46,2/29/2012 12:00:00 AM,-73.590441,45.491266,9c7dcebe-60c0-44e2-8242-f3651705bb42
+5014,196213,Street,Avenue Holton,3470,CEOC,Celtis occidentalis,Common Hackberry,52,10/17/2017 12:00:00 AM,-73.590312,45.491257,05434778-4b40-423a-839b-ef94acf4949f
+5015,196214,Street,Avenue Holton,3478,CEOC,Celtis occidentalis,Common Hackberry,58,10/17/2017 12:00:00 AM,-73.590536,45.491266,922cafac-b1c7-4033-bf65-cb28878f6a9c
+5016,196215,Street,Avenue Holton,3482,CEOC,Celtis occidentalis,Common Hackberry,54,10/17/2017 12:00:00 AM,-73.59077,45.491252,c40850f9-0b88-4a49-b246-1b46dc603341
+5017,196216,Street,Avenue Holton,3488,CEOC,Celtis occidentalis,Common Hackberry,66,10/17/2017 12:00:00 AM,-73.590891,45.491238,6ac6cb05-fa5d-4a5f-9563-ddaa50fea7e9
+5019,196218,Street,Avenue Holton,N/A,CEOC,Celtis occidentalis,Common Hackberry,64,2/29/2012 12:00:00 AM,-73.589693,45.491056,1e0d09cf-89a0-4942-b2d2-e852c2e73e9c
+5030,196229,Street,Avenue Hope,N/A,CEOC,Celtis occidentalis,Common Hackberry,28,1/19/2012 12:00:00 AM,-73.580509,45.489591,eb1e2bab-bb2f-4fec-b317-8f955cab8076
+5037,196236,Street,Avenue Hope,N/A,CEOC,Celtis occidentalis,Common Hackberry,30,1/19/2012 12:00:00 AM,-73.580376,45.489531,3e8f9508-d811-4675-ada4-cb8cb47a2e3e
+7671,198508,Street,Chemin De Breslay,3030,CEOC,Celtis occidentalis,Common Hackberry,10,2/10/2021 12:00:00 AM,-73.590665,45.491734,0db6899b-307f-4153-a25c-3db19bea740b
+7983,198820,Street,Boulevard de Maisonneuve Ouest,1945,CEOC,Celtis occidentalis,Common Hackberry,34,3/6/2012 12:00:00 AM,-73.582481,45.493018,e5de91ae-93ad-4741-91b7-08cf58fa9159
+7996,198833,Street,Boulevard de Maisonneuve Ouest,2305,CEOC,Celtis occidentalis,Common Hackberry,24,3/6/2012 12:00:00 AM,-73.585055,45.490815,ec4e0dd9-4cf9-4785-a179-7a0aa0fb8cc2
+7997,198834,Street,Boulevard de Maisonneuve Ouest,2325,CEOC,Celtis occidentalis,Common Hackberry,20,10/26/2016 12:00:00 AM,-73.585407,45.490518,9d9c421a-71ed-4c3f-bcbf-dfb9fe602556
+13028,204252,Street,Rue Saint-Mathieu,1194,CEOC,Celtis occidentalis,Common Hackberry,5,1/10/2012 12:00:00 AM,-73.577613,45.492791,1a5c55f6-5419-4844-87ad-0b57bce1dee3
+13156,204380,Street,Rue Saint-Mathieu,1258,CEOC,Celtis occidentalis,Common Hackberry,14,10/5/2011 12:00:00 AM,-73.578672,45.493403,bbd19358-d7af-4841-87ca-a6ddf70d0acb
+13595,204015,Street,Rue Sainte-Catherine Ouest,1931,CEOC,Celtis occidentalis,Common Hackberry,16,3/6/2012 12:00:00 AM,-73.580935,45.492497,c18a8f7d-5f9f-4b0a-8cae-84cca32393b6
+14347,205182,Street,Rue Tupper,1847,CEOC,Celtis occidentalis,Common Hackberry,13,8/2/2006 12:00:00 AM,-73.579264,45.492601,d5e91172-532c-4e80-9666-49c2110e6934
+14356,205191,Street,Rue Tupper,2055,CEOC,Celtis occidentalis,Common Hackberry,13.8,7/29/2021 1:57:06 PM,-73.581039,45.491012,2fe2197d-31dc-4971-a52a-6f192a815954
+14361,205196,Street,Rue Tupper,2121,CEOC,Celtis occidentalis,Common Hackberry,22,1/19/2012 12:00:00 AM,-73.581761,45.490404,9acab215-8806-4a30-9efa-e4be172909ab
+14366,205201,Street,Rue Tupper,2165,CEOC,Celtis occidentalis,Common Hackberry,32,1/19/2012 12:00:00 AM,-73.582006,45.490217,90456830-e2aa-4daf-83f4-8c0ce0ec73b3
+14368,205203,Street,Rue Tupper,1804,CEOC,Celtis occidentalis,Common Hackberry,18,1/19/2012 12:00:00 AM,-73.578479,45.493155,301a0fe0-cef0-4380-9385-aecef1aa1586
+14370,205205,Street,Rue Tupper,1820,CEOC,Celtis occidentalis,Common Hackberry,22,1/19/2012 12:00:00 AM,-73.578746,45.492921,b68739e9-6a45-4bd3-a520-7b993dd6c2e5
+14371,205206,Street,Rue Tupper,1824,CEOC,Celtis occidentalis,Common Hackberry,24,1/19/2012 12:00:00 AM,-73.578842,45.49284,fdb4a952-e541-4ceb-8edc-79f8365ce04d
+14376,205211,Street,Rue Tupper,1900,CEOC,Celtis occidentalis,Common Hackberry,25,1/19/2012 12:00:00 AM,-73.579664,45.492048,f129c4bf-c868-4ba0-ae88-1bc828287c6a
+14377,205212,Street,Rue Tupper,1938,CEOC,Celtis occidentalis,Common Hackberry,29,1/19/2012 12:00:00 AM,-73.58003,45.491737,28385a0a-26a3-4582-9436-5485a7a92e6d
+14380,205215,Street,Rue Tupper,1958,CEOC,Celtis occidentalis,Common Hackberry,13,1/19/2012 12:00:00 AM,-73.58041,45.491413,5453fbb8-64e4-4bb8-9de4-c8bcb64dc5c5
+14382,205217,Street,Rue Tupper,2064,CEOC,Celtis occidentalis,Common Hackberry,5,5/5/2010 12:00:00 AM,-73.58083,45.490972,a8e5971b-5a89-4ef3-ac43-34410338613c
+14385,205220,Street,Rue Tupper,2112,CEOC,Celtis occidentalis,Common Hackberry,31,1/19/2012 12:00:00 AM,-73.581472,45.490456,ac577974-8a6e-4fb5-9ac2-39afb1583255
+14387,205222,Street,Rue Tupper,2134,CEOC,Celtis occidentalis,Common Hackberry,6,1/19/2012 12:00:00 AM,-73.58174,45.490242,080b6160-aa55-4160-ad05-51c9672b4e39
+15320,205739,Street,Rue Sussex,N/A,CEOC,Celtis occidentalis,Common Hackberry,10,2/17/2015 12:00:00 AM,-73.58125,45.489399,bfe7466a-f1f9-421f-a548-c7536536da63
+13667,204504,Street,Rue Saint-Mathieu,1420,CDJA,Cercidiphyllum japonicum,Katsura Tree,5,11/9/2017 12:00:00 AM,-73.579862,45.49411,b01976f2-c083-4651-884d-8397fc8a3d95
+3347,43850,Parc,HENRI-DUNANT,N/A,CG,Crataegus,Hawthorn,9,7/14/2017 12:00:00 AM,-73.582252,45.489742,52bf721b-b14e-4825-9156-f312c5865d44
+3345,43848,Parc,HENRI-DUNANT,N/A,CGMO,Crataegus x mordensis,Hawthorn,6,7/14/2017 12:00:00 AM,-73.58221,45.489725,10cad761-6983-43db-9859-0efa2aafa26b
+2913,43019,Parc,SAINTE-CATHERINE/ARRIÈRE 1901-1933,N/A,FR,Fraxinus,Ash,24,3/16/2016 12:00:00 AM,-73.581129,45.492841,c0ed358c-edc5-4f4f-bd94-4752ce9e6efe
+3019,43125,Parc,SAINTE-CATHERINE/ARRIÈRE 1901-1933,N/A,FR,Fraxinus,Ash,23,3/16/2016 12:00:00 AM,-73.581119,45.492803,c12bf881-2f4d-41bc-9e54-a123f5d2e256
+3030,43136,Parc,SAINTE-CATHERINE/ARRIÈRE 1901-1933,N/A,FR,Fraxinus,Ash,23,3/16/2016 12:00:00 AM,-73.581077,45.492818,b41cf240-1f4b-465a-95ea-46a992351a6b
+3038,43144,Parc,SAINTE-CATHERINE/ARRIÈRE 1901-1933,N/A,FR,Fraxinus,Ash,28,3/16/2016 12:00:00 AM,-73.581053,45.492807,6b9d76b4-e301-422d-8c94-3a20a393c4bd
+3047,43153,Parc,SAINTE-CATHERINE/ARRIÈRE 1901-1933,N/A,FR,Fraxinus,Ash,24,3/16/2016 12:00:00 AM,-73.581047,45.492799,9e277426-1fec-427d-8a37-42213d967b61
+3049,43155,Parc,SAINTE-CATHERINE/ARRIÈRE 1901-1933,N/A,FR,Fraxinus,Ash,25,3/16/2016 12:00:00 AM,-73.581074,45.492785,5f10a6dd-daf3-46c3-bb10-f39760f2dc57
+3266,43769,Parc,SAINTE-CATHERINE/ARRIÈRE 1901-1933,N/A,FR,Fraxinus,Ash,24,3/16/2016 12:00:00 AM,-73.581232,45.492753,b50ba4f1-6457-4874-9f5e-7d67a89c1fa8
+3267,43770,Parc,SAINTE-CATHERINE/ARRIÈRE 1901-1933,N/A,FR,Fraxinus,Ash,21,3/16/2016 12:00:00 AM,-73.581117,45.492848,827f3876-f3df-4892-a2a0-8df1a8aac02c
+11101,201919,Street,Rue Lambert-Closse,2045,FRPE,Fraxinus pennsylvanica,Red Ash,36,9/30/2014 12:00:00 AM,-73.585277,45.491189,c3ce684d-a3aa-4871-a64c-73c6d00141e5
+11108,201926,Street,Rue Lambert-Closse,2211,FRPE,Fraxinus pennsylvanica,Red Ash,27,9/30/2014 12:00:00 AM,-73.586272,45.491768,3208066b-2e13-4099-af4e-93407bd60f57
+13664,204501,Street,Rue Saint-Mathieu,1420,FRPE,Fraxinus pennsylvanica,Red Ash,31.2,10/3/2014 12:00:00 AM,-73.580222,45.494301,feef55b8-1b4c-4314-983e-72f36b624410
+13669,204506,Street,Rue Saint-Mathieu,1448,FRPE,Fraxinus pennsylvanica,Red Ash,24,10/17/2014 12:00:00 AM,-73.580351,45.494378,376244aa-7b1f-42ed-a57c-4ce696d9251f
+13670,204507,Street,Rue Saint-Mathieu,1456,FRPE,Fraxinus pennsylvanica,Red Ash,19,10/3/2014 12:00:00 AM,-73.580454,45.494436,eec5475e-fea7-481a-be47-d01088f0337f
+14357,205192,Street,Rue Tupper,2077,FRPE,Fraxinus pennsylvanica,Red Ash,35,9/30/2014 12:00:00 AM,-73.581133,45.49094,23ac1cfc-ffc2-4351-b955-9daf8be4ed04
+14358,205193,Street,Rue Tupper,2085,FRPE,Fraxinus pennsylvanica,Red Ash,49,9/30/2014 12:00:00 AM,-73.5812,45.490886,f6330bb9-bbcf-44eb-8ef5-c8f8b7414583
+14372,205207,Street,Rue Tupper,1836,FRPE,Fraxinus pennsylvanica,Red Ash,25,1/19/2012 12:00:00 AM,-73.57897,45.492728,8a7400f1-e42e-4dc9-968b-46adbd6f865a
+15319,205738,Street,Rue Sussex,N/A,FRPE,Fraxinus pennsylvanica,Red Ash,48,9/30/2014 12:00:00 AM,-73.580942,45.489253,9fe29766-2432-45f3-90df-3ead8bf33523
+15321,205740,Street,Rue Sussex,N/A,FRPE,Fraxinus pennsylvanica,Red Ash,38,6/24/2015 12:00:00 AM,-73.58109,45.48932,106c1638-0392-4450-9e9d-ce7e123ba9af
+15530,205949,Street,Rue Sherbrooke Ouest,N/A,FRPE,Fraxinus pennsylvanica,Red Ash,23,10/2/2014 12:00:00 AM,-73.587383,45.491869,81f04eb9-574c-45d2-a935-ee47c392a5bb
+15539,205958,Street,Rue Sherbrooke Ouest,N/A,FRPE,Fraxinus pennsylvanica,Red Ash,30,10/2/2014 12:00:00 AM,-73.586299,45.492543,317e2b94-47d8-432a-9495-74b59404d32b
+13631,204468,Street,Rue Saint-Mathieu,N/A,FRPEMS,Fraxinus pennsylvanica 'Marshall Seedless',Marshall Seedless Red Ash,29,10/1/2014 12:00:00 AM,-73.57794,45.493167,feb2b417-50ee-4147-8ec9-2926a8558653
+13632,204469,Street,Rue Saint-Mathieu,N/A,FRPEMS,Fraxinus pennsylvanica 'Marshall Seedless',Marshall Seedless Red Ash,35,10/1/2014 12:00:00 AM,-73.578028,45.49322,9e5a2375-77ae-468c-8747-1b4383d74f47
+13633,204470,Street,Rue Saint-Mathieu,N/A,FRPEMS,Fraxinus pennsylvanica 'Marshall Seedless',Marshall Seedless Red Ash,37,10/1/2014 12:00:00 AM,-73.578149,45.493292,4b9b596a-49b5-45af-8d4a-348d7ed9a5f0
+13635,204472,Street,Rue Saint-Mathieu,N/A,FRPEMS,Fraxinus pennsylvanica 'Marshall Seedless',Marshall Seedless Red Ash,0,1/1/1900 12:00:00 AM,-73.578446,45.493464,a23ba2da-3453-428b-833b-5f3a042b099b
+14359,205194,Street,Rue Tupper,2105,FRPEMS,Fraxinus pennsylvanica 'Marshall Seedless',Marshall Seedless Red Ash,32,9/30/2014 12:00:00 AM,-73.581446,45.490688,2296e9fb-c5ed-449e-8a2c-65771be6834b
+14360,205195,Street,Rue Tupper,2115,FRPEMS,Fraxinus pennsylvanica 'Marshall Seedless',Marshall Seedless Red Ash,38,9/30/2014 12:00:00 AM,-73.581538,45.490584,da25acc6-35c9-4eb6-8187-0b47244541a4
+14381,205216,Street,Rue Tupper,2060,FRPEMS,Fraxinus pennsylvanica 'Marshall Seedless',Marshall Seedless Red Ash,19,9/30/2014 12:00:00 AM,-73.580749,45.491039,d6fa3f4b-6bf6-4afb-a5ec-73b9a57be409
+14383,205218,Street,Rue Tupper,2086,FRPEMS,Fraxinus pennsylvanica 'Marshall Seedless',Marshall Seedless Red Ash,31,9/30/2014 12:00:00 AM,-73.581047,45.4908,62057449-93f5-4691-9366-f6aa60e6e073
+14384,205219,Street,Rue Tupper,2104,FRPEMS,Fraxinus pennsylvanica 'Marshall Seedless',Marshall Seedless Red Ash,33,9/30/2014 12:00:00 AM,-73.581357,45.490553,0e8575c0-ad57-49ba-b23c-983cc055cd6c
+14386,205221,Street,Rue Tupper,2116,FRPEMS,Fraxinus pennsylvanica 'Marshall Seedless',Marshall Seedless Red Ash,31,9/30/2014 12:00:00 AM,-73.58156,45.490391,77538907-f28f-4330-b2b2-4755afef5352
+14390,205225,Street,Rue Tupper,N/A,FRPESU,Fraxinus pennsylvanica 'Summit',Summit Red Ash,22,9/30/2014 12:00:00 AM,-73.58059,45.49116,a60fb4c3-13a1-40c8-9830-3a6fc222bb8a
+692,41996,Parc,HECTOR-TOE-BLAKE,N/A,GIBI,Ginkgo biloba,Maidenhair Tree,5,9/21/2015 12:00:00 AM,-73.581028,45.489336,dd90300d-02c4-4c2e-b750-ff6672441db0
+693,41997,Parc,HECTOR-TOE-BLAKE,N/A,GIBI,Ginkgo biloba,Maidenhair Tree,5,9/21/2015 12:00:00 AM,-73.581084,45.48936,1ba5eb17-d15b-4641-910e-cccb2a296c90
+694,41998,Parc,HECTOR-TOE-BLAKE,N/A,GIBI,Ginkgo biloba,Maidenhair Tree,5,9/21/2015 12:00:00 AM,-73.581142,45.48939,3ff88346-426f-4d34-856b-df1ca6ec30b9
+2169,43498,Parc,HECTOR-TOE-BLAKE,N/A,GIBI,Ginkgo biloba,Maidenhair Tree,20,1/27/2017 12:00:00 AM,-73.580817,45.489235,812b5706-7314-411f-89f6-6014b16010a7
+2259,43588,Parc,HECTOR-TOE-BLAKE,N/A,GIBI,Ginkgo biloba,Maidenhair Tree,16,1/27/2017 12:00:00 AM,-73.5809,45.489275,3e081cad-1565-4348-be1c-56afc6deeb4c
+2344,43673,Parc,HECTOR-TOE-BLAKE,N/A,GIBI,Ginkgo biloba,Maidenhair Tree,20,1/27/2017 12:00:00 AM,-73.580972,45.489311,62cdbd14-749b-41c9-a293-a005df74b6ea
+9584,200400,Street,Rue Chomedey,1405,GIBI,Ginkgo biloba,Maidenhair Tree,5,6/11/2018 12:00:00 AM,-73.582727,45.491083,54a6582a-7928-41a2-8a16-85928d20c5e9
+9599,200415,Street,Rue Chomedey,2255,GIBI,Ginkgo biloba,Maidenhair Tree,5,4/23/2010 12:00:00 AM,-73.584991,45.492388,fd00a17b-18cf-4b0b-b1e4-ea07ac846509
+9600,200416,Street,Rue Chomedey,2255,GIBI,Ginkgo biloba,Maidenhair Tree,5,4/23/2010 12:00:00 AM,-73.585153,45.492482,0ba2f7ac-54a2-4a14-ac34-2bddf22ff7c9
+9601,200417,Street,Rue Chomedey,2305,GIBI,Ginkgo biloba,Maidenhair Tree,5,4/23/2010 12:00:00 AM,-73.585347,45.492592,11f5706d-4f06-42fb-bafc-20bcd2053e3b
+9602,200418,Street,Rue Chomedey,2305,GIBI,Ginkgo biloba,Maidenhair Tree,5,4/23/2010 12:00:00 AM,-73.585459,45.492661,d7561d36-c6a9-4a8d-b423-715e5bd4db1a
+13176,204400,Street,Rue Saint-Marc,1237,GIBI,Ginkgo biloba,Maidenhair Tree,5,1/12/2012 12:00:00 AM,-73.579207,45.492201,856d73d3-e9c5-4b88-a06b-c05d4e8df1f4
+13206,204430,Street,Rue Saint-Marc,1254,GIBI,Ginkgo biloba,Maidenhair Tree,5,5/30/2019 12:00:00 AM,-73.579829,45.492403,f4b0d958-7e6c-4d32-a4ca-fdafc8601ad5
+13207,204431,Street,Rue Saint-Marc,1254,GIBI,Ginkgo biloba,Maidenhair Tree,5,5/31/2021 12:00:00 AM,-73.579754,45.492356,783b84fd-e109-4eec-811f-b55c263f4564
+15120,206336,Street,Rue du Fort,N/A,GIBI,Ginkgo biloba,Maidenhair Tree,7,9/25/2019 12:00:00 AM,-73.579001,45.490307,ba2177c3-c682-47c6-8bbf-190e823615fd
+4638,196650,Street,Avenue Seymour,1190,GIBIAG,Ginkgo biloba 'Autumn Gold',Autumn Gold Maidenhair Tree,5,5/5/2016 12:00:00 AM,-73.580294,45.490158,79eb5897-5a3d-48b2-a9bd-0b8b326e6efb
+4641,196653,Street,Avenue Seymour,1214,GIBIAG,Ginkgo biloba 'Autumn Gold',Autumn Gold Maidenhair Tree,5,5/5/2016 12:00:00 AM,-73.580783,45.490387,b969b15c-f43a-4c07-8d1a-2f2c350537c5
+4643,196655,Street,Avenue Seymour,1226,GIBIAG,Ginkgo biloba 'Autumn Gold',Autumn Gold Maidenhair Tree,5,5/5/2016 12:00:00 AM,-73.580916,45.490454,56495e23-9214-4379-b6f2-432c42911e58
+7811,198648,Street,Chemin Saint-Sulpice,3028,GIBIAG,Ginkgo biloba 'Autumn Gold',Autumn Gold Maidenhair Tree,5,5/5/2016 12:00:00 AM,-73.591173,45.493155,51640504-b16b-4ad7-9f41-6922a6305c92
+7812,198649,Street,Chemin Saint-Sulpice,3054,GIBIAG,Ginkgo biloba 'Autumn Gold',Autumn Gold Maidenhair Tree,5,5/9/2016 12:00:00 AM,-73.59039,45.493837,c8960ddb-dcc6-4f23-9bd3-0878a7bd2f58
+7813,198650,Street,Chemin Saint-Sulpice,3060,GIBIAG,Ginkgo biloba 'Autumn Gold',Autumn Gold Maidenhair Tree,5,5/5/2016 12:00:00 AM,-73.59056,45.493681,3cc37532-ee99-4240-8226-477ae2d7fc83
+2140,43469,Parc,CABOT,N/A,GLTR,Gleditsia triacanthos,Common Honey-Locust,38,12/5/2016 12:00:00 AM,-73.583294,45.489379,26eaf24f-305c-4070-8843-aa4c3e557bed
+2151,43480,Parc,CABOT,N/A,GLTR,Gleditsia triacanthos,Common Honey-Locust,45,12/5/2016 12:00:00 AM,-73.583404,45.489396,8b257bdb-4f4a-46bf-9b82-bac030d534e2
+2158,43487,Parc,CABOT,N/A,GLTR,Gleditsia triacanthos,Common Honey-Locust,43,12/5/2016 12:00:00 AM,-73.583303,45.489439,58e2a4ce-fcd1-4bd7-940d-aa8675bbb058
+2167,43496,Parc,CABOT,N/A,GLTR,Gleditsia triacanthos,Common Honey-Locust,39,12/5/2016 12:00:00 AM,-73.58321,45.489435,5aa56adb-9787-400b-bfe1-81fea7d7f94a
+2371,43700,Parc,CABOT,N/A,GLTR,Gleditsia triacanthos,Common Honey-Locust,51,12/5/2016 12:00:00 AM,-73.58399,45.48915,7479f4bd-0eba-4ed6-8afc-2b9657743018
+3304,43807,Parc,CABOT,N/A,GLTR,Gleditsia triacanthos,Common Honey-Locust,37,12/5/2016 12:00:00 AM,-73.583789,45.489702,c232b778-f638-429f-9e9f-8c7ec9b7139b
+3312,43815,Parc,CABOT,N/A,GLTR,Gleditsia triacanthos,Common Honey-Locust,40,12/5/2016 12:00:00 AM,-73.583715,45.489701,d362c905-5815-4ac3-a619-25f91832d5ce
+3329,43832,Parc,CABOT,N/A,GLTR,Gleditsia triacanthos,Common Honey-Locust,45,12/5/2016 12:00:00 AM,-73.583514,45.489735,c1d80af2-56ac-4d0a-b2eb-ddc85ed5bda1
+3434,43937,Parc,CABOT,N/A,GLTR,Gleditsia triacanthos,Common Honey-Locust,40,12/5/2016 12:00:00 AM,-73.58353,45.489372,6e206064-c062-4a4d-92ec-d0a31a9634bc
+3435,43938,Parc,CABOT,N/A,GLTR,Gleditsia triacanthos,Common Honey-Locust,38,12/5/2016 12:00:00 AM,-73.583667,45.489363,a34c6f7b-5144-44ae-9ae2-8a6a2b7e9929
+3439,43942,Parc,CABOT,N/A,GLTR,Gleditsia triacanthos,Common Honey-Locust,36,12/5/2016 12:00:00 AM,-73.583797,45.488992,402ac547-deee-4b81-9b9c-78a9f33d4433
+3441,43944,Parc,CABOT,N/A,GLTR,Gleditsia triacanthos,Common Honey-Locust,36,12/5/2016 12:00:00 AM,-73.58395,45.489351,fbe5df23-df6e-4827-9847-6c1d26f9c3f2
+4314,195937,Street,Avenue Atwater,N/A,GLTR,Gleditsia triacanthos,Common Honey-Locust,20,2/9/2012 12:00:00 AM,-73.583504,45.488477,a9ba32f2-695b-4dbf-88cc-d7ce9d621218
+4315,195938,Street,Avenue Atwater,N/A,GLTR,Gleditsia triacanthos,Common Honey-Locust,20,2/9/2012 12:00:00 AM,-73.583574,45.488554,2048b5ce-fcdb-4fe1-8057-d96bef5770b7
+4316,195939,Street,Avenue Atwater,N/A,GLTR,Gleditsia triacanthos,Common Honey-Locust,20,2/9/2012 12:00:00 AM,-73.583949,45.48888,3d62786b-a982-4065-b911-406652d1db5f
+4317,195940,Street,Avenue Atwater,N/A,GLTR,Gleditsia triacanthos,Common Honey-Locust,20,2/9/2012 12:00:00 AM,-73.584036,45.488948,e7a94e54-5913-4cc8-97d3-2692e8aa8c9e
+4318,195941,Street,Avenue Atwater,N/A,GLTR,Gleditsia triacanthos,Common Honey-Locust,20,2/9/2012 12:00:00 AM,-73.584194,45.489078,a65ba4b0-77de-49de-9128-18058515d74f
+4319,195942,Street,Avenue Atwater,N/A,GLTR,Gleditsia triacanthos,Common Honey-Locust,20,2/9/2012 12:00:00 AM,-73.584276,45.489141,36bbcd09-740c-4a42-944a-4d5f0403e150
+4295,195758,Street,Avenue Atwater,N/A,GLTRNA,Gleditsia triacanthos 'Northern Acclaim',Northern Acclaim Honey-Locust,5,11/23/2016 12:00:00 AM,-73.58504,45.489652,573fd003-7a92-438f-aca7-3afc77956aa5
+4296,195761,Street,Avenue Atwater,N/A,GLTRNA,Gleditsia triacanthos 'Northern Acclaim',Northern Acclaim Honey-Locust,5,11/23/2016 12:00:00 AM,-73.585282,45.489793,a058dc6d-aed9-425d-9035-8814db13a85b
+4299,195922,Street,Avenue Atwater,N/A,GLTRNA,Gleditsia triacanthos 'Northern Acclaim',Northern Acclaim Honey-Locust,5,11/23/2016 12:00:00 AM,-73.585581,45.489968,0e9e17c4-89df-43a4-bff8-548a33b20c81
+7977,198814,Street,Boulevard de Maisonneuve Ouest,1845,GLTRNA,Gleditsia triacanthos 'Northern Acclaim',Northern Acclaim Honey-Locust,5,11/1/2016 12:00:00 AM,-73.581223,45.49408,034daeb5-7431-4a3b-bfd1-a5d3e28afee1
+3428,43931,Parc,CABOT,N/A,GLTRSH,Gleditsia triacanthos 'Shademaster',Shademaster Honey-Locust,5,9/12/2019 12:00:00 AM,-73.583414,45.489624,360e75ce-74ef-4950-8b30-685223ed7f52
+1744,41076,Parc,CÔTE-DES-NEIGES/D. PENFIELD,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,9/16/2012 12:00:00 AM,-73.586463,45.496259,74e046a0-4363-484b-b85f-88055f11ca88
+2085,43414,Parc,CABOT,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,24,12/5/2016 12:00:00 AM,-73.583251,45.489659,bbcd8eea-f8a4-43fc-9a22-456766b89a60
+2134,43463,Parc,CABOT,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,15,12/12/2016 12:00:00 AM,-73.583356,45.489349,37ab667d-fba8-4ba9-bded-1a2c9784f036
+2269,43598,Parc,CABOT,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,27,12/5/2016 12:00:00 AM,-73.58361,45.489139,a0ead332-f90f-41f1-9737-89475bfe8c74
+2349,43678,Parc,CABOT,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,17,12/5/2016 12:00:00 AM,-73.58343,45.489292,95e5785e-dcb7-4101-b365-070991b77417
+2360,43689,Parc,CABOT,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,19,12/5/2016 12:00:00 AM,-73.583841,45.48909,1dce16b2-0a15-4d44-a8ba-f21df5dcaa15
+3197,43303,Parc,CABOT,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,21,12/5/2016 12:00:00 AM,-73.583141,45.48954,288647ff-5f81-48bd-abfe-144ac4703a9a
+3206,43312,Parc,CABOT,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,20,12/5/2016 12:00:00 AM,-73.583124,45.489604,8a22f388-e4a8-40c6-9c0f-0059bef790e6
+3341,43844,Parc,HENRI-DUNANT,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,27,1/27/2017 12:00:00 AM,-73.582135,45.489694,6a868e61-d068-41f9-a4c2-8dd0a7669513
+3348,43851,Parc,HENRI-DUNANT,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,31,1/27/2017 12:00:00 AM,-73.582343,45.489697,5fdde826-1305-4a36-8e45-112b2c0d31f2
+3423,43926,Parc,CABOT,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,12,12/5/2016 12:00:00 AM,-73.583489,45.489782,b2b4a4a9-ded7-4892-90cc-b08051644a46
+3430,43933,Parc,CABOT,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,31,12/5/2016 12:00:00 AM,-73.583341,45.489571,2b9434a9-5e18-4eba-9471-6e85c3061787
+3432,43935,Parc,CABOT,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,32,12/5/2016 12:00:00 AM,-73.583263,45.489501,14a5ce04-db42-423f-8185-876ecd21f98b
+3436,43939,Parc,CABOT,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,15,12/5/2016 12:00:00 AM,-73.583606,45.489296,d6238ee1-17f8-49d7-acdd-5631e4bb74a6
+3437,43940,Parc,CABOT,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,21,12/5/2016 12:00:00 AM,-73.583679,45.489271,30e3550b-8ac1-4358-b191-0173a2680eae
+3438,43941,Parc,CABOT,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,20,12/5/2016 12:00:00 AM,-73.583714,45.48914,d1a10461-91be-45e9-87db-3f63b186fe49
+3440,43943,Parc,CABOT,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,31,12/5/2016 12:00:00 AM,-73.584065,45.489201,b81d85f0-6beb-4ca0-b448-e8f95856985a
+4288,195732,Street,Avenue Atwater,2111,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,4/20/2010 12:00:00 AM,-73.587184,45.491018,210238ef-c71f-443b-9b7e-a2d9353f4b9f
+4292,195746,Street,Avenue Atwater,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,9/16/2012 12:00:00 AM,-73.584711,45.489458,29a2e020-6225-49c5-a9d7-25160a2d2124
+4293,195749,Street,Avenue Atwater,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,7/9/2013 12:00:00 AM,-73.584811,45.489517,d4969594-ba8a-48db-8d0f-b72a8ce6901e
+4294,195756,Street,Avenue Atwater,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,7/9/2013 12:00:00 AM,-73.584918,45.489579,c51177b1-1cf5-4d70-a5ab-843f27116a80
+4297,195863,Street,Avenue Atwater,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,7/9/2013 12:00:00 AM,-73.585388,45.489854,13823b03-3495-415f-aacd-75472efc7de2
+4298,195921,Street,Avenue Atwater,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,7/9/2013 12:00:00 AM,-73.585499,45.48992,d7573b47-0a8c-4d9c-abee-121613173573
+5007,196206,Street,Avenue Holton,3471,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,15,2/29/2012 12:00:00 AM,-73.590299,45.491369,7bc9e9b9-07a3-4cca-adb7-400f441c837f
+6613,198222,Street,Boulevard René-Lévesque Ouest,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,9/28/2015 12:00:00 AM,-73.575876,45.493144,24d9d56e-332e-4aee-bdb7-b5723f3c4d09
+7894,198731,Street,Chemin de la Côte-des-Neiges,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,2/16/2015 12:00:00 AM,-73.583204,45.49636,ca52db99-b0a1-4500-81c2-212690c40309
+7895,198732,Street,Chemin de la Côte-des-Neiges,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,2/16/2015 12:00:00 AM,-73.583321,45.49636,84dcbb17-4c5f-4802-ac9d-71b9bb62b1d7
+7970,198807,Street,Boulevard de Maisonneuve Ouest,1625,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,5/11/2015 12:00:00 AM,-73.579673,45.495413,aaa3a48c-8ab9-438d-8a4f-543eea2b1a29
+7971,198808,Street,Boulevard de Maisonneuve Ouest,1625,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,6/16/2013 12:00:00 AM,-73.579518,45.495539,8bc407d1-4441-4d11-9a8c-06af8fbda17f
+7972,198809,Street,Boulevard de Maisonneuve Ouest,1645,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,6/16/2013 12:00:00 AM,-73.579883,45.495219,3c4505c7-1c52-4d5b-afc9-0bf8ba1f5c6c
+7975,198812,Street,Boulevard de Maisonneuve Ouest,1675,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,6/16/2013 12:00:00 AM,-73.580367,45.494809,26fedd67-3dc2-4fc4-ab89-74dbf72ad6f9
+7976,198813,Street,Boulevard de Maisonneuve Ouest,1685,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,6/16/2013 12:00:00 AM,-73.580434,45.494751,9e63de05-4816-427e-8098-852cc2d6b4ea
+7978,198815,Street,Boulevard de Maisonneuve Ouest,1857,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,8,3/6/2012 12:00:00 AM,-73.58149,45.493851,8f0edc9c-7d2e-4102-a48e-1d5e07a8109e
+7980,198817,Street,Boulevard de Maisonneuve Ouest,1857,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,5/25/2011 12:00:00 AM,-73.581623,45.493733,22e993ad-22f1-40c5-bb88-2bc6c288bd84
+10581,201007,Street,Rue Lambert-Closse,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,5/21/2021 12:00:00 AM,-73.58415,45.490542,2bbaba56-63be-4dc0-b1ad-2837005db755
+10584,201010,Street,Rue Lambert-Closse,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,10/24/2018 12:00:00 AM,-73.583961,45.490425,f9c04ca0-955c-4e4c-912d-a131a4b1c98b
+10587,201013,Street,Rue Lambert-Closse,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,18,1/12/2012 12:00:00 AM,-73.584091,45.490503,cda4434b-2428-4591-a02d-256fb036cd48
+10591,201017,Street,Rue Lambert-Closse,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,5/21/2021 12:00:00 AM,-73.583745,45.490304,ac5c2c02-a98d-4856-85a1-4301519a4d96
+11095,201913,Street,Rue Lambert-Closse,1445,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,27,1/12/2012 12:00:00 AM,-73.584388,45.490686,7445041f-ff6a-4a95-afc2-bd2ee96a0b21
+11096,201914,Street,Rue Lambert-Closse,1451,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,9/30/2019 12:00:00 AM,-73.584507,45.490748,ac9d860f-2c74-4c5e-bfc0-fc52daa52b1e
+11097,201915,Street,Rue Lambert-Closse,1455,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,5/21/2021 12:00:00 AM,-73.584625,45.49082,85fb9285-5ca7-4363-9b41-8d3d2fdb8669
+11100,201918,Street,Rue Lambert-Closse,2045,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,10/23/2018 12:00:00 AM,-73.585178,45.49113,f61dc7c2-2f93-434d-9dd1-91e40d128348
+11102,201920,Street,Rue Lambert-Closse,2055,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,1/12/2012 12:00:00 AM,-73.585368,45.491238,83e1d7c6-1244-4678-86de-21aa8aef5a89
+12412,204038,Street,Rue Sainte-Catherine Ouest,2301,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,7/1/2015 12:00:00 AM,-73.584284,45.489606,ce5e2866-c745-44bf-b11b-a50d4aaf5bab
+12413,204039,Street,Rue Sainte-Catherine Ouest,2301,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,7/1/2015 12:00:00 AM,-73.584334,45.489561,46ea40b5-5bbb-4322-ab0c-5e1f19c80505
+12823,204047,Street,Rue Sainte-Catherine Ouest,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,17,7/1/2013 12:00:00 AM,-73.582958,45.490778,b50cd573-e933-42c4-a3f9-bbbe43e55284
+13086,204310,Street,Rue Sainte-Catherine Ouest,1608,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,3/5/2012 12:00:00 AM,-73.578867,45.494041,283959a1-3690-4243-baf2-3cf0d97a9ce0
+13088,204312,Street,Rue Sainte-Catherine Ouest,1608,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,3/5/2012 12:00:00 AM,-73.578925,45.493992,0aca2871-ee80-4de5-a500-fe5316bfa66a
+13091,204315,Street,Rue Sainte-Catherine Ouest,1608,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,9,3/5/2012 12:00:00 AM,-73.578683,45.494199,8dfd81d7-5a31-4177-93d5-54c9e9521ac6
+13092,204316,Street,Rue Sainte-Catherine Ouest,1608,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,3/5/2012 12:00:00 AM,-73.578744,45.494145,68637b41-8f76-4e48-9ed2-25ec2c9686d7
+13094,204318,Street,Rue Sainte-Catherine Ouest,1608,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,11,3/5/2012 12:00:00 AM,-73.578191,45.494613,3065e174-73e1-4497-bfae-e63a2245f473
+13095,204319,Street,Rue Sainte-Catherine Ouest,1608,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,3/5/2012 12:00:00 AM,-73.578315,45.49451,382de34a-d72f-4a3f-a863-34a26cb5113c
+13096,204320,Street,Rue Sainte-Catherine Ouest,1608,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,6,3/5/2012 12:00:00 AM,-73.578376,45.49446,07422aae-606d-4e40-8dd9-0360d0491cfe
+13097,204321,Street,Rue Sainte-Catherine Ouest,1608,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,16,3/5/2012 12:00:00 AM,-73.57825,45.494564,c2139024-fd0d-4b8a-9ba6-60134c0aa429
+13101,204325,Street,Rue Sainte-Catherine Ouest,1822,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,8,3/5/2012 12:00:00 AM,-73.579649,45.49337,f7cded20-1f1e-4680-a85f-285ec6a59780
+13103,204327,Street,Rue Sainte-Catherine Ouest,1834,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,11,3/5/2012 12:00:00 AM,-73.579907,45.493145,eb2fbaf1-9c37-4926-a522-0044dbf31018
+13106,204330,Street,Rue Sainte-Catherine Ouest,1858,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,3/6/2012 12:00:00 AM,-73.580094,45.492988,f714becc-2fae-41b9-835b-f72da7b887ef
+13110,204334,Street,Rue Sainte-Catherine Ouest,1970,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,4/20/2013 12:00:00 AM,-73.581314,45.491952,1a0daff3-f482-4de7-be92-00e956841e18
+13111,204335,Street,Rue Sainte-Catherine Ouest,1990,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,15,3/6/2012 12:00:00 AM,-73.581985,45.49138,499f6e5c-3a54-4dcf-b483-f797c6d391fe
+13112,204336,Street,Rue Sainte-Catherine Ouest,1990,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,11,3/6/2012 12:00:00 AM,-73.582051,45.491326,a997e999-889e-4136-8a7a-bf7168d59f23
+13113,204337,Street,Rue Sainte-Catherine Ouest,1990,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,16,3/6/2012 12:00:00 AM,-73.582181,45.491214,8d29efb4-f227-48e4-a4d8-12f94e226f71
+13118,204342,Street,Rue Sainte-Catherine Ouest,2170,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,12,3/6/2012 12:00:00 AM,-73.582941,45.490565,e9434949-cec7-47a5-8e2a-984c8a5c1f77
+13192,204416,Street,Rue Saint-Marc,2125,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,5/5/2016 12:00:00 AM,-73.582029,45.493837,b95d97a9-e386-40a5-a380-583e361369d1
+13581,204001,Street,Rue Sainte-Catherine Ouest,1841,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,14,3/5/2012 12:00:00 AM,-73.580067,45.493231,ea8a67c7-a735-40ad-a48e-535da560ef2e
+13582,204002,Street,Rue Sainte-Catherine Ouest,1863,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,10,3/5/2012 12:00:00 AM,-73.580368,45.492979,d5026161-476c-4359-99df-378b0b74da9e
+13584,204004,Street,Rue Sainte-Catherine Ouest,1863,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,17,3/5/2012 12:00:00 AM,-73.580309,45.493028,a718b640-ad10-457f-b340-3abaeb18c446
+13586,204006,Street,Rue Sainte-Catherine Ouest,1905,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,6,3/6/2012 12:00:00 AM,-73.580642,45.492749,aa0da0ec-ead6-4c5d-a7a0-2f17b500d07f
+13588,204008,Street,Rue Sainte-Catherine Ouest,1909,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,18,3/6/2012 12:00:00 AM,-73.580697,45.492695,00cc2d66-6838-405d-ab3e-d23dc8851f6a
+13593,204013,Street,Rue Sainte-Catherine Ouest,1915,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,3/6/2012 12:00:00 AM,-73.580758,45.49265,11dd3111-4358-4380-b6bc-e29c431cb03d
+13594,204014,Street,Rue Sainte-Catherine Ouest,1923,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,6,3/6/2012 12:00:00 AM,-73.58082,45.492596,e9cae381-2206-4117-bc3c-fa51b073394d
+13599,204019,Street,Rue Sainte-Catherine Ouest,1953,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,13,3/6/2012 12:00:00 AM,-73.58135,45.492141,3e95923d-24da-4f1d-9d57-02d7875573ac
+13601,204021,Street,Rue Sainte-Catherine Ouest,2077,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,6,3/6/2012 12:00:00 AM,-73.5823,45.491335,78b6c66c-716c-47f6-b496-e91f515d8558
+13602,204022,Street,Rue Sainte-Catherine Ouest,2165,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,5/9/2014 12:00:00 AM,-73.583024,45.490718,8447fe69-9e3f-4a21-a0c1-ee22ddec0766
+13606,204026,Street,Rue Sainte-Catherine Ouest,2175,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,5/9/2014 12:00:00 AM,-73.583285,45.490493,5aced0b8-cd3d-439d-8784-ee1985fe4108
+13611,204031,Street,Rue Sainte-Catherine Ouest,2209,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,20,7/1/2013 12:00:00 AM,-73.583479,45.490331,5611d618-d2c8-460f-bf99-21ef2e543847
+13612,204032,Street,Rue Sainte-Catherine Ouest,2301,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,7/1/2015 12:00:00 AM,-73.583791,45.49002,562ec74d-6bf4-4e6d-8ea7-968ed3c8a18e
+13613,204033,Street,Rue Sainte-Catherine Ouest,2301,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,7/1/2015 12:00:00 AM,-73.583845,45.489974,6390c0ff-a709-4208-9839-e96b01af1879
+13671,204508,Street,Rue Saint-Mathieu,2030,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,6/3/2018 12:00:00 AM,-73.581005,45.49476,d02794e0-fdd8-4665-a3bb-64cb042b7519
+13674,204511,Street,Rue Saint-Mathieu,2140,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,6/3/2018 12:00:00 AM,-73.581289,45.494922,11e2a524-6ea3-435f-a56b-6954469d71b9
+13677,204514,Street,Rue Saint-Mathieu,2300,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,5/25/2015 12:00:00 AM,-73.581823,45.495236,ec0539de-f161-497b-9643-6270f0b02dde
+13679,204516,Street,Rue Saint-Mathieu,2300,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,5/25/2015 12:00:00 AM,-73.582249,45.495488,413b5248-6684-4425-a8f4-3f4f51595880
+14057,204892,Street,Rue Sainte-Catherine Ouest,1627,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,6,3/5/2012 12:00:00 AM,-73.578378,45.494676,86402252-43c1-497f-ad10-7bffc3c27e56
+14058,204893,Street,Rue Sainte-Catherine Ouest,1631,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,14,3/5/2012 12:00:00 AM,-73.578437,45.494622,ba09d55d-b940-49f7-aa11-b34dbb6c471a
+14065,204900,Street,Rue Sainte-Catherine Ouest,1675,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,9,3/5/2012 12:00:00 AM,-73.57892,45.494208,cb483626-57f0-4d76-8d9a-b4ba1003fe4a
+14066,204901,Street,Rue Sainte-Catherine Ouest,1801,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,12,3/5/2012 12:00:00 AM,-73.579461,45.493749,a55d2507-7963-4cb1-a137-58182f876259
+14070,204905,Street,Rue Sainte-Catherine Ouest,1831,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,6,3/5/2012 12:00:00 AM,-73.579879,45.493397,a04ca822-efb6-4a97-a8d2-b31f9d9ce507
+14071,204906,Street,Rue Sainte-Catherine Ouest,1839,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,13,3/5/2012 12:00:00 AM,-73.580005,45.493289,c7804ee6-4677-48c9-b05a-d935f04bb93b
+14184,205019,Street,Rue Sherbrooke Ouest,1850,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,18,3/6/2012 12:00:00 AM,-73.583037,45.494931,17ece18a-add2-4dde-9012-1f1744cf3d3c
+14193,205028,Street,Rue Sherbrooke Ouest,2054,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,15,3/6/2012 12:00:00 AM,-73.584559,45.49335,97efc229-736d-4939-91c5-96d1c1074b11
+15107,206323,Street,Rue du Fort,N/A,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,5/25/2011 12:00:00 AM,-73.583835,45.493306,81c2b1cc-6108-4a49-9ce7-e358575d0378
+15112,206328,Street,Rue du Fort,1250,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,5,9/16/2012 12:00:00 AM,-73.580455,45.491166,b4914999-31a7-4653-9984-fc63d380e673
+15858,205495,Street,Rue Sherbrooke Ouest,1601,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,8,3/6/2012 12:00:00 AM,-73.582076,45.496354,8c229316-0fcf-476b-8f91-bd5db8d3869a
+15941,205578,Street,Rue Sherbrooke Ouest,1826,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,13,3/6/2012 12:00:00 AM,-73.582832,45.495163,a45b48b1-bcb0-4b6a-93d7-34aa5eaee0bf
+3346,43849,Parc,HENRI-DUNANT,N/A,GLTRIN,Gleditsia triacanthos var. inermis,Thornless Honey-Locust,49,1/27/2017 12:00:00 AM,-73.582313,45.489612,cb521a07-677a-4b64-a340-c82455deb409
+3349,43852,Parc,HENRI-DUNANT,N/A,GLTRIN,Gleditsia triacanthos var. inermis,Thornless Honey-Locust,39,1/27/2017 12:00:00 AM,-73.582421,45.489641,ea928bfe-b746-471b-9f94-b0938a1a4df6
+10590,201016,Street,Rue Lambert-Closse,N/A,GLTRIN,Gleditsia triacanthos var. inermis,Thornless Honey-Locust,21,1/12/2012 12:00:00 AM,-73.584293,45.490618,8d0a0c23-f242-4808-8244-09d92704012f
+11103,201921,Street,Rue Lambert-Closse,2115,GLTRIN,Gleditsia triacanthos var. inermis,Thornless Honey-Locust,25,1/12/2012 12:00:00 AM,-73.585516,45.491328,a451a33b-c270-4df2-9820-8f50100bcec5
+12421,204042,Street,Rue Sainte-Catherine Ouest,N/A,GLTRIN,Gleditsia triacanthos var. inermis,Thornless Honey-Locust,22,7/1/2013 12:00:00 AM,-73.582838,45.49088,f2fb33ac-34a3-418b-86a5-3527821151bc
+13085,204309,Street,Rue Sainte-Catherine Ouest,1600,GLTRIN,Gleditsia triacanthos var. inermis,Thornless Honey-Locust,22,3/5/2012 12:00:00 AM,-73.578067,45.494721,92f164bd-af7c-45a2-a18c-31f9a76123ec
+13087,204311,Street,Rue Sainte-Catherine Ouest,1608,GLTRIN,Gleditsia triacanthos var. inermis,Thornless Honey-Locust,23,3/5/2012 12:00:00 AM,-73.578984,45.493942,28416f9e-aec0-4509-afbe-c3a298b53a36
+13089,204313,Street,Rue Sainte-Catherine Ouest,1608,GLTRIN,Gleditsia triacanthos var. inermis,Thornless Honey-Locust,25,3/5/2012 12:00:00 AM,-73.578558,45.494303,0ccf374b-6a13-426e-8ea4-65e1e245148d
+13090,204314,Street,Rue Sainte-Catherine Ouest,1608,GLTRIN,Gleditsia triacanthos var. inermis,Thornless Honey-Locust,23,3/5/2012 12:00:00 AM,-73.578622,45.494253,7c133fca-714d-4e59-b512-8d0b3606d270
+13102,204326,Street,Rue Sainte-Catherine Ouest,1834,GLTRIN,Gleditsia triacanthos var. inermis,Thornless Honey-Locust,15,3/5/2012 12:00:00 AM,-73.579778,45.493258,b156831d-7836-4a5a-967e-1f96641175d7
+13109,204333,Street,Rue Sainte-Catherine Ouest,1970,GLTRIN,Gleditsia triacanthos var. inermis,Thornless Honey-Locust,17,11/16/2004 12:00:00 AM,-73.581127,45.49211,d61d3e28-0d8f-43ba-87eb-801e624286b9
+13114,204338,Street,Rue Sainte-Catherine Ouest,1990,GLTRIN,Gleditsia triacanthos var. inermis,Thornless Honey-Locust,24,3/6/2012 12:00:00 AM,-73.582323,45.491092,3583fc7b-fdb9-4b9d-94f9-731745ef16f8
+13115,204339,Street,Rue Sainte-Catherine Ouest,2150,GLTRIN,Gleditsia triacanthos var. inermis,Thornless Honey-Locust,20,3/6/2012 12:00:00 AM,-73.582817,45.490673,9262a180-1c72-4215-8f6a-015fc221a997
+13120,204344,Street,Rue Sainte-Catherine Ouest,2186,GLTRIN,Gleditsia triacanthos var. inermis,Thornless Honey-Locust,27,7/29/2016 12:00:00 AM,-73.583069,45.490457,846c74bd-bbf3-45b2-9bdd-64a558ce2877
+13600,204020,Street,Rue Sainte-Catherine Ouest,2051,GLTRIN,Gleditsia triacanthos var. inermis,Thornless Honey-Locust,17,3/6/2012 12:00:00 AM,-73.581731,45.491821,91a4c890-7a17-4940-a207-9fb65cb5d0b7
+13603,204023,Street,Rue Sainte-Catherine Ouest,2165,GLTRIN,Gleditsia triacanthos var. inermis,Thornless Honey-Locust,21,7/1/2013 12:00:00 AM,-73.583155,45.49061,0768aa84-36ea-4a68-a451-c1e29db0fd29
+13604,204024,Street,Rue Sainte-Catherine Ouest,2165,GLTRIN,Gleditsia triacanthos var. inermis,Thornless Honey-Locust,23,7/1/2013 12:00:00 AM,-73.58309,45.490664,fcb79256-c6bd-4985-8866-947eda6591d9
+13605,204025,Street,Rue Sainte-Catherine Ouest,2175,GLTRIN,Gleditsia triacanthos var. inermis,Thornless Honey-Locust,23,7/1/2013 12:00:00 AM,-73.583212,45.490556,1ae1fc47-9094-4980-949a-521c54edb347
+13607,204027,Street,Rue Sainte-Catherine Ouest,2201,GLTRIN,Gleditsia triacanthos var. inermis,Thornless Honey-Locust,24,7/1/2013 12:00:00 AM,-73.583352,45.490439,47bcc886-ec46-4cbb-954a-4d39fe71c5bd
+13673,204510,Street,Rue Saint-Mathieu,2128,GLTRIN,Gleditsia triacanthos var. inermis,Thornless Honey-Locust,22,1/10/2012 12:00:00 AM,-73.581221,45.494881,fb367bab-b178-4169-a069-2c0ebaebd094
+14060,204895,Street,Rue Sainte-Catherine Ouest,1647,GLTRIN,Gleditsia triacanthos var. inermis,Thornless Honey-Locust,20,3/5/2012 12:00:00 AM,-73.578733,45.49437,ef960831-1c1f-43bc-9ec0-e79b5e4f15a5
+14061,204896,Street,Rue Sainte-Catherine Ouest,1653,GLTRIN,Gleditsia triacanthos var. inermis,Thornless Honey-Locust,18,3/5/2012 12:00:00 AM,-73.578851,45.494266,8dc640ae-d4b1-443b-9198-76c6b68fd174
+14062,204897,Street,Rue Sainte-Catherine Ouest,1675,GLTRIN,Gleditsia triacanthos var. inermis,Thornless Honey-Locust,15,3/5/2012 12:00:00 AM,-73.579186,45.493983,a790258c-9f48-435f-9c2c-769f36f58463
+14063,204898,Street,Rue Sainte-Catherine Ouest,1675,GLTRIN,Gleditsia triacanthos var. inermis,Thornless Honey-Locust,16,3/5/2012 12:00:00 AM,-73.578989,45.494149,09fa0019-9e1c-49bc-b0f9-e1f50889c88e
+14064,204899,Street,Rue Sainte-Catherine Ouest,1675,GLTRIN,Gleditsia triacanthos var. inermis,Thornless Honey-Locust,12,3/5/2012 12:00:00 AM,-73.579062,45.494086,b2413ea1-4e7a-4768-9f5d-7886bea0472e
+15520,205939,Street,Rue Sherbrooke Ouest,1931,GLTRIN,Gleditsia triacanthos var. inermis,Thornless Honey-Locust,6,3/6/2012 12:00:00 AM,-73.583893,45.494291,c8cca993-9250-4f07-8917-837b8599ec0e
+4320,195943,Street,Avenue Atwater,3500,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,6/12/2015 12:00:00 AM,-73.589812,45.492675,7fee0a0c-c97c-425b-8f2e-6e50ad297fef
+6459,198068,Street,Boulevard de Maisonneuve Ouest,1600,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/11/2015 12:00:00 AM,-73.579558,45.495296,c6a992c4-fde9-4c56-9a77-9f0e6087f8c7
+6461,198070,Street,Boulevard de Maisonneuve Ouest,1640,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,10/17/2016 12:00:00 AM,-73.5799,45.495003,29f30465-26b8-4248-bd2e-a54d6388a708
+6462,198071,Street,Boulevard de Maisonneuve Ouest,1684,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,10/17/2016 12:00:00 AM,-73.580225,45.494724,165bc7a6-bcf2-4506-800e-fb98fabed043
+6463,198072,Street,Boulevard de Maisonneuve Ouest,1684,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,10/17/2016 12:00:00 AM,-73.5803,45.494666,6a61dd3e-bf7b-40f7-bb85-1d6a401909b0
+6465,198074,Street,Boulevard de Maisonneuve Ouest,1800,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,10/17/2016 12:00:00 AM,-73.580616,45.4944,90971d09-f0df-4379-88de-579d7682bc03
+6474,198083,Street,Boulevard de Maisonneuve Ouest,2100,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,10/17/2016 12:00:00 AM,-73.583339,45.492077,754f164a-8520-4e48-b803-00700140dbfc
+6477,198086,Street,Boulevard de Maisonneuve Ouest,2186,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/11/2015 12:00:00 AM,-73.584406,45.491171,a0fe9f98-066f-42c3-8050-6012672f9cd3
+6488,198097,Street,Chemin Barat,N/A,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,30,2/29/2012 12:00:00 AM,-73.588945,45.491554,e272340d-c152-4078-b790-0184e4f706e9
+6489,198098,Street,Chemin Barat,N/A,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,33,2/29/2012 12:00:00 AM,-73.589105,45.491406,1b66e3ca-003c-44ba-8440-3060c901ed36
+6490,198099,Street,Chemin Barat,N/A,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,34,2/29/2012 12:00:00 AM,-73.589177,45.491343,30362844-b629-4f0a-b014-b73587734c2a
+6491,198100,Street,Chemin Barat,N/A,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,35,2/29/2012 12:00:00 AM,-73.589243,45.49128,21d5ed1f-1181-414e-a85f-f4f4b533c5ad
+6492,198101,Street,Chemin Barat,N/A,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,39,2/29/2012 12:00:00 AM,-73.589313,45.491215,5b976bf4-4e45-479c-933b-4f1c68b79fb9
+6493,198102,Street,Chemin Barat,N/A,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,41,2/29/2012 12:00:00 AM,-73.589392,45.49115,d5e62f7a-29a9-4366-9793-f5a6ca190352
+6501,198110,Street,Chemin De Breslay,3011,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,50,10/4/2017 12:00:00 AM,-73.590057,45.492035,47089f4a-9421-4dab-a034-af394cfc34fe
+6502,198111,Street,Chemin De Breslay,3011,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/9/2016 12:00:00 AM,-73.590246,45.492001,4c52950b-20b8-4078-915c-485797e73e2e
+6503,198112,Street,Chemin De Breslay,3017,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,46,2/29/2012 12:00:00 AM,-73.590575,45.491918,2ff84450-d63f-4ff8-a0bb-097769df0741
+6504,198113,Street,Chemin De Breslay,3017,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,46,2/29/2012 12:00:00 AM,-73.590435,45.491954,60926873-4f09-4209-ae34-f25a66e926a2
+6507,198116,Street,Chemin De Breslay,3023,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,46,2/29/2012 12:00:00 AM,-73.590695,45.491868,4cac655d-e5fd-4e3a-81f5-6b9e660281bb
+6513,198122,Street,Chemin De Breslay,3023,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,38,2/29/2012 12:00:00 AM,-73.590791,45.491801,b7291636-29cd-4af6-afb3-309e1f088fb0
+6518,198127,Street,Chemin De Breslay,3029,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,41,2/29/2012 12:00:00 AM,-73.590865,45.491733,9964a00d-aaae-4b5f-82e7-5bc16c575b32
+6526,198135,Street,Chemin De Breslay,3029,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,42,2/29/2012 12:00:00 AM,-73.590919,45.491652,c4190541-0114-4b4b-b549-ba0b32e5a13e
+6650,198259,Street,Chemin De Breslay,N/A,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,54,12/13/2016 12:00:00 AM,-73.589729,45.492103,68987b2d-b3d3-44b2-a460-5bbcb4a5014e
+6656,198265,Street,Chemin De Breslay,N/A,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,50,2/29/2012 12:00:00 AM,-73.589863,45.492073,f428d053-6464-42b7-9bfd-bc1c3d717f18
+7772,198609,Street,Chemin De Breslay,3030,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/9/2016 12:00:00 AM,-73.590743,45.491637,9c3a2b43-d7d5-48e8-b899-9d5ecbed703b
+7998,198835,Street,Boulevard de Maisonneuve Ouest,2325,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,6/15/2018 12:00:00 AM,-73.585598,45.49037,c353347c-e2bd-4137-a26d-0c14538dd35d
+10575,201001,Street,Rue Lambert-Closse,2211,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/15/2011 12:00:00 AM,-73.586006,45.491611,c69f9ce3-7feb-47a9-91a8-e9db40fa25ed
+10578,201004,Street,Rue Lambert-Closse,2211,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,10/23/2018 12:00:00 AM,-73.586534,45.491917,f5ac8232-a367-4076-ae5e-480a1fc7df75
+10612,201038,Street,Rue Lambert-Closse,N/A,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,7/1/2015 12:00:00 AM,-73.582941,45.489679,b600d96b-a81f-41c4-ae05-dfa5b2e7e304
+10613,201039,Street,Rue Lambert-Closse,N/A,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,7/1/2015 12:00:00 AM,-73.583,45.489715,28c169fa-2410-4352-b4a1-bd1fa5b92767
+10614,201040,Street,Rue Lambert-Closse,N/A,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,7/1/2015 12:00:00 AM,-73.583112,45.489783,21f5750e-4c31-4486-a789-cb283a3ee77f
+10615,201041,Street,Rue Lambert-Closse,N/A,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,7/1/2015 12:00:00 AM,-73.583241,45.489858,aac8fc1f-a1c6-4beb-ab5f-867baafe128d
+10616,201042,Street,Rue Lambert-Closse,N/A,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,7/1/2015 12:00:00 AM,-73.583354,45.489923,e1167bf8-2f7f-4c01-a8a3-c6c6938fe8dc
+10617,201043,Street,Rue Lambert-Closse,N/A,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,7/1/2015 12:00:00 AM,-73.583415,45.489952,fa90e0cc-989f-479b-9681-e93a70812c93
+11098,201916,Street,Rue Lambert-Closse,2005,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,9/30/2019 12:00:00 AM,-73.585034,45.491045,6ce9214b-6b87-4805-b750-c4bfe14ecfc9
+11099,201917,Street,Rue Lambert-Closse,2035,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,9/30/2019 12:00:00 AM,-73.585107,45.491085,d0daca0a-23d3-407a-a45c-6bba40089a9a
+11104,201922,Street,Rue Lambert-Closse,2115,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,9/30/2019 12:00:00 AM,-73.585624,45.491391,36725b9e-a892-4c3f-b611-80f987dfd523
+11105,201923,Street,Rue Lambert-Closse,2211,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,10/5/2017 12:00:00 AM,-73.585915,45.491557,c22bcceb-5f07-44e8-8f55-b710ec4a457d
+11106,201924,Street,Rue Lambert-Closse,2211,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,9/30/2019 12:00:00 AM,-73.586143,45.491692,74e2c0a3-b0f9-4ba0-aa80-65dc7f1dad39
+11107,201925,Street,Rue Lambert-Closse,2211,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,10/23/2018 12:00:00 AM,-73.586415,45.491849,556dbadd-7395-44f7-bfb9-8aaf0da3ffa2
+11109,201927,Street,Rue Lambert-Closse,2211,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/15/2011 12:00:00 AM,-73.586663,45.491993,a2aa48ce-b12f-4faf-8661-af1538d9a595
+12415,204439,Street,Rue Saint-Marc,2000,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/31/2021 12:00:00 AM,-73.581937,45.493625,37424a91-45cf-43f1-a5fe-a4b01659bc74
+12422,204441,Street,Rue Saint-Marc,2100,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/31/2021 12:00:00 AM,-73.582316,45.493845,6f3163a3-d828-4a95-ab44-63c1e1ff9a58
+12815,204443,Street,Rue Saint-Marc,2150,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/5/2016 12:00:00 AM,-73.582532,45.493967,f1238595-4a5d-4207-9ab6-f22c07687661
+12818,204444,Street,Rue Saint-Marc,2310,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,6/1/2014 12:00:00 AM,-73.583209,45.494371,e82a5847-41cc-4d81-8f03-abc5268a1d2c
+13029,204253,Street,Rue Saint-Mathieu,1210,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,10/4/2020 12:00:00 AM,-73.577883,45.492944,dee62eb8-b1bb-4415-ac41-07199082687b
+13032,204256,Street,Rue Saint-Mathieu,1212,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,10/4/2020 12:00:00 AM,-73.577966,45.492989,1679e0ed-1d10-448c-8a92-b228fe54f62e
+13139,204363,Street,Rue Saint-Mathieu,1232,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,6/11/2018 12:00:00 AM,-73.578294,45.493187,b4903fc9-c1fe-4448-a5ea-95179fbca84b
+13177,204401,Street,Rue Saint-Marc,1245,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,8,12/4/2017 12:00:00 AM,-73.579333,45.492268,91ab9550-80cb-4d46-920f-b30ec1601d87
+13179,204403,Street,Rue Saint-Marc,1259,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/31/2021 12:00:00 AM,-73.579724,45.492499,46dffc58-6b06-411f-b33c-ae6207d9fe8e
+13181,204405,Street,Rue Saint-Marc,1275,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,6/12/2018 12:00:00 AM,-73.580067,45.4927,057d7e62-c620-4bd2-bb8e-5bfdd2f1b78e
+13182,204406,Street,Rue Saint-Marc,1283,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/31/2012 12:00:00 AM,-73.580162,45.492758,00b80b4d-50d7-4886-ae97-37904b24f7b8
+13184,204408,Street,Rue Saint-Marc,1431,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/5/2016 12:00:00 AM,-73.580972,45.493235,e5d9647b-5918-4398-be93-3f05c9fb2c2d
+13185,204409,Street,Rue Saint-Marc,1439,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/5/2016 12:00:00 AM,-73.581095,45.493306,2b3963e5-0f6f-4307-bee3-a46a8d214260
+13186,204410,Street,Rue Saint-Marc,1441,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,6/12/2018 12:00:00 AM,-73.581227,45.493378,dd1cbf96-e2c2-49bb-934f-5070a1c19782
+13193,204417,Street,Rue Saint-Marc,2155,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,11/7/2016 12:00:00 AM,-73.582366,45.49403,7b9fd940-daeb-46be-9d84-0669f58a8f4e
+13198,204422,Street,Rue Saint-Marc,N/A,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/31/2012 12:00:00 AM,-73.580618,45.493019,862cf9e9-cf71-4a3e-a765-a1465470c97c
+13200,204424,Street,Rue Saint-Marc,N/A,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/30/2019 12:00:00 AM,-73.577812,45.491397,f71f8cc9-6179-4b0c-ad8a-6c33e352235c
+13202,204426,Street,Rue Saint-Marc,1228,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/31/2012 12:00:00 AM,-73.579191,45.49203,80c07b63-40fe-46a4-bcff-2168c52870bc
+13203,204427,Street,Rue Saint-Marc,1240,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,6/12/2018 12:00:00 AM,-73.579429,45.492169,65f1b797-91e2-4323-b358-ad6892330949
+13204,204428,Street,Rue Saint-Marc,1240,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/31/2021 12:00:00 AM,-73.579246,45.492153,69ec94a2-b557-459d-8086-1458c536439f
+13210,204434,Street,Rue Saint-Marc,1406,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/30/2019 12:00:00 AM,-73.580705,45.492911,cab93bb7-e4d0-4997-961f-2205f871164b
+13216,204447,Street,Rue Saint-Mathieu,1235,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/10/2017 12:00:00 AM,-73.578858,45.493677,23c53568-a12e-4ce0-846d-8065ea2ac6ac
+13219,204449,Street,Rue Saint-Mathieu,1439,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,6/3/2018 12:00:00 AM,-73.580048,45.494369,485e4b2a-0b26-433a-9e20-fc3457d6f622
+13221,204450,Street,Rue Saint-Mathieu,1445,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/12/2019 12:00:00 AM,-73.580322,45.494526,35b07b40-3ecf-4d25-9b6c-d08e645f3304
+13225,204452,Street,Rue Saint-Mathieu,2055,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,6/1/2014 12:00:00 AM,-73.580691,45.494742,9b7d4873-eb54-4abb-a19d-f8b09d0bcd55
+13227,204453,Street,Rue Saint-Mathieu,2121,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/10/2017 12:00:00 AM,-73.581016,45.494935,3a081a3d-156c-4106-b517-6a6c2901090a
+13609,204029,Street,Rue Saint-Mathieu,N/A,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,10/4/2020 12:00:00 AM,-73.576684,45.492407,89438288-0ac4-4261-874b-cc657ab43261
+13615,204035,Street,Rue Sainte-Catherine Ouest,2301,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,7/1/2015 12:00:00 AM,-73.583994,45.489849,926b35be-f11f-4b9b-80ad-3746323d2af1
+13616,204036,Street,Rue Sainte-Catherine Ouest,2301,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,7/1/2015 12:00:00 AM,-73.584141,45.489725,4de80784-f15e-463f-9f7d-68eaa7f78819
+13627,204464,Street,Rue Saint-Mathieu,N/A,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/10/2017 12:00:00 AM,-73.579456,45.494023,d1f6bb91-23f5-406b-8235-e017b4de3f1f
+13629,204466,Street,Rue Saint-Mathieu,N/A,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,6/3/2018 12:00:00 AM,-73.579566,45.494084,e0dd5c0b-0ec8-45c4-a39d-305dc2510643
+13637,204474,Street,Rue Saint-Mathieu,1262,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/5/2016 12:00:00 AM,-73.57875,45.493452,f0848434-76d1-4264-92c3-41be579c07d7
+13641,204478,Street,Rue Saint-Mathieu,1278,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/5/2016 12:00:00 AM,-73.57903,45.493609,82ad555f-69c7-4507-b355-aad33f16c67a
+13665,204502,Street,Rue Saint-Mathieu,1420,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,6/28/2013 12:00:00 AM,-73.579757,45.494037,336516e3-7f92-469b-8a93-4dedf032c115
+13683,204520,Street,Rue Saint-Mathieu,N/A,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,10/4/2020 12:00:00 AM,-73.576781,45.492323,8bd3be58-a036-4005-92c8-934e5ed99d99
+14186,205021,Street,Rue Sherbrooke Ouest,1900,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,6/22/2014 12:00:00 AM,-73.583543,45.494361,a16a5690-6831-41cc-ac75-adf3bfb26039
+14187,205022,Street,Rue Sherbrooke Ouest,1950,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/31/2018 12:00:00 AM,-73.583617,45.494274,38625cfe-67ba-443a-9bbf-1d7c3bba9154
+14190,205025,Street,Rue Sherbrooke Ouest,1980,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,6/22/2014 12:00:00 AM,-73.584022,45.493817,4e394000-6219-47eb-a2cc-5734c42376e6
+14191,205026,Street,Rue Sherbrooke Ouest,2000,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,11/23/2016 12:00:00 AM,-73.584101,45.493729,4f584afe-30fe-4350-8b34-5535f5a74872
+14192,205027,Street,Rue Sherbrooke Ouest,2000,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,6/22/2014 12:00:00 AM,-73.584199,45.493625,327d2682-e6e2-4dae-837a-0bd48617f62c
+14197,205032,Street,Rue Sherbrooke Ouest,2082,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,11/23/2016 12:00:00 AM,-73.585241,45.492943,dfa98477-ce4d-4c61-a071-e3d9b82d8ccf
+14210,205045,Street,Rue Sherbrooke Ouest,2162,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/31/2018 12:00:00 AM,-73.586155,45.492396,00ef1946-381d-4599-adb6-ef4487cd8685
+14214,205049,Street,Rue Sherbrooke Ouest,2330,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/31/2018 12:00:00 AM,-73.58727,45.4917,21571425-633c-4fd2-ad90-ee1679fc02ac
+14363,205198,Street,Rue Tupper,2121,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,10/24/2018 12:00:00 AM,-73.581644,45.49051,b1a2799a-c33b-4f71-a582-203a62dfbf40
+14373,205208,Street,Rue Tupper,1844,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/5/2016 12:00:00 AM,-73.579264,45.492475,3e2228b8-181d-49ea-8881-fb257a7329c8
+14374,205209,Street,Rue Tupper,1844,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/5/2016 12:00:00 AM,-73.579361,45.49239,b9979c02-f804-42a3-bc2f-65d4e90a958b
+14375,205210,Street,Rue Tupper,1844,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,24,1/19/2012 12:00:00 AM,-73.579054,45.492655,9725981d-f082-4e32-8a4d-429814224b7d
+14388,205223,Street,Rue Tupper,2150,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,10/16/2017 12:00:00 AM,-73.582055,45.489985,6043e145-982f-4993-85aa-2319aae86c4c
+14389,205224,Street,Rue Tupper,2150,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,10/16/2017 12:00:00 AM,-73.581947,45.490075,822586b1-2725-4d7e-a0fa-6121653a5f5b
+15109,206325,Street,Rue du Fort,N/A,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/31/2019 12:00:00 AM,-73.582907,45.492763,67ee582f-3130-4181-9394-faf53791e4aa
+15119,206335,Street,Rue du Fort,N/A,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/31/2019 12:00:00 AM,-73.584079,45.49339,4865d22f-8b85-47df-a765-5b355b9485c1
+15933,205570,Street,Rue Sherbrooke Ouest,1600,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,6/4/2019 12:00:00 AM,-73.581886,45.496238,ab8b0f74-887c-4b72-8578-78b8900e871d
+15935,205572,Street,Rue Sherbrooke Ouest,1620,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,6/4/2019 12:00:00 AM,-73.582018,45.496086,9aec06cd-aba4-4110-8d5f-d4391baad19a
+15939,205576,Street,Rue Sherbrooke Ouest,1818,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,5,5/31/2018 12:00:00 AM,-73.582663,45.495357,ce2a1131-77c4-4231-8a57-cd45a0c2f5b3
+4917,196116,Street,Avenue Hope,1201,JUNI,Juglans nigra,Eastern Black Walnut,5,8/6/2013 12:00:00 AM,-73.581163,45.489834,1a8e73c7-c97e-42ae-94fe-10cbe5eac408
+3318,43821,Parc,HENRI-DUNANT,N/A,MAPRRI,Malus prunifolia 'Rinki',Rinki Plum-leaved Crab Apple,11,1/27/2017 12:00:00 AM,-73.581939,45.489603,5dec251b-5989-43b3-a81f-22de9fe1d4df
+3327,43830,Parc,HENRI-DUNANT,N/A,MAXXRO,Malus x 'Royalty',Royalty Crab Apple,16,1/27/2017 12:00:00 AM,-73.582049,45.489571,e01fd638-b246-4c91-9697-02ec0beccb86
+3331,43834,Parc,HENRI-DUNANT,N/A,MAXXRO,Malus x 'Royalty',Royalty Crab Apple,18,1/27/2017 12:00:00 AM,-73.582122,45.489582,8578badc-4157-479a-a49b-f2f78aa2dc0b
+3335,43838,Parc,HENRI-DUNANT,N/A,MAXXRO,Malus x 'Royalty',Royalty Crab Apple,14,1/27/2017 12:00:00 AM,-73.58216,45.489588,e4155351-2f3d-4d13-b583-0222e31d8fc0
+3339,43842,Parc,HENRI-DUNANT,N/A,MAXXRO,Malus x 'Royalty',Royalty Crab Apple,13,1/27/2017 12:00:00 AM,-73.582195,45.489596,e1edcaa9-0393-4c31-8571-5aba7f61348a
+3340,43843,Parc,HENRI-DUNANT,N/A,MAXXRO,Malus x 'Royalty',Royalty Crab Apple,18,1/27/2017 12:00:00 AM,-73.582228,45.489603,984426fe-ea3b-4b91-a1c6-aed693924fff
+3342,43845,Parc,HENRI-DUNANT,N/A,MAXXRO,Malus x 'Royalty',Royalty Crab Apple,19,1/27/2017 12:00:00 AM,-73.582219,45.489632,4056d89a-fbb5-49b8-ae50-7c8c2324e985
+3343,43846,Parc,HENRI-DUNANT,N/A,MAXXRO,Malus x 'Royalty',Royalty Crab Apple,16,1/27/2017 12:00:00 AM,-73.582197,45.489657,1de8c1ee-d9ba-4af5-9bce-467505c9b4d1
+3344,43847,Parc,HENRI-DUNANT,N/A,MAXXRO,Malus x 'Royalty',Royalty Crab Apple,23,1/27/2017 12:00:00 AM,-73.582214,45.489688,868548cb-070c-4c23-8759-744041728b28
+2127,43456,Parc,HECTOR-TOE-BLAKE,N/A,MAXXTH,Malus x 'Thunderchild',Thunderchild Crab Apple,14,1/27/2017 12:00:00 AM,-73.580493,45.489429,982f078a-8b71-4c2e-a7de-facc5c45972b
+2132,43461,Parc,HECTOR-TOE-BLAKE,N/A,MAXXTH,Malus x 'Thunderchild',Thunderchild Crab Apple,14,1/27/2017 12:00:00 AM,-73.580513,45.489392,5428c214-8699-4d51-9a02-28d0c2567681
+2143,43472,Parc,HECTOR-TOE-BLAKE,N/A,MAXXTH,Malus x 'Thunderchild',Thunderchild Crab Apple,15,1/27/2017 12:00:00 AM,-73.580559,45.489451,a7226d89-4372-4e49-aae4-a0be0faebbf2
+2146,43475,Parc,HECTOR-TOE-BLAKE,N/A,MAXXTH,Malus x 'Thunderchild',Thunderchild Crab Apple,12,1/27/2017 12:00:00 AM,-73.58059,45.489422,383dd239-4a80-422e-a9c4-4e1e7f4ea1b1
+2153,43482,Parc,HECTOR-TOE-BLAKE,N/A,MAXXTH,Malus x 'Thunderchild',Thunderchild Crab Apple,13,1/27/2017 12:00:00 AM,-73.580622,45.489387,edad4101-8aa1-4d71-a5ea-ed4e6dcdaa20
+2175,43504,Parc,HECTOR-TOE-BLAKE,N/A,MAXXTH,Malus x 'Thunderchild',Thunderchild Crab Apple,17,1/27/2017 12:00:00 AM,-73.580626,45.489482,1272c68b-e576-4707-b3b6-3ed4779674df
+2182,43511,Parc,HECTOR-TOE-BLAKE,N/A,MAXXTH,Malus x 'Thunderchild',Thunderchild Crab Apple,16,1/27/2017 12:00:00 AM,-73.58066,45.489446,ea275093-4cff-4098-beb6-427582edb569
+2265,43594,Parc,HECTOR-TOE-BLAKE,N/A,MAXXTH,Malus x 'Thunderchild',Thunderchild Crab Apple,14,1/27/2017 12:00:00 AM,-73.580672,45.489501,2eb3dab4-0df1-4cc0-8a6f-0f65bbd272b3
+2271,43600,Parc,HECTOR-TOE-BLAKE,N/A,MAXXTH,Malus x 'Thunderchild',Thunderchild Crab Apple,17,1/27/2017 12:00:00 AM,-73.580709,45.489464,64b27ccb-2cb0-476e-93da-698e760e86ee
+2347,43676,Parc,HECTOR-TOE-BLAKE,N/A,MAXXTH,Malus x 'Thunderchild',Thunderchild Crab Apple,17,1/27/2017 12:00:00 AM,-73.580715,45.489522,81a51e84-f934-403c-a3fa-50d630dcfe82
+2358,43687,Parc,HECTOR-TOE-BLAKE,N/A,MAXXTH,Malus x 'Thunderchild',Thunderchild Crab Apple,14,1/27/2017 12:00:00 AM,-73.580759,45.489551,5d9fde53-48c1-4e19-888e-61acbcf79258
+2365,43694,Parc,HECTOR-TOE-BLAKE,N/A,MAXXTH,Malus x 'Thunderchild',Thunderchild Crab Apple,12,1/27/2017 12:00:00 AM,-73.580792,45.489504,4efe66aa-3984-4046-beac-3168b0fa464b
+2370,43699,Parc,HECTOR-TOE-BLAKE,N/A,MAXXTH,Malus x 'Thunderchild',Thunderchild Crab Apple,14,1/27/2017 12:00:00 AM,-73.580819,45.489573,dc852b99-4f02-4396-ab7c-3db085bd1ea0
+2375,43704,Parc,HECTOR-TOE-BLAKE,N/A,MAXXTH,Malus x 'Thunderchild',Thunderchild Crab Apple,13,1/27/2017 12:00:00 AM,-73.580855,45.489526,1e54a8ec-362e-4471-a6fa-f8bc417aa167
+3274,43777,Parc,HECTOR-TOE-BLAKE,N/A,MAXXTH,Malus x 'Thunderchild',Thunderchild Crab Apple,18,1/27/2017 12:00:00 AM,-73.580876,45.489602,b65462a2-22ed-415d-b55f-56d4eb18479e
+3288,43791,Parc,HECTOR-TOE-BLAKE,N/A,MAXXTH,Malus x 'Thunderchild',Thunderchild Crab Apple,15,1/27/2017 12:00:00 AM,-73.581101,45.489515,c249969c-db8c-409f-97aa-e8bed86294f8
+3292,43795,Parc,HECTOR-TOE-BLAKE,N/A,MAXXTH,Malus x 'Thunderchild',Thunderchild Crab Apple,16,1/27/2017 12:00:00 AM,-73.581035,45.48967,5c829081-d448-4fec-a720-125fa5115cea
+3296,43799,Parc,HECTOR-TOE-BLAKE,N/A,MAXXTH,Malus x 'Thunderchild',Thunderchild Crab Apple,16,1/27/2017 12:00:00 AM,-73.581064,45.489641,948156fd-9ed9-484f-b15c-ab06e18528dc
+3301,43804,Parc,HECTOR-TOE-BLAKE,N/A,MAXXTH,Malus x 'Thunderchild',Thunderchild Crab Apple,14,1/27/2017 12:00:00 AM,-73.581093,45.48961,20db8f90-ad6a-4e0c-be55-c5ec8177cf2e
+3305,43808,Parc,HECTOR-TOE-BLAKE,N/A,MAXXTH,Malus x 'Thunderchild',Thunderchild Crab Apple,15,1/27/2017 12:00:00 AM,-73.58113,45.489571,a0af97fc-1340-4da0-8a83-5ab2d4b44e0b
+3309,43812,Parc,HECTOR-TOE-BLAKE,N/A,MAXXTH,Malus x 'Thunderchild',Thunderchild Crab Apple,17,1/27/2017 12:00:00 AM,-73.581156,45.489539,45f0255c-33fb-48bd-8bc1-26c5bf63bbce
+3313,43816,Parc,HECTOR-TOE-BLAKE,N/A,MAXXTH,Malus x 'Thunderchild',Thunderchild Crab Apple,17,1/27/2017 12:00:00 AM,-73.581191,45.489505,078e04db-7cfd-4c80-be22-f35fb6e1068d
+2275,43604,Parc,CABOT,N/A,OSVI,Ostrya virginiana,American Hop-Hornbeam Ironwood,5,5/1/2015 12:00:00 AM,-73.583562,45.489243,0c31bfd2-5590-4e36-87e5-33d12b6af038
+12252,204438,Street,Rue Saint-Marc,1464,OSVI,Ostrya virginiana,American Hop-Hornbeam Ironwood,5,9/15/2014 12:00:00 AM,-73.581585,45.493419,2eb29ae5-1206-4452-883b-4cb7495f93c0
+6494,198103,Street,Chemin Barat,3035,PHAM,Phellodendron amurensis,Amur Cork tree,41,2/29/2012 12:00:00 AM,-73.589641,45.490947,3e134c98-2b90-46f7-a873-bead25b2fb77
+6495,198104,Street,Chemin Barat,3035,PHAM,Phellodendron amurensis,Amur Cork tree,53,2/29/2012 12:00:00 AM,-73.589724,45.490861,190c9d18-e4f6-4076-a3c5-827ac4568a2a
+10972,201790,Street,Rue Jean-Girard,N/A,PNNIAU,Pinus nigra 'Austriaca',Austrian Pine,5,6/8/2015 12:00:00 AM,-73.589936,45.49274,195e39d4-0b95-4826-be09-6abac2960827
+10973,201791,Street,Rue Jean-Girard,N/A,PNNIAU,Pinus nigra 'Austriaca',Austrian Pine,5,6/8/2015 12:00:00 AM,-73.590011,45.492737,0d594a8e-61a8-4eff-9132-40af2b308c75
+10974,201792,Street,Rue Jean-Girard,N/A,PNNIAU,Pinus nigra 'Austriaca',Austrian Pine,5,6/8/2015 12:00:00 AM,-73.590037,45.492728,931bc04d-a856-4e95-b26f-e2699f1fdd0a
+10975,201793,Street,Rue Jean-Girard,N/A,PNNIAU,Pinus nigra 'Austriaca',Austrian Pine,5,6/8/2015 12:00:00 AM,-73.590074,45.492735,cf60a245-2a5d-4118-adef-23046fc7b04b
+10976,201794,Street,Rue Jean-Girard,N/A,PNNIAU,Pinus nigra 'Austriaca',Austrian Pine,5,6/8/2015 12:00:00 AM,-73.590097,45.492709,a12755be-8ed6-4b48-9329-d8e06e672e1c
+5018,196217,Street,Avenue Holton,3492,PNST,Pinus strobus,Eastern White Pine,5,11/2/2015 12:00:00 AM,-73.591063,45.491202,1c81c1d5-a4a1-4c0b-87cb-a4a17b2b72f9
+2352,43681,Parc,HECTOR-TOE-BLAKE,N/A,POCA,Populus x canadensis,Carolina Poplar,87,1/27/2017 12:00:00 AM,-73.580755,45.489463,af7048b0-1a28-462e-8860-cdd2a3587969
+3279,43782,Parc,HECTOR-TOE-BLAKE,N/A,POCA,Populus x canadensis,Carolina Poplar,115.2,1/27/2017 12:00:00 AM,-73.580946,45.489539,3c21dab8-f4b8-4893-9eee-fec39278d0c4
+13628,204465,Street,Rue Saint-Mathieu,N/A,PYCACH,Pyrus calleryana 'Glen's Form (Chantecleer),Pyrus calleryana Chantecleer,5,6/17/2015 12:00:00 AM,-73.579761,45.494199,f2a72123-a62e-465d-8f98-4091dc21a792
+4321,195944,Street,Avenue Atwater,3610,QUBI,Quercus bicolor,Swamp White Oak,5,10/6/2018 12:00:00 AM,-73.588537,45.494614,cf56250d-838c-4c7d-9f00-46dde656cc27
+9594,200410,Street,Rue Chomedey,2035,QUBI,Quercus bicolor,Swamp White Oak,5,9/21/2015 12:00:00 AM,-73.584163,45.491896,5e7c7621-96f0-41cc-9bbc-7936d59a9e02
+9595,200411,Street,Rue Chomedey,2065,QUBI,Quercus bicolor,Swamp White Oak,5,9/21/2015 12:00:00 AM,-73.584339,45.492009,943c44fa-749f-4a80-a39a-7728c4c3de45
+9596,200412,Street,Rue Chomedey,2065,QUBI,Quercus bicolor,Swamp White Oak,5,9/21/2015 12:00:00 AM,-73.584388,45.492038,c68c1fa6-f1f2-4b65-a3c8-df24a9411514
+9597,200413,Street,Rue Chomedey,2105,QUBI,Quercus bicolor,Swamp White Oak,5,9/21/2015 12:00:00 AM,-73.584543,45.492131,abcbcf8e-a5a5-4a9a-a656-2b1dd3c56a58
+9598,200414,Street,Rue Chomedey,2105,QUBI,Quercus bicolor,Swamp White Oak,5,9/27/2018 12:00:00 AM,-73.584633,45.492179,756d6e95-09ff-4468-9041-7daafa7a5606
+4120,195124,Street,Avenue Atwater,2021,QUMA,Quercus macrocarpa,Bur Oak,5,10/5/2016 12:00:00 AM,-73.585957,45.490302,efc26b83-cbac-43f4-af3d-1e5c449c3391
+4130,195359,Street,Avenue Atwater,2021,QUMA,Quercus macrocarpa,Bur Oak,5,10/5/2016 12:00:00 AM,-73.585859,45.490248,30b82a7d-6196-4818-bcff-a1d29b88fa85
+4286,195555,Street,Avenue Atwater,2111,QUMA,Quercus macrocarpa,Bur Oak,5,10/5/2016 12:00:00 AM,-73.587008,45.490915,e7eee086-0e8a-439f-b4b8-6b7f012072f0
+4289,195742,Street,Avenue Atwater,2111,QUMA,Quercus macrocarpa,Bur Oak,5,10/5/2016 12:00:00 AM,-73.587373,45.491125,cec2cb36-116a-4334-aaa5-2a1a25f41feb
+4290,195743,Street,Avenue Atwater,2111,QUMA,Quercus macrocarpa,Bur Oak,5,10/5/2016 12:00:00 AM,-73.587278,45.491072,f3371b4e-e8b0-47d3-9242-a1d873c6b645
+4515,196527,Street,Avenue Lincoln,1827,QUMA,Quercus macrocarpa,Bur Oak,5,6/1/2012 12:00:00 AM,-73.581929,45.494728,11091b76-f35d-4eb7-8c87-781b44840951
+4531,196543,Street,Avenue Lincoln,1869,QUMA,Quercus macrocarpa,Bur Oak,5,10/25/2018 12:00:00 AM,-73.582396,45.494331,41fadae4-5f8b-4683-8f3f-cf6610a17da6
+4558,196570,Street,Avenue Lincoln,2000,QUMA,Quercus macrocarpa,Bur Oak,5,10/25/2018 12:00:00 AM,-73.583839,45.493008,d334cbea-42d5-4d80-ab85-3d3633c7e35b
+4560,196572,Street,Avenue Lincoln,2000,QUMA,Quercus macrocarpa,Bur Oak,5,10/25/2018 12:00:00 AM,-73.583983,45.49289,23f62c15-2652-4fa3-a2ba-8bc6f0c8a21b
+4563,196575,Street,Avenue Lincoln,2094,QUMA,Quercus macrocarpa,Bur Oak,5,10/25/2018 12:00:00 AM,-73.584507,45.492463,a22cddcb-84d8-45f2-919c-ddc807383e3b
+4623,196635,Street,Avenue Seymour,1169,QUMA,Quercus macrocarpa,Bur Oak,5,6/4/2012 12:00:00 AM,-73.579902,45.49009,6b8d7614-4f6b-49c2-8aa6-7ea3a2f13f8d
+4631,196643,Street,Avenue Seymour,1197,QUMA,Quercus macrocarpa,Bur Oak,5,10/16/2017 12:00:00 AM,-73.580381,45.490309,3306fb33-36be-423c-a2f9-25c80b6f7414
+4633,196645,Street,Avenue Seymour,1215,QUMA,Quercus macrocarpa,Bur Oak,5,6/5/2012 12:00:00 AM,-73.580676,45.490459,8fe3f59a-5d75-4ba8-b02c-03395c41b6f1
+6467,198076,Street,Boulevard de Maisonneuve Ouest,1850,QUMA,Quercus macrocarpa,Bur Oak,5,5/25/2012 12:00:00 AM,-73.581314,45.493806,47af1779-50b2-44f4-82c2-1e03b227fc4d
+6764,198373,Street,Chemin De Breslay,3010,QUMA,Quercus macrocarpa,Bur Oak,5,9/30/2019 12:00:00 AM,-73.58984,45.491955,ce274c42-b49f-46fa-9719-0336dc783180
+7776,198613,Street,Chemin Picquet,3015,QUMA,Quercus macrocarpa,Bur Oak,5,5/9/2016 12:00:00 AM,-73.590783,45.493337,6d757de2-0f0d-4ad7-86c2-7c953c8658f5
+7777,198614,Street,Chemin Picquet,3015,QUMA,Quercus macrocarpa,Bur Oak,5,5/9/2016 12:00:00 AM,-73.590603,45.493333,70597b6f-6c03-4281-ac89-acc59fa229d3
+7819,198656,Street,Chemin Saint-Sulpice,3100,QUMA,Quercus macrocarpa,Bur Oak,5,5/10/2017 12:00:00 AM,-73.592075,45.492803,198d4bf0-fc1b-455c-bd43-a4381b3005b3
+7822,198659,Street,Chemin Saint-Sulpice,3180,QUMA,Quercus macrocarpa,Bur Oak,5,9/12/2019 12:00:00 AM,-73.593204,45.492007,0a6a95be-0ba0-4652-b63b-6dd4ca17f53d
+9604,200420,Street,Rue Chomedey,1414,QUMA,Quercus macrocarpa,Bur Oak,5,5/23/2019 12:00:00 AM,-73.582897,45.491022,828a05ea-c714-4ea7-8741-c114259355d6
+9616,200432,Street,Rue Chomedey,2260,QUMA,Quercus macrocarpa,Bur Oak,5,6/11/2018 12:00:00 AM,-73.585385,45.492444,88796278-7dd4-47cd-b00a-c956b8b2d5d5
+13178,204402,Street,Rue Saint-Marc,1251,QUMA,Quercus macrocarpa,Bur Oak,5,5/30/2019 12:00:00 AM,-73.579551,45.492403,050f7323-fd6b-4570-bedb-c6aa52d1a672
+13187,204411,Street,Rue Saint-Marc,1445,QUMA,Quercus macrocarpa,Bur Oak,5,9/15/2014 12:00:00 AM,-73.581439,45.493504,2dd6684c-2cae-4be9-82b6-116f5583c389
+13223,204451,Street,Rue Saint-Mathieu,2055,QUMA,Quercus macrocarpa,Bur Oak,5,5/5/2016 12:00:00 AM,-73.580848,45.494832,44dad17f-9783-408e-be07-a9dfa69d9e9f
+13672,204509,Street,Rue Saint-Mathieu,2080,QUMA,Quercus macrocarpa,Bur Oak,5,6/4/2012 12:00:00 AM,-73.581129,45.494832,f30da746-fcba-4526-80b1-316386b74d47
+14349,205184,Street,Rue Tupper,1905,QUMA,Quercus macrocarpa,Bur Oak,5,5/16/2019 12:00:00 AM,-73.57971,45.492132,fc461e80-a56a-43ee-94c6-efe2c82a7cb0
+14350,205185,Street,Rue Tupper,1917,QUMA,Quercus macrocarpa,Bur Oak,5,5/16/2019 12:00:00 AM,-73.579848,45.492021,edf466af-bed8-4f49-8503-254ccafb0d1e
+14351,205186,Street,Rue Tupper,1921,QUMA,Quercus macrocarpa,Bur Oak,5,5/16/2019 12:00:00 AM,-73.579908,45.491976,700faf48-14dd-4569-95f2-52bbc4a63fcb
+14369,205204,Street,Rue Tupper,1804,QUMA,Quercus macrocarpa,Bur Oak,5,5/16/2019 12:00:00 AM,-73.578603,45.493047,2e9d604e-cda1-4871-a4a9-64de7a4c538b
+14379,205214,Street,Rue Tupper,1958,QUMA,Quercus macrocarpa,Bur Oak,5,5/16/2019 12:00:00 AM,-73.580312,45.491494,85333c55-aa63-47d4-908c-200fae3908d9
+14391,205226,Street,Rue Tupper,N/A,QUMA,Quercus macrocarpa,Bur Oak,5,5/10/2017 12:00:00 AM,-73.580676,45.491098,d0fb6f0d-22a9-421a-99c1-c5788d13bb6b
+15115,206331,Street,Rue du Fort,2060,QUMA,Quercus macrocarpa,Bur Oak,5,5/31/2019 12:00:00 AM,-73.583434,45.492909,11358f1e-77cd-409f-b050-0c0ff1f49d18
+3284,43787,Parc,HECTOR-TOE-BLAKE,N/A,QURO,Quercus robur,English Oak,10,1/27/2017 12:00:00 AM,-73.58107,45.489463,1bacca90-68e5-4cc7-b015-ebf986d93896
+15111,206327,Street,Rue du Fort,N/A,QURO,Quercus robur,English Oak,5,2/16/2015 12:00:00 AM,-73.584171,45.493505,572a1f44-8e25-40bc-b4a0-0d0e618a29d4
+4543,196555,Street,Avenue Lincoln,2055,QUROFA,Quercus robur 'Fastigiata',Fastigiate English Oak,33,8/10/2018 12:00:00 AM,-73.584227,45.492832,05b48981-4eac-48b0-b237-f55c8a8f44af
+1738,41070,Parc,HENRI-DUNANT,N/A,QURU,Quercus rubra,Red Oak,5,9/16/2012 12:00:00 AM,-73.5818,45.489529,2f2c14af-192c-45b4-afe0-38236c7e3e4d
+1739,41071,Parc,HENRI-DUNANT,N/A,QURU,Quercus rubra,Red Oak,5,9/16/2012 12:00:00 AM,-73.581884,45.489556,403cc67f-4e84-4000-8c1a-1a3a6e30e132
+7781,198618,Street,Chemin Picquet,N/A,QURU,Quercus rubra,Red Oak,5,10/5/2013 12:00:00 AM,-73.589953,45.493124,feca2e01-71ce-48fb-8ab8-61cb0d0371dc
+10971,201789,Street,Rue Jean-Girard,N/A,QURU,Quercus rubra,Red Oak,5,10/5/2013 12:00:00 AM,-73.590066,45.49286,72548756-907b-432a-a25f-7b43b9b5fe25
+4287,195656,Street,Avenue Atwater,2111,ROPS,Robinia pseudoacacia,Black Locust,5,4/20/2010 12:00:00 AM,-73.5871,45.490967,5e47a691-6dbf-4327-a813-a90878be1a94
+7814,198651,Street,Chemin Saint-Sulpice,3074,ROPS,Robinia pseudoacacia,Black Locust,34,8/28/2019 12:00:00 AM,-73.590805,45.493392,c6388829-b88c-4d4f-9ab5-8e3f9798f0a9
+4569,196581,Street,Avenue Lincoln,2320,SYRE,Syringa reticulata,Japanese Tree Lilac,5,6/15/2019 12:00:00 AM,-73.586097,45.491139,68a1bfed-c876-41f3-9a9d-7dc98a595a49
+4570,196582,Street,Avenue Lincoln,2320,SYRE,Syringa reticulata,Japanese Tree Lilac,5,6/15/2019 12:00:00 AM,-73.586167,45.491083,a389a6ca-bec2-4e68-ab3d-3d1a95f910b9
+4571,196583,Street,Avenue Lincoln,2320,SYRE,Syringa reticulata,Japanese Tree Lilac,5,6/15/2019 12:00:00 AM,-73.586285,45.490987,5e65aa2a-813f-40bb-aeac-7e214615b380
+4573,196585,Street,Avenue Lincoln,N/A,SYRE,Syringa reticulata,Japanese Tree Lilac,5,6/15/2019 12:00:00 AM,-73.585918,45.491292,0d3ecebb-869c-4f82-9a94-16b8c913bf05
+4574,196586,Street,Avenue Lincoln,N/A,SYRE,Syringa reticulata,Japanese Tree Lilac,5,6/15/2019 12:00:00 AM,-73.585981,45.491236,644f1324-bd25-4e6e-9589-82fedd9cef41
+14341,205176,Street,Rue Tupper,1801,SYRE,Syringa reticulata,Japanese Tree Lilac,5,5/16/2019 12:00:00 AM,-73.578613,45.493169,37bb2dae-4268-4f7b-8287-ebffaca2a258
+14342,205177,Street,Rue Tupper,1801,SYRE,Syringa reticulata,Japanese Tree Lilac,5,5/16/2019 12:00:00 AM,-73.578692,45.493101,0c45b7b1-3bbd-44aa-8b3d-8ab836f3d5ba
+14343,205178,Street,Rue Tupper,1801,SYRE,Syringa reticulata,Japanese Tree Lilac,5,5/16/2019 12:00:00 AM,-73.57853,45.493236,85b99bfe-770e-48e4-82ac-1d333693a3c8
+14335,205170,Street,Rue Towers,1408,SYREIS,Syringa reticulata 'Ivory Silk',Ivory Silk Japanese Tree Lilac,10,1/10/2012 12:00:00 AM,-73.581274,45.492456,f073b94d-b0e8-45bd-98f9-3966df20a0cc
+2104,43433,Parc,CABOT,N/A,TIAM,Tilia americana,Basswood,36,12/5/2016 12:00:00 AM,-73.583124,45.489448,7317b2e1-29c3-4955-9b42-ff266757537f
+2117,43446,Parc,CABOT,N/A,TIAM,Tilia americana,Basswood,43,12/5/2016 12:00:00 AM,-73.583278,45.489332,fa11e1a6-24b6-439e-829e-24f21cf86004
+2172,43501,Parc,CABOT,N/A,TIAM,Tilia americana,Basswood,59,12/5/2016 12:00:00 AM,-73.583383,45.489252,93af14b4-9115-4860-ad56-62174671bc47
+3189,43295,Parc,CABOT,N/A,TIAM,Tilia americana,Basswood,36,12/5/2016 12:00:00 AM,-73.583031,45.489533,62c70785-caeb-453d-a8c4-6d7a5113610c
+3285,43788,Parc,CABOT,N/A,TIAM,Tilia americana,Basswood,53,12/5/2016 12:00:00 AM,-73.583996,45.489548,f2b22d74-4106-46d2-93ae-d5e40585c8c7
+3289,43792,Parc,CABOT,N/A,TIAM,Tilia americana,Basswood,39,12/5/2016 12:00:00 AM,-73.583911,45.489584,d868354a-de3d-4086-b5fc-97513e892fec
+3308,43811,Parc,CABOT,N/A,TIAM,Tilia americana,Basswood,39,12/5/2016 12:00:00 AM,-73.583712,45.489754,c8d45919-6a55-4295-86af-f3efda595fec
+3333,43836,Parc,CABOT,N/A,TIAM,Tilia americana,Basswood,42,12/5/2016 12:00:00 AM,-73.583587,45.489804,24d46411-9c8e-4abc-b15b-2ef279ba0aea
+3383,43886,Parc,CABOT,N/A,TIAM,Tilia americana,Basswood,97,12/5/2016 12:00:00 AM,-73.58346,45.489859,ec7ffab8-363a-41e7-80db-fac86aee4e76
+3425,43928,Parc,CABOT,N/A,TIAM,Tilia americana,Basswood,46,12/5/2016 12:00:00 AM,-73.583373,45.489803,43ad9412-33bd-42dd-8bf5-340ffe2e9ddf
+3426,43929,Parc,CABOT,N/A,TIAM,Tilia americana,Basswood,58,12/5/2016 12:00:00 AM,-73.583381,45.489715,7bb406c8-a569-41ad-832a-74727f3d4298
+9610,200426,Street,Rue Chomedey,2010,TIAM,Tilia americana,Basswood,42,1/12/2012 12:00:00 AM,-73.584202,45.491761,8bc47da1-1fac-4085-964c-d553ab332612
+9611,200427,Street,Rue Chomedey,2050,TIAM,Tilia americana,Basswood,48,1/12/2012 12:00:00 AM,-73.584387,45.491869,19d44cca-9bed-4950-b02e-565433cd9acf
+9612,200428,Street,Rue Chomedey,2070,TIAM,Tilia americana,Basswood,41,1/12/2012 12:00:00 AM,-73.584527,45.49195,29bf4514-5e98-4716-a1b8-2d83cb003b70
+9614,200430,Street,Rue Chomedey,2100,TIAM,Tilia americana,Basswood,42,6/20/2016 12:00:00 AM,-73.584733,45.492071,74c06d5d-7729-4e30-b45d-ed52fc8b05e7
+9615,200431,Street,Rue Chomedey,2100,TIAM,Tilia americana,Basswood,44,1/12/2012 12:00:00 AM,-73.584819,45.492116,e377cc63-ce7e-4542-bf15-560cc375659b
+9618,200434,Street,Rue Chomedey,N/A,TIAM,Tilia americana,Basswood,37,1/12/2012 12:00:00 AM,-73.584106,45.491704,7f50f9a5-b533-4292-9d66-41c3f24eb394
+2088,43417,Parc,CABOT,N/A,TICO,Tilia cordata,Littleleaf European Linden,51,12/5/2016 12:00:00 AM,-73.583196,45.489698,6a4b1af7-8827-44a0-b0ed-c27b5a8ad656
+2097,43426,Parc,CABOT,N/A,TICO,Tilia cordata,Littleleaf European Linden,48,12/5/2016 12:00:00 AM,-73.583102,45.489652,03909d2e-b271-4029-b373-d6b9b32ebeb7
+2111,43440,Parc,CABOT,N/A,TICO,Tilia cordata,Littleleaf European Linden,43,12/5/2016 12:00:00 AM,-73.583194,45.48938,b1e825a5-f588-4970-8d04-a45e6edcfc9f
+2160,43489,Parc,HECTOR-TOE-BLAKE,N/A,TICO,Tilia cordata,Littleleaf European Linden,42,1/27/2017 12:00:00 AM,-73.580705,45.48929,ddbf7ac9-5ccd-44a4-95c8-99c79e1521d7
+2179,43508,Parc,CABOT,N/A,TICO,Tilia cordata,Littleleaf European Linden,35,12/5/2016 12:00:00 AM,-73.583442,45.489189,ce16bbc5-ff24-4030-8616-b2941c7d6a4b
+2263,43592,Parc,CABOT,N/A,TICO,Tilia cordata,Littleleaf European Linden,50,12/5/2016 12:00:00 AM,-73.583652,45.489023,545394b3-328a-440d-938c-013485e324f6
+2354,43683,Parc,CABOT,N/A,TICO,Tilia cordata,Littleleaf European Linden,44,12/5/2016 12:00:00 AM,-73.583744,45.489216,1c0c06e6-eacc-4693-933d-310cb049d61c
+2366,43695,Parc,CABOT,N/A,TICO,Tilia cordata,Littleleaf European Linden,43,12/5/2016 12:00:00 AM,-73.583927,45.489099,1aff5719-3ae7-4047-b6df-ee0e97e0328a
+3183,43289,Parc,CABOT,N/A,TICO,Tilia cordata,Littleleaf European Linden,42,12/5/2016 12:00:00 AM,-73.583009,45.489592,5816e912-0131-40bc-afae-d289bd47ff58
+3281,43784,Parc,CABOT,N/A,TICO,Tilia cordata,Littleleaf European Linden,22,12/12/2016 12:00:00 AM,-73.583998,45.489498,a6c512a4-3ae5-47ad-bb33-36178b81207e
+3316,43819,Parc,CABOT,N/A,TICO,Tilia cordata,Littleleaf European Linden,49,12/12/2016 12:00:00 AM,-73.583668,45.489647,e8cbc265-411a-4221-a630-b97a80f9bbf8
+4526,196538,Street,Avenue Lincoln,1849,TICO,Tilia cordata,Littleleaf European Linden,31,1/12/2012 12:00:00 AM,-73.582262,45.494444,ce35762c-c5e5-4741-8dce-0fb0c0f35a0f
+4539,196551,Street,Avenue Lincoln,2055,TICO,Tilia cordata,Littleleaf European Linden,28,1/12/2012 12:00:00 AM,-73.58478,45.492386,5ebe30be-5ae4-4884-8684-ba3a03e0234c
+4540,196552,Street,Avenue Lincoln,2055,TICO,Tilia cordata,Littleleaf European Linden,29,1/12/2012 12:00:00 AM,-73.584647,45.492494,02f86000-a8ed-4c9b-b747-288c16ec5acc
+4541,196553,Street,Avenue Lincoln,2055,TICO,Tilia cordata,Littleleaf European Linden,41,1/12/2012 12:00:00 AM,-73.583915,45.493084,6d49e34d-b58b-495f-8115-952f9fe51997
+4544,196556,Street,Avenue Lincoln,2055,TICO,Tilia cordata,Littleleaf European Linden,34,8/10/2018 12:00:00 AM,-73.58438,45.49271,ab5672af-759f-415f-ba54-877cde673c34
+4559,196571,Street,Avenue Lincoln,2000,TICO,Tilia cordata,Littleleaf European Linden,33,1/12/2012 12:00:00 AM,-73.584134,45.492764,7bf61dd3-5cc3-4979-9945-0b0d6f1263ca
+4562,196574,Street,Avenue Lincoln,2080,TICO,Tilia cordata,Littleleaf European Linden,39,8/10/2018 12:00:00 AM,-73.584371,45.492575,5499f2cf-28b7-4198-8790-2b80052e5d8d
+4568,196580,Street,Avenue Lincoln,2182,TICO,Tilia cordata,Littleleaf European Linden,48,1/12/2012 12:00:00 AM,-73.585639,45.491535,8ad7b991-afe8-40a5-bfa6-e5aa33a4a0cd
+4572,196584,Street,Avenue Lincoln,N/A,TICO,Tilia cordata,Littleleaf European Linden,48,1/12/2012 12:00:00 AM,-73.584977,45.492079,70f34d1f-22c0-4432-86aa-edad32cbbf9b
+5022,196221,Street,Avenue Hope,N/A,TICO,Tilia cordata,Littleleaf European Linden,32,1/19/2012 12:00:00 AM,-73.580303,45.489494,eca674da-dfeb-4727-8841-a586e9d97871
+7779,198616,Street,Chemin Picquet,3024,TICO,Tilia cordata,Littleleaf European Linden,10,1/15/2016 12:00:00 AM,-73.590789,45.493205,d66b0f41-a492-44ab-b089-4d6525077108
+7817,198654,Street,Chemin Saint-Sulpice,3086,TICO,Tilia cordata,Littleleaf European Linden,31,5/16/2018 12:00:00 AM,-73.591583,45.493015,bd1cd6dd-11ed-444a-be96-0d5f42da7799
+9613,200429,Street,Rue Chomedey,2100,TICO,Tilia cordata,Littleleaf European Linden,5,6/11/2018 12:00:00 AM,-73.584631,45.492013,5ae4c428-ba0a-44ae-ba2a-d66e4b818427
+9617,200433,Street,Rue Chomedey,2260,TICO,Tilia cordata,Littleleaf European Linden,23,1/12/2012 12:00:00 AM,-73.585587,45.492561,31ed5ee9-4e54-4ed7-a69b-4101206dc925
+13680,204517,Street,Rue Saint-Mathieu,3450,TICO,Tilia cordata,Littleleaf European Linden,35,2/16/2015 12:00:00 AM,-73.583452,45.496254,e5b2655e-1168-4c1b-9409-8ad46579d21a
+15105,206321,Street,Rue du Fort,2053,TICO,Tilia cordata,Littleleaf European Linden,22,1/12/2012 12:00:00 AM,-73.583408,45.493053,aa025c1d-cc20-4976-b263-7f569857fa58
+15106,206322,Street,Rue du Fort,2053,TICO,Tilia cordata,Littleleaf European Linden,24,1/12/2012 12:00:00 AM,-73.583536,45.493129,a52d6b57-79a7-47f4-b19a-9a8b5a49b288
+15110,206326,Street,Rue du Fort,N/A,TICO,Tilia cordata,Littleleaf European Linden,24,1/12/2012 12:00:00 AM,-73.583168,45.492915,69e48755-25f5-4b1e-b1ea-02d135d43a27
+15113,206329,Street,Rue du Fort,2010,TICO,Tilia cordata,Littleleaf European Linden,44,1/12/2012 12:00:00 AM,-73.583132,45.492734,b35d7cf4-8f53-47de-8421-e51822f24a37
+15114,206330,Street,Rue du Fort,2030,TICO,Tilia cordata,Littleleaf European Linden,39,1/12/2012 12:00:00 AM,-73.583279,45.492819,ff166f73-b039-4be5-8489-f737fc95a1ed
+15116,206332,Street,Rue du Fort,2100,TICO,Tilia cordata,Littleleaf European Linden,30,1/15/2018 12:00:00 AM,-73.583521,45.492963,a124586a-385f-4ed0-b579-ba762ae3a897
+15117,206333,Street,Rue du Fort,2100,TICO,Tilia cordata,Littleleaf European Linden,46,1/12/2012 12:00:00 AM,-73.583641,45.49303,577354a7-e57a-4ae5-9b2f-c7ae96aae31a
+15118,206334,Street,Rue du Fort,N/A,TICO,Tilia cordata,Littleleaf European Linden,5,2/16/2015 12:00:00 AM,-73.584079,45.493415,4492dd0f-4dfa-470c-855f-08c22c5dd702
+9607,200423,Street,Rue Chomedey,1440,TICOGL,Tilia cordata 'Glenleven',Glenleven Littleleaf Linden,31,1/12/2012 12:00:00 AM,-73.583628,45.491442,2305c212-3156-43a5-8df1-3540f2e16427
+4542,196554,Street,Avenue Lincoln,2055,TICOGR,Tilia cordata 'Greenspire',Greenspire Littleleaf Linden,5,5/15/2011 12:00:00 AM,-73.584088,45.492949,6def644e-a14a-4002-a461-7e28437f3fea
+14195,205030,Street,Rue Sherbrooke Ouest,2068,TICOGR,Tilia cordata 'Greenspire',Greenspire Littleleaf Linden,5,6/2/2013 12:00:00 AM,-73.584767,45.493155,bf02e876-e0a6-48f0-8ba9-9e8a29cb6b13
+14196,205031,Street,Rue Sherbrooke Ouest,2068,TICOGR,Tilia cordata 'Greenspire',Greenspire Littleleaf Linden,5,6/2/2013 12:00:00 AM,-73.584933,45.493058,86d50e73-fe34-4286-81be-b5b272fc5f32
+14198,205033,Street,Rue Sherbrooke Ouest,2082,TICOGR,Tilia cordata 'Greenspire',Greenspire Littleleaf Linden,5,6/2/2013 12:00:00 AM,-73.585161,45.492924,ba3ee60c-3707-4d37-85be-ea3285b53318
+14199,205034,Street,Rue Sherbrooke Ouest,2082,TICOGR,Tilia cordata 'Greenspire',Greenspire Littleleaf Linden,5,6/2/2013 12:00:00 AM,-73.585323,45.492829,379a64d7-7a21-452e-86e4-71288263fc92
+14200,205035,Street,Rue Sherbrooke Ouest,2082,TICOGR,Tilia cordata 'Greenspire',Greenspire Littleleaf Linden,5,6/2/2013 12:00:00 AM,-73.585523,45.492713,b1add8e8-7e49-4bbe-9bd1-633fa3f371ba
+14203,205038,Street,Rue Sherbrooke Ouest,2150,TICOGR,Tilia cordata 'Greenspire',Greenspire Littleleaf Linden,5,6/2/2013 12:00:00 AM,-73.585839,45.492518,edc2e735-1208-4dce-a985-42fa887fa1ed
+14204,205039,Street,Rue Sherbrooke Ouest,2150,TICOGR,Tilia cordata 'Greenspire',Greenspire Littleleaf Linden,5,6/2/2013 12:00:00 AM,-73.585941,45.49245,105a9213-3b7a-47e4-aed9-892a98a86559
+14205,205040,Street,Rue Sherbrooke Ouest,2150,TICOGR,Tilia cordata 'Greenspire',Greenspire Littleleaf Linden,5,6/2/2013 12:00:00 AM,-73.586058,45.492378,ee9e4d4b-ebbe-44a3-a588-40a4b5536cf9
+14206,205041,Street,Rue Sherbrooke Ouest,2150,TICOGR,Tilia cordata 'Greenspire',Greenspire Littleleaf Linden,5,6/2/2013 12:00:00 AM,-73.586247,45.492272,77e7ba0c-39b2-4054-a5b9-dc23bb7aa380
+14207,205042,Street,Rue Sherbrooke Ouest,2150,TICOGR,Tilia cordata 'Greenspire',Greenspire Littleleaf Linden,5,6/2/2013 12:00:00 AM,-73.58643,45.492158,4d103e9e-35fb-44a8-9dab-04fd9059d567
+14208,205043,Street,Rue Sherbrooke Ouest,2150,TICOGR,Tilia cordata 'Greenspire',Greenspire Littleleaf Linden,5,6/2/2013 12:00:00 AM,-73.586636,45.492035,7cd907af-cb6c-4529-87ee-0f7ad98703ed
+14217,205052,Street,Rue Sherbrooke Ouest,N/A,TICOGR,Tilia cordata 'Greenspire',Greenspire Littleleaf Linden,5,6/9/2013 12:00:00 AM,-73.587931,45.491092,dd2666ac-9e18-4444-8282-2a48c63c66cf
+14218,205053,Street,Rue Sherbrooke Ouest,N/A,TICOGR,Tilia cordata 'Greenspire',Greenspire Littleleaf Linden,5,6/9/2013 12:00:00 AM,-73.58802,45.491013,f43e1789-6eb2-460c-945c-956be8c919d9
+14219,205054,Street,Rue Sherbrooke Ouest,N/A,TICOGR,Tilia cordata 'Greenspire',Greenspire Littleleaf Linden,5,6/9/2013 12:00:00 AM,-73.588097,45.490937,c1c82965-8d4a-41fb-af75-e7f0788b06a4
+14220,205055,Street,Rue Sherbrooke Ouest,N/A,TICOGR,Tilia cordata 'Greenspire',Greenspire Littleleaf Linden,5,6/9/2013 12:00:00 AM,-73.58818,45.490871,ca43d7f4-9aab-410f-b257-f876231d373d
+14221,205056,Street,Rue Sherbrooke Ouest,N/A,TICOGR,Tilia cordata 'Greenspire',Greenspire Littleleaf Linden,5,6/9/2013 12:00:00 AM,-73.588254,45.490799,d7769fce-d2af-4599-a22b-c765ac85d4d2
+14222,205057,Street,Rue Sherbrooke Ouest,N/A,TICOGR,Tilia cordata 'Greenspire',Greenspire Littleleaf Linden,5,6/9/2013 12:00:00 AM,-73.588331,45.49073,fb5f6edd-e3d0-4e0a-930c-01db8c3f88f2
+14223,205058,Street,Rue Sherbrooke Ouest,N/A,TICOGR,Tilia cordata 'Greenspire',Greenspire Littleleaf Linden,5,6/9/2013 12:00:00 AM,-73.588412,45.490655,052fcb61-813b-4596-86e1-191f4d7802c9
+14224,205059,Street,Rue Sherbrooke Ouest,N/A,TICOGR,Tilia cordata 'Greenspire',Greenspire Littleleaf Linden,5,6/9/2013 12:00:00 AM,-73.588483,45.490582,f0329429-3902-47e0-beb4-b562cdacf4fa
+14225,205060,Street,Rue Sherbrooke Ouest,N/A,TICOGR,Tilia cordata 'Greenspire',Greenspire Littleleaf Linden,5,6/9/2013 12:00:00 AM,-73.588558,45.490513,756d96fc-1df2-44b5-be25-120e7a1ae293
+14226,205061,Street,Rue Sherbrooke Ouest,N/A,TICOGR,Tilia cordata 'Greenspire',Greenspire Littleleaf Linden,5,6/9/2013 12:00:00 AM,-73.588643,45.490437,afa1108a-3323-4a18-81f6-d7a7fbd27326
+3293,43796,Parc,CABOT,N/A,TICOSH,Tilia cordata 'Sheridan',Sheridan Littleleaf Linden,22,12/5/2016 12:00:00 AM,-73.583879,45.489507,6a95ee94-5f3c-4502-ad04-e82a4640a0c6
+3298,43801,Parc,CABOT,N/A,TICOSH,Tilia cordata 'Sheridan',Sheridan Littleleaf Linden,26,12/5/2016 12:00:00 AM,-73.583831,45.489653,7ee26024-5ddd-454a-bc8d-29585ff0b60f
+4545,196557,Street,Avenue Lincoln,2055,TICOSH,Tilia cordata 'Sheridan',Sheridan Littleleaf Linden,15,1/12/2012 12:00:00 AM,-73.584502,45.492616,fe08f6bc-8dc5-499a-a39f-3900c03ae105
+4561,196573,Street,Avenue Lincoln,2080,TICOSH,Tilia cordata 'Sheridan',Sheridan Littleleaf Linden,18,1/12/2012 12:00:00 AM,-73.584253,45.49267,c36d0d90-88d9-4c1b-860f-eefe4602a614
+13190,204414,Street,Rue Saint-Marc,2125,UL,Ulmus,Elm,5,6/12/2018 12:00:00 AM,-73.582213,45.493945,95b8ce99-a494-4416-bc93-982d9e07f96a
+13191,204415,Street,Rue Saint-Marc,2125,UL,Ulmus,Elm,5,6/12/2018 12:00:00 AM,-73.581913,45.493774,7a6c06b6-de05-4f8e-8d4f-2cc6b84f1682
+13194,204418,Street,Rue Saint-Marc,2155,UL,Ulmus,Elm,5,6/12/2018 12:00:00 AM,-73.582467,45.494076,05665f3a-2880-42ec-85c6-00ce51232c71
+13668,204505,Street,Rue Saint-Mathieu,1420,UL,Ulmus,Elm,15,7/21/2015 12:00:00 AM,-73.579998,45.494177,a0d244d5-fb5e-460a-a251-50dea897fc7a
+3323,43826,Parc,HENRI-DUNANT,N/A,ULAM,Ulmus americana,White Elm,61,1/30/2019 12:00:00 AM,-73.58202,45.489641,529dcf5b-162d-486f-95ae-79478ab2ef41
+6464,198073,Street,Boulevard de Maisonneuve Ouest,1800,ULAM,Ulmus americana,White Elm,25,3/6/2012 12:00:00 AM,-73.580719,45.49431,d4290403-c1e2-43d8-87fe-41c55929fe70
+6468,198077,Street,Boulevard de Maisonneuve Ouest,1864,ULAM,Ulmus americana,White Elm,34,3/6/2012 12:00:00 AM,-73.581462,45.493675,d4225488-1dc9-453f-96f6-0db1a3461daf
+6473,198082,Street,Boulevard de Maisonneuve Ouest,2070,ULAM,Ulmus americana,White Elm,40,3/6/2012 12:00:00 AM,-73.583244,45.492162,e61eb088-9fb8-450f-9d0e-8896db77a8ca
+6478,198087,Street,Boulevard de Maisonneuve Ouest,2208,ULAM,Ulmus americana,White Elm,51,7/14/2017 12:00:00 AM,-73.584621,45.490991,ff819ce5-8001-4d0f-84ed-45729e976610
+6598,198207,Street,Boulevard René-Lévesque Ouest,1819,ULAM,Ulmus americana,White Elm,26,8/8/2006 12:00:00 AM,-73.576951,45.492027,12972c2e-4d7e-456d-be59-b7dd344369d3
+6599,198208,Street,Boulevard René-Lévesque Ouest,1825,ULAM,Ulmus americana,White Elm,37,8/8/2006 12:00:00 AM,-73.577044,45.491928,50bbe140-adef-4c6f-a179-75d1b574d119
+6664,198273,Street,Chemin De Breslay,3000,ULAM,Ulmus americana,White Elm,46,2/29/2012 12:00:00 AM,-73.589531,45.492018,ebe7ace6-4d5e-4118-9425-6033a66049a5
+7624,198033,Street,Boulevard René-Lévesque Ouest,N/A,ULAM,Ulmus americana,White Elm,38,3/8/2018 12:00:00 AM,-73.582235,45.488482,1ea1646e-3f5c-4dc4-897e-70aa26309061
+8438,199255,Street,Rue Baile,N/A,ULAM,Ulmus americana,White Elm,31,1/19/2012 12:00:00 AM,-73.579296,45.491482,6f028b21-b46e-4e87-85e7-c2a229c4974f
+8536,199353,Street,Rue Baile,N/A,ULAM,Ulmus americana,White Elm,41,1/19/2012 12:00:00 AM,-73.579346,45.491438,71cc6c6f-c572-4d37-8fbb-8e85382fb05e
+8540,199357,Street,Rue Baile,N/A,ULAM,Ulmus americana,White Elm,8,1/19/2012 12:00:00 AM,-73.579393,45.491398,1d22b0e2-dbbd-4d5b-95cb-752da330efec
+8545,199362,Street,Rue Baile,N/A,ULAM,Ulmus americana,White Elm,35,1/19/2012 12:00:00 AM,-73.579444,45.491357,dc77ba81-3ee3-4cd2-8fb5-81564dbb140f
+8552,199369,Street,Rue Baile,N/A,ULAM,Ulmus americana,White Elm,15,1/19/2012 12:00:00 AM,-73.579142,45.49161,f4f60114-810f-4efe-9fb3-4398ca8dcbf9
+8649,199466,Street,Rue Baile,N/A,ULAM,Ulmus americana,White Elm,14,1/19/2012 12:00:00 AM,-73.579246,45.491528,f903b34f-5f39-4778-967d-8b0f4f1643d3
+8988,199009,Street,Rue Baile,N/A,ULAM,Ulmus americana,White Elm,29,1/19/2012 12:00:00 AM,-73.579494,45.491314,6a0462d0-64d8-418d-8517-64a69311d4c5
+9090,199111,Street,Rue Baile,N/A,ULAM,Ulmus americana,White Elm,37,1/19/2012 12:00:00 AM,-73.578935,45.491784,88bf9ce7-db08-414c-b8fd-3a2e50d748f0
+9099,199120,Street,Rue Baile,N/A,ULAM,Ulmus americana,White Elm,33,1/19/2012 12:00:00 AM,-73.579094,45.491654,dbf5c20c-4475-4b84-bc36-75e90c8a7cdf
+9107,199128,Street,Rue Baile,N/A,ULAM,Ulmus americana,White Elm,34,1/19/2012 12:00:00 AM,-73.579554,45.491267,ec8d6781-8089-4767-bdac-87ae44e42627
+9117,199138,Street,Rue Baile,N/A,ULAM,Ulmus americana,White Elm,31,1/19/2012 12:00:00 AM,-73.579196,45.491568,f1629888-050f-4400-94d9-606439f35a37
+13171,204395,Street,Rue Saint-Marc,1191,ULAM,Ulmus americana,White Elm,56,1/12/2012 12:00:00 AM,-73.578456,45.49177,2bdc5452-4f98-42d0-924c-0ed0c3ef0c55
+13199,204423,Street,Rue Saint-Marc,N/A,ULAM,Ulmus americana,White Elm,62,7/18/2018 12:00:00 AM,-73.57793,45.491468,d512708d-214b-4216-b923-47a156f97fe3
+13205,204429,Street,Rue Saint-Marc,1254,ULAM,Ulmus americana,White Elm,34,1/12/2012 12:00:00 AM,-73.579655,45.492304,2e0c9cde-d9b4-42c0-ad9f-2d80a267cb6d
+13208,204432,Street,Rue Saint-Marc,1280,ULAM,Ulmus americana,White Elm,35,1/12/2012 12:00:00 AM,-73.580244,45.492646,16344e9e-77a2-419d-aa70-d8132fe501a6
+13213,204437,Street,Rue Saint-Marc,1456,ULAM,Ulmus americana,White Elm,46,11/23/2011 12:00:00 AM,-73.581403,45.493311,0f0cb452-e6ab-4246-b986-60a23313a8c7
+13626,204463,Street,Rue Saint-Mathieu,N/A,ULAM,Ulmus americana,White Elm,57,1/10/2012 12:00:00 AM,-73.582989,45.496156,e0bfebfa-84c3-47a2-ba37-5535776fd5b0
+4553,196565,Street,Avenue Lincoln,1950,ULDADI,Ulmus davidiana 'Discovery',Nom anglais,5,5/5/2016 12:00:00 AM,-73.583335,45.493413,31666188-c7a4-4c8a-a1c2-0fa738ff5eb9
+13175,204399,Street,Rue Saint-Marc,1225,ULDADI,Ulmus davidiana 'Discovery',Nom anglais,10,1/12/2012 12:00:00 AM,-73.579067,45.49212,be0ccbee-f9a5-4b15-ac37-5d91da6782a7
+13180,204404,Street,Rue Saint-Marc,1275,ULDADI,Ulmus davidiana 'Discovery',Nom anglais,9,1/12/2012 12:00:00 AM,-73.579925,45.492619,f9a440c2-62ea-4984-b660-16605dc379b5
+14323,205158,Street,Rue Towers,1433,ULDADI,Ulmus davidiana 'Discovery',Nom anglais,5,5/30/2016 12:00:00 AM,-73.58164,45.492802,f25a420d-05e8-402c-866f-567b11060cca
+14333,205168,Street,Rue Towers,1459,ULDADI,Ulmus davidiana 'Discovery',Nom anglais,5,5/30/2016 12:00:00 AM,-73.581906,45.492959,2013e850-455e-4fd4-8657-088304b21b14
+14367,205202,Street,Rue Tupper,N/A,ULDADI,Ulmus davidiana 'Discovery',Nom anglais,5,5/5/2016 12:00:00 AM,-73.579651,45.492183,2d2b68cf-f31e-4988-b8e9-ae797dac386f
+15514,205933,Street,Rue Sherbrooke Ouest,1931,ULDADI,Ulmus davidiana 'Discovery',Nom anglais,5,11/22/2016 12:00:00 AM,-73.584428,45.493706,0b86f985-cc76-43be-a34c-3358c69b61f1
+15516,205935,Street,Rue Sherbrooke Ouest,1931,ULDADI,Ulmus davidiana 'Discovery',Nom anglais,5,11/22/2016 12:00:00 AM,-73.584128,45.494024,30dc7839-bbe5-43e6-a677-ed0b72919561
+15522,205941,Street,Rue Sherbrooke Ouest,1931,ULDADI,Ulmus davidiana 'Discovery',Nom anglais,5,11/22/2016 12:00:00 AM,-73.584236,45.493898,fa57717f-dfb3-424f-b1e7-68061c3321ba
+15523,205942,Street,Rue Sherbrooke Ouest,1931,ULDADI,Ulmus davidiana 'Discovery',Nom anglais,5,11/22/2016 12:00:00 AM,-73.584362,45.493769,94625ee2-c750-43a6-983b-57ecb89cff12
+15540,205959,Street,Rue Sherbrooke Ouest,N/A,ULDADI,Ulmus davidiana 'Discovery',Nom anglais,5,11/5/2019 12:00:00 AM,-73.586386,45.492488,35ace6c4-be0b-4c79-8723-296c6d08b4e4
+15945,205582,Street,Rue Sherbrooke Ouest,1617,ULDADI,Ulmus davidiana 'Discovery',Nom anglais,5,6/11/2019 12:00:00 AM,-73.582193,45.496225,568e366c-ab9c-4b8f-824e-fb7510fb7835
+7778,198615,Street,Chemin Picquet,3022,ULPU,Ulmus pumila,Siberian Elm,44,4/3/2012 12:00:00 AM,-73.590503,45.493205,82f06271-4ab3-43fb-8c1e-925f6bb7e7d5
+7780,198617,Street,Chemin Picquet,3026,ULPU,Ulmus pumila,Siberian Elm,58,9/9/2016 12:00:00 AM,-73.590934,45.4932,89e3f681-98f2-4f9a-b8b2-2c142e2126ea
+7782,198619,Street,Chemin Picquet,N/A,ULPU,Ulmus pumila,Siberian Elm,38,4/3/2012 12:00:00 AM,-73.590109,45.493151,cd1d1f19-70e4-4fdb-ba4c-1c2ffa51cc10
+7783,198620,Street,Chemin Picquet,N/A,ULPU,Ulmus pumila,Siberian Elm,60,4/3/2012 12:00:00 AM,-73.590243,45.493173,914b8ea3-c68c-4f01-8862-bec06952875f
+13625,204462,Street,Rue Saint-Mathieu,N/A,ULPU,Ulmus pumila,Siberian Elm,50,10/5/2011 12:00:00 AM,-73.582832,45.496049,ad31eb5a-be1c-4a5d-9595-d8cadd3d7074
+7816,198653,Street,Chemin Saint-Sulpice,3082,ULPUPR,Ulmus pumila 'Park Royal',Park Royal Siberian Elm,50,4/3/2012 12:00:00 AM,-73.591386,45.493087,40d887c5-49f8-4f64-a09f-4c7709077492
+7818,198655,Street,Chemin Saint-Sulpice,3088,ULPUPR,Ulmus pumila 'Park Royal',Park Royal Siberian Elm,49,6/29/2017 12:00:00 AM,-73.591749,45.492956,8fe5dbb8-8830-48b6-984b-cc6b398e6dfe
+7820,198657,Street,Chemin Saint-Sulpice,3110,ULPUPR,Ulmus pumila 'Park Royal',Park Royal Siberian Elm,64,6/29/2017 12:00:00 AM,-73.592221,45.492718,e93d5478-0447-41aa-b484-2e2e0a980565
+6618,198227,Street,Boulevard René-Lévesque Ouest,N/A,ULXXCA,Ulmus X 'Cathedral',Cathedral elm,5,6/22/2018 12:00:00 AM,-73.576025,45.492995,91a7ba29-2ddc-4d50-b099-9cd007f2fc80
+7973,198810,Street,Boulevard de Maisonneuve Ouest,1645,ULXXCA,Ulmus X 'Cathedral',Cathedral elm,5,6/15/2018 12:00:00 AM,-73.580117,45.495021,2dd405b3-cd5c-4ef4-bd2a-a58ac296af59
+13675,204512,Street,Rue Saint-Mathieu,2300,ULXXCA,Ulmus X 'Cathedral',Cathedral elm,5,6/3/2018 12:00:00 AM,-73.581607,45.495115,ee44698e-1966-485a-afb3-a9945f23e644
+13676,204513,Street,Rue Saint-Mathieu,2300,ULXXCA,Ulmus X 'Cathedral',Cathedral elm,5,6/3/2018 12:00:00 AM,-73.581723,45.495178,a54ea14e-8c24-4d26-ae5f-3bd162e99326
+13678,204515,Street,Rue Saint-Mathieu,2300,ULXXCA,Ulmus X 'Cathedral',Cathedral elm,5,6/3/2018 12:00:00 AM,-73.581968,45.495317,cfd97e9b-2931-401d-9116-ca2a9baa7b72
+6460,198069,Street,Boulevard de Maisonneuve Ouest,1600,ULXXHO,Ulmus x 'Homestead',Homestead Elm,5,5/25/2010 12:00:00 AM,-73.579307,45.495512,acfb8c6e-8a37-4771-8ebd-6e224112c833
+6466,198075,Street,Boulevard de Maisonneuve Ouest,1822,ULXXHO,Ulmus x 'Homestead',Homestead Elm,28,3/6/2012 12:00:00 AM,-73.58105,45.494026,6c7a19ad-b17a-440f-b0e4-e642519d14f8
+6471,198080,Street,Boulevard de Maisonneuve Ouest,1956,ULXXHO,Ulmus x 'Homestead',Homestead Elm,29,11/6/2015 12:00:00 AM,-73.582318,45.492958,b0c1da4e-b51d-48d5-9f39-c063e9ff4e0e
+6472,198081,Street,Boulevard de Maisonneuve Ouest,1978,ULXXHO,Ulmus x 'Homestead',Homestead Elm,20,11/6/2015 12:00:00 AM,-73.582569,45.492741,b7de80c8-78c5-4c76-bb2f-7b54adea7abd
+6597,198206,Street,Boulevard René-Lévesque Ouest,1819,ULXXHO,Ulmus x 'Homestead',Homestead Elm,18,8/8/2006 12:00:00 AM,-73.576844,45.492149,95e46944-ca49-4abd-8cec-db2bce041880
+6600,198209,Street,Boulevard René-Lévesque Ouest,1849,ULXXHO,Ulmus x 'Homestead',Homestead Elm,22,6/14/2006 12:00:00 AM,-73.577236,45.49173,8007cf24-9c31-4029-ae17-9fcbcc112fe9
+6612,198221,Street,Boulevard René-Lévesque Ouest,N/A,ULXXHO,Ulmus x 'Homestead',Homestead Elm,5,6/9/2011 12:00:00 AM,-73.57577,45.493254,ba4659d4-26e7-4c7b-adda-a5c4b3ee56c7
+6614,198223,Street,Boulevard René-Lévesque Ouest,N/A,ULXXHO,Ulmus x 'Homestead',Homestead Elm,7,11/5/2015 12:00:00 AM,-73.576232,45.492778,2db14aa3-e082-4227-bc78-d8b0fc42e2fb
+6620,198229,Street,Boulevard René-Lévesque Ouest,N/A,ULXXHO,Ulmus x 'Homestead',Homestead Elm,7,11/5/2015 12:00:00 AM,-73.576331,45.492679,d8ff3cf3-cf64-43ac-aedb-1670491a2240
+7974,198811,Street,Boulevard de Maisonneuve Ouest,1645,ULXXHO,Ulmus x 'Homestead',Homestead Elm,18,3/6/2012 12:00:00 AM,-73.580003,45.495116,6fad6cc8-57dc-474c-b364-a9ad55417cd3
+8826,198849,Street,Boulevard de Maisonneuve Ouest,N/A,ULXXHO,Ulmus x 'Homestead',Homestead Elm,5,6/21/2014 12:00:00 AM,-73.581934,45.493495,939f5c39-fc98-4faa-8a50-6f4a02e995c0
+9124,199145,Street,Rue Baile,N/A,ULXXHO,Ulmus x 'Homestead',Homestead Elm,8,1/19/2012 12:00:00 AM,-73.579606,45.491217,18ed1b93-c099-4997-be2f-41daec6b36ed
+13119,204343,Street,Rue Sainte-Catherine Ouest,2176,ULXXHO,Ulmus x 'Homestead',Homestead Elm,6,3/6/2012 12:00:00 AM,-73.583007,45.490511,ef37bbdf-c59c-40b5-94ff-6491a3399093
+13172,204396,Street,Rue Saint-Marc,1205,ULXXHO,Ulmus x 'Homestead',Homestead Elm,12,1/12/2012 12:00:00 AM,-73.578582,45.491841,832ecb72-d623-49ad-bc62-9094abdfb761
+13174,204398,Street,Rue Saint-Marc,1225,ULXXHO,Ulmus x 'Homestead',Homestead Elm,23,1/12/2012 12:00:00 AM,-73.578937,45.492044,335a4246-fe6c-46ac-a29d-0df92bc682c4
+13183,204407,Street,Rue Saint-Marc,1419,ULXXHO,Ulmus x 'Homestead',Homestead Elm,29,11/23/2011 12:00:00 AM,-73.580774,45.493113,6fa8af10-03c3-4eb6-8338-5b6b889ba84a
+14344,205179,Street,Rue Tupper,1829,ULXXHO,Ulmus x 'Homestead',Homestead Elm,12,1/19/2012 12:00:00 AM,-73.578914,45.492908,5ff3f12c-fad2-4413-a4dc-e7c58961526c
+14346,205181,Street,Rue Tupper,1843,ULXXHO,Ulmus x 'Homestead',Homestead Elm,16,1/19/2012 12:00:00 AM,-73.579065,45.492777,37517a3b-6cdd-4783-8532-3be07645a57b
+14364,205199,Street,Rue Tupper,2165,ULXXHO,Ulmus x 'Homestead',Homestead Elm,5,10/16/2017 12:00:00 AM,-73.582212,45.490044,e5886391-a02e-4f0d-98be-e5a49f457084
+14365,205200,Street,Rue Tupper,2165,ULXXHO,Ulmus x 'Homestead',Homestead Elm,5,10/16/2017 12:00:00 AM,-73.582124,45.490111,e7e1201d-e87b-43fa-9d6b-d821c7d85192
+4127,195348,Street,Avenue Atwater,2021,ULXXMG,Ulmus x 'Morton Glossy' (Triumph TM),Ulmus x 'Morton Glossy' (Triumph TM),5,11/5/2019 12:00:00 AM,-73.586338,45.490527,6e9acff4-431c-49f4-8f7e-0ae56e784bf4
+4325,195948,Street,Avenue Atwater,N/A,ULXXMG,Ulmus x 'Morton Glossy' (Triumph TM),Ulmus x 'Morton Glossy' (Triumph TM),5,11/5/2019 12:00:00 AM,-73.587585,45.490988,f828a6ca-2fb2-41d6-af03-9d392bce980a
+4327,195950,Street,Avenue Atwater,N/A,ULXXMG,Ulmus x 'Morton Glossy' (Triumph TM),Ulmus x 'Morton Glossy' (Triumph TM),5,11/5/2019 12:00:00 AM,-73.587082,45.490693,70df3583-0286-4a86-985f-53830d14b8c7
+4328,195951,Street,Avenue Atwater,N/A,ULXXMG,Ulmus x 'Morton Glossy' (Triumph TM),Ulmus x 'Morton Glossy' (Triumph TM),5,11/5/2019 12:00:00 AM,-73.586434,45.490316,c06ecb34-c018-402a-b317-11ae1640c3d7
+4547,196559,Street,Avenue Lincoln,1830,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,5/10/2017 12:00:00 AM,-73.581848,45.494642,0938173e-fbfb-468f-9ec0-bba27f46957b
+4554,196566,Street,Avenue Lincoln,1950,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,5/4/2014 12:00:00 AM,-73.583002,45.493688,d4e03048-9d80-4581-857e-05e93e06d45f
+4555,196567,Street,Avenue Lincoln,1950,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,5/4/2014 12:00:00 AM,-73.5835,45.493282,f0520e6b-cfa2-450e-93d9-19c765335440
+4556,196568,Street,Avenue Lincoln,1950,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,6/2/2019 12:00:00 AM,-73.583176,45.493548,d6371fb1-dc36-4de5-b5e2-8a917a37c1b4
+4565,196577,Street,Avenue Lincoln,2170,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,5/4/2014 12:00:00 AM,-73.585171,45.491918,ce30a450-ceb7-4de9-9f2d-c69997f45af2
+4566,196578,Street,Avenue Lincoln,2170,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,10/25/2018 12:00:00 AM,-73.585378,45.491756,af5f5809-c46c-4bb8-9f58-5706f396e4b0
+4567,196579,Street,Avenue Lincoln,2182,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,10/25/2018 12:00:00 AM,-73.585493,45.491657,f876c4da-b604-41fc-babc-4e03e59bc2ab
+6469,198078,Street,Boulevard de Maisonneuve Ouest,1910,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,10/17/2016 12:00:00 AM,-73.581909,45.493297,f502308e-5e32-43ee-ae4c-63938966f78b
+6470,198079,Street,Boulevard de Maisonneuve Ouest,1910,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,15,11/6/2015 12:00:00 AM,-73.582077,45.493157,a1969d66-0304-4257-9bd6-cebe913041b1
+6475,198084,Street,Boulevard de Maisonneuve Ouest,2100,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,5/28/2021 12:00:00 AM,-73.583502,45.491937,e4afc14d-6513-42fa-aafb-8af7f57b9b4a
+6523,198132,Street,Boulevard René-Lévesque Ouest,N/A,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,5/28/2015 12:00:00 AM,-73.575672,45.493357,321747bb-bc0b-43f2-8667-3898880e0f0a
+6609,198218,Street,Boulevard René-Lévesque Ouest,N/A,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,5/28/2015 12:00:00 AM,-73.575465,45.493567,cf991fbb-6313-4fcb-8572-030b5d64af7d
+6611,198220,Street,Boulevard René-Lévesque Ouest,N/A,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,5/28/2015 12:00:00 AM,-73.575571,45.493458,da671f2c-f1e1-4d75-86da-37d72251da21
+6629,198238,Street,Boulevard René-Lévesque Ouest,N/A,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,11/25/2016 12:00:00 AM,-73.576126,45.492885,7b561f03-fb95-4538-9db2-834aaf6142fe
+7981,198818,Street,Boulevard de Maisonneuve Ouest,1929,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,6,3/6/2012 12:00:00 AM,-73.582198,45.493247,0e3276a8-3b51-439d-b423-6ea715ef675d
+7986,198823,Street,Boulevard de Maisonneuve Ouest,2097,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,6,3/6/2012 12:00:00 AM,-73.583656,45.492027,30ac70de-bb25-4a9a-b173-e8ab30b68c3c
+7988,198825,Street,Boulevard de Maisonneuve Ouest,2097,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,7,3/6/2012 12:00:00 AM,-73.58385,45.491865,69d78993-61af-4f52-b5ef-e22918227da1
+8837,198858,Street,Boulevard de Maisonneuve Ouest,N/A,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,6/21/2014 12:00:00 AM,-73.582015,45.493423,c79c9a2c-619f-4cec-af19-46683c6b6753
+13098,204322,Street,Rue Sainte-Catherine Ouest,1806,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,4/22/2013 12:00:00 AM,-73.579371,45.493605,fa5e7385-06bd-4f8f-b5aa-05e0c5b36b68
+13099,204323,Street,Rue Sainte-Catherine Ouest,1812,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,4/22/2013 12:00:00 AM,-73.579483,45.49351,e5e7f500-3a5e-447a-9ce8-a52a66906544
+13100,204324,Street,Rue Sainte-Catherine Ouest,1818,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,4/22/2013 12:00:00 AM,-73.579541,45.493461,dd651f14-23e0-41cb-91bb-38c2d6d8fcff
+13104,204328,Street,Rue Sainte-Catherine Ouest,1842,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,4/22/2013 12:00:00 AM,-73.579968,45.493096,d12dcca7-b219-411d-991e-1960e1a4a610
+13189,204413,Street,Rue Saint-Marc,2125,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,5/31/2021 12:00:00 AM,-73.582128,45.493895,9a239f4c-2b3b-4e38-9a12-16d4a8591050
+13209,204433,Street,Rue Saint-Marc,1280,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,5/31/2012 12:00:00 AM,-73.580036,45.492524,7af50f60-6c54-417c-9968-f6a5f05a104a
+13229,204454,Street,Rue Saint-Mathieu,2121,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,7,1/10/2012 12:00:00 AM,-73.581147,45.495007,edfef25d-e575-4f33-abe9-ede02afffd5b
+13596,204016,Street,Rue Sainte-Catherine Ouest,1953,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,4/18/2013 12:00:00 AM,-73.581465,45.492042,5c743775-e8b5-415b-b8f1-d6a2f1be1942
+13597,204017,Street,Rue Sainte-Catherine Ouest,1953,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,4/18/2013 12:00:00 AM,-73.581292,45.49219,5a106f8b-9bb2-411c-ab80-24029d86b25b
+13598,204018,Street,Rue Sainte-Catherine Ouest,1953,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,4/18/2013 12:00:00 AM,-73.581408,45.492091,02bed22b-116b-4052-9d37-b7ba3a3f1a36
+13614,204034,Street,Rue Sainte-Catherine Ouest,2301,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,7/1/2015 12:00:00 AM,-73.583906,45.489922,8164c1dd-5604-408f-939e-dd3c58535d6c
+13617,204037,Street,Rue Sainte-Catherine Ouest,2301,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,7/1/2015 12:00:00 AM,-73.584221,45.48966,2d28432b-feac-40fa-aa9e-38f410d0de92
+13618,204455,Street,Rue Saint-Mathieu,2255,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,7,1/10/2012 12:00:00 AM,-73.581523,45.495227,8e41f516-5cad-48e8-9f32-72a993ea0c7f
+13619,204456,Street,Rue Saint-Mathieu,2255,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,6,1/10/2012 12:00:00 AM,-73.581636,45.495295,f96043e7-352e-418a-8f90-7e16badbe483
+13620,204457,Street,Rue Saint-Mathieu,2285,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,7,1/10/2012 12:00:00 AM,-73.582131,45.495582,c7af3410-2a3e-4378-ba10-43535c4e6909
+13621,204458,Street,Rue Saint-Mathieu,2285,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,6,1/10/2012 12:00:00 AM,-73.582229,45.495641,3f01f545-f12f-47b6-9191-c288afce66c6
+13622,204459,Street,Rue Saint-Mathieu,2285,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,5/10/2017 12:00:00 AM,-73.58175,45.495358,6278020b-f706-4ece-b536-3eede68f8f75
+13623,204460,Street,Rue Saint-Mathieu,2285,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,5/25/2015 12:00:00 AM,-73.581857,45.495421,09da972b-e036-42fe-8812-4d97daa5bddb
+13658,204495,Street,Rue Saint-Mathieu,1404,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,5/5/2016 12:00:00 AM,-73.579559,45.493919,19c4c092-7c71-4f15-bfe7-013332bd40e4
+14056,204891,Street,Rue Sainte-Catherine Ouest,1621,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,4/24/2013 12:00:00 AM,-73.578328,45.494717,2093a5bf-b2f1-4b3c-abce-88dcd6d88576
+14059,204894,Street,Rue Sainte-Catherine Ouest,1637,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,4/24/2013 12:00:00 AM,-73.57851,45.494559,0cbe6b6c-524d-4eb1-9f91-f13c90d52545
+14067,204902,Street,Rue Sainte-Catherine Ouest,1801,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,4/20/2013 12:00:00 AM,-73.579516,45.493703,1b1f6b6d-fe9a-47a9-84d3-6ced85882388
+14068,204903,Street,Rue Sainte-Catherine Ouest,1819,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,4/20/2013 12:00:00 AM,-73.579703,45.493546,6279753e-18ee-4175-bccc-0f62b7c91f81
+14069,204904,Street,Rue Sainte-Catherine Ouest,1825,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,4/20/2013 12:00:00 AM,-73.579757,45.493496,b64ee0c5-0449-4419-b960-456144bd2c28
+14345,205180,Street,Rue Tupper,1833,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,5/16/2019 12:00:00 AM,-73.578978,45.492849,1b157008-120b-4b8f-9e7d-bd5e56f63c5f
+14348,205183,Street,Rue Tupper,1847,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,5/5/2016 12:00:00 AM,-73.579343,45.492534,d19619d3-471a-4dd5-9b26-8d5d863eadb1
+14352,205187,Street,Rue Tupper,1935,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,5/30/2016 12:00:00 AM,-73.580097,45.491804,22a7068d-242f-4861-9e2b-a8f2c28c4664
+14353,205188,Street,Rue Tupper,1947,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,5/30/2016 12:00:00 AM,-73.580202,45.491714,e0fba574-72b1-4403-bca6-3adff06458e0
+14362,205197,Street,Rue Tupper,2121,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,5/5/2016 12:00:00 AM,-73.581846,45.490332,d7cd3c75-51d5-41e9-8a0c-526e0336e361
+15247,205667,Street,Rue Sherbrooke Ouest,1629,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,5/23/2021 12:00:00 AM,-73.582333,45.496084,cc6d551c-49a0-4b37-a422-1e65fc058de9
+15336,205755,Street,Rue Sherbrooke Ouest,1669,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,11/22/2016 12:00:00 AM,-73.58343,45.494819,be1d91e9-1922-4426-bd0a-11e1c5c32e55
+15340,205759,Street,Rue Sherbrooke Ouest,1669,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,11/22/2016 12:00:00 AM,-73.582959,45.495365,51f76dad-86da-446e-a1b2-58a279621aa3
+15343,205762,Street,Rue Sherbrooke Ouest,1669,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,5/23/2021 12:00:00 AM,-73.58301,45.495302,15489b9d-b324-411a-8aca-c5bf08993ae5
+15346,205765,Street,Rue Sherbrooke Ouest,1669,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,6/11/2019 12:00:00 AM,-73.583065,45.495233,1c1a85d2-1a4e-4b82-b636-468790cb194d
+15510,205929,Street,Rue Sherbrooke Ouest,1669,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,11/22/2016 12:00:00 AM,-73.583243,45.49503,f95e2ad5-15c5-4df7-a6f7-18fc14274c84
+15524,205943,Street,Rue Sherbrooke Ouest,1931,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,5/23/2021 12:00:00 AM,-73.583954,45.494222,2cc723db-525e-4bcf-a5e6-dd162bb248d5
+15546,205965,Street,Rue Sherbrooke Ouest,N/A,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,11/23/2016 12:00:00 AM,-73.585023,45.493303,b92bba2b-3fd7-416d-9713-cbf145213f52
+15547,205966,Street,Rue Sherbrooke Ouest,N/A,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,11/23/2016 12:00:00 AM,-73.585105,45.493254,27d4b4fe-b8b1-4682-8c0e-5de0d6c8413e
+15548,205967,Street,Rue Sherbrooke Ouest,N/A,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,11/23/2016 12:00:00 AM,-73.58518,45.493209,2f7e2db4-fed1-4d57-b921-5899ff3df7d9
+15550,205969,Street,Rue Sherbrooke Ouest,N/A,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,5/23/2021 12:00:00 AM,-73.585404,45.493076,15532d94-c1a8-4d5a-bed9-c9f6edc16089
+15552,205971,Street,Rue Sherbrooke Ouest,N/A,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,5/23/2021 12:00:00 AM,-73.584716,45.493485,7767d915-aacb-498a-975f-c04ff6bea554
+15553,205972,Street,Rue Sherbrooke Ouest,N/A,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,11/23/2016 12:00:00 AM,-73.584805,45.493431,e3ef6ef2-3363-4180-a65f-fc06bdac2a80
+15554,205973,Street,Rue Sherbrooke Ouest,N/A,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,11/23/2016 12:00:00 AM,-73.585499,45.493017,54df7019-daff-40fb-b64c-de5c092a900a
+15577,205996,Street,Rue Sherbrooke Ouest,N/A,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,11/23/2016 12:00:00 AM,-73.584622,45.493551,d033983d-c4fe-4419-b0fb-f052d9917e85
+15950,205587,Street,Rue Sherbrooke Ouest,1621,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,5,6/23/2013 12:00:00 AM,-73.582251,45.496162,9bc05da4-af92-47fe-80db-064d8d630546
+4551,196563,Street,Avenue Lincoln,1900,ULHOPI,Ulmus x hollandica 'Pioneer',Pioneer Elm,5,10/25/2018 12:00:00 AM,-73.582702,45.493926,fd3f41ea-d1c2-4e8b-85f5-3511feca5c38
+13170,204394,Street,Rue Saint-Marc,1179,ULHOPI,Ulmus x hollandica 'Pioneer',Pioneer Elm,5,5/27/2013 12:00:00 AM,-73.578273,45.491662,d3a2813c-e247-4400-b105-aecc26b02b89
+4521,196533,Street,Avenue Lincoln,1839,ULXXNH,Ulmus x New Horizon,Ulmus x New Horizon,5,5/6/2016 12:00:00 AM,-73.582127,45.494556,96cd4899-47c0-415e-b4c1-afe78f82efd7
+4548,196560,Street,Avenue Lincoln,1850,ULXXNH,Ulmus x New Horizon,Ulmus x New Horizon,5,11/7/2016 12:00:00 AM,-73.582263,45.494295,76692553-b3b1-427c-ba57-8af400457dc3
+4550,196562,Street,Avenue Lincoln,1850,ULXXNH,Ulmus x New Horizon,Ulmus x New Horizon,5,5/6/2016 12:00:00 AM,-73.58216,45.494376,05f90fe0-5d67-4d41-b98d-f6474ebd6973
+4552,196564,Street,Avenue Lincoln,1900,ULXXNH,Ulmus x New Horizon,Ulmus x New Horizon,5,5/5/2016 12:00:00 AM,-73.582843,45.493818,296ee40b-a4f3-48ef-bac8-92f3b676119b
+4557,196569,Street,Avenue Lincoln,1950,ULXXNH,Ulmus x New Horizon,Ulmus x New Horizon,5,6/6/2016 12:00:00 AM,-73.583239,45.493485,ccdd3960-a5cf-4b34-ab17-756de3354e2c
+13217,204448,Street,Rue Saint-Mathieu,1235,ULXXNH,Ulmus x New Horizon,Ulmus x New Horizon,5,5/5/2017 12:00:00 AM,-73.579048,45.493788,22755a30-58ae-404c-8669-6104588a11d5
+2268,43597,Parc,CABOT,N/A,ZESE,Zelkova serrata,Japanese Zelkova,5,7/14/2020 12:00:00 AM,-73.583209,45.489634,947a0716-e4f5-4b49-9050-ccfed6b41806
+3213,43319,Parc,CABOT,N/A,ZESE,Zelkova serrata,Japanese Zelkova,5,7/14/2020 12:00:00 AM,-73.583232,45.489595,6c32ceb0-766f-43fb-82b4-c1d55f97b3ea
+3445,43948,Parc,CABOT,N/A,ZESE,Zelkova serrata,Japanese Zelkova,5,7/14/2020 12:00:00 AM,-73.583161,45.489576,b118ab39-09cb-4bfd-a74a-fea8e1cfbfdb
+13211,204435,Street,Rue Saint-Marc,1412,ZESEGV,Zelkova serrata 'Green Vase',Green Vase Japanese Zelkova,28,11/23/2011 12:00:00 AM,-73.580853,45.492992,0cb99220-ae9e-479c-83dd-c67046a7c434

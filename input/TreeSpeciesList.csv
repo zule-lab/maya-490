@@ -1,0 +1,247 @@
+﻿Genus Code,Species Code,Cultivar Code,Species Latin,Species Common,Native_SLL,Native_ETF,Invasive,Origin Source,Invasive Source,Comments
+AB,ABBA,ABBA,Abies Balsamea,Balsam fir,Y,Y,N,USDA/TC/LM,WI,
+AC,ACFR,ACFR,Acer x freemannii,FREEMAN MAPLE,Y,Y,N,Mortens/LM,WI,Hybrid of two SLL native species: Acer saccharinum & Acer rubrum
+AC,ACFR,ACFRAB,Acer x freemanii 'Autumn Blaze',Autumn Blaze Freeman Maple,Y,Y,N,Mortens/LM,WI,Hybrid of two SLL native species: Acer saccharinum & Acer rubrum
+AC,ACFR,ACFRAF,Acer x freemanii 'Autumn Fantasy',Acer x freemanii 'Autumn Fantasy',Y,Y,N,Mortens/LM,WI,Hybrid of two SLL native species: Acer saccharinum & Acer rubrum
+AC,ACFR,ACFRAR,Acer x freemanii 'Armstrong',Acer x freemanii 'Armstrong',Y,Y,N,Mortens/LM,WI,Hybrid of two SLL native species: Acer saccharinum & Acer rubrum
+AC,ACFR,ACFRCE,Acer x freemanii 'Celebration',Acer x freemanii Celebration,Y,Y,N,LM/Mortons,WI,Hybrid of two SLL native species: Acer saccharinum & Acer rubrum
+AC,ACFR,ACFRFI,Acer x freemanii 'Firefall',Acer x freemanii 'Firefall',Y,Y,N,Mortens/LM,WI,Hybrid of two SLL native species: Acer saccharinum & Acer rubrum
+AC,ACFR,ACFRMA,Acer x freemanii 'Marmo',Acer x freemanii Marmo,Y,Y,N,LM/Mortons,WI,Hybrid of two SLL native species: Acer saccharinum & Acer rubrum
+AC,ACGI,ACGI,Acer Ginnala,Armur Maple,N,N,Y,USDA/TC/Mortens,WI/Mortens,
+AC,ACGI,ACGIFL,Acer ginnala 'Flame',Flame Armur Maple,N,N,Y,USDA/TC/Mortens,WI/Mortens,
+AC,ACGI,ACGIRS,Acer ginnala 'Ruby Slippers',Ruby Slippers Ginnala Maple,N,N,Y,USDA/TC/Mortens,WI/Mortens,
+AC,ACMI,ACMIMO,Acer miyabei 'Morton' (State Street TM),Acer miyabei Morton (State Street),N,N,N,Mortens,WI,
+AC,ACNE,ACNE,Acer negundo,Manitoba Maple,N,Y,N,USDA/TC/LM/Mortens,WI,
+AC,ACNI,ACNIGC,Acer nigrum 'Green Column',Green Column Black Maple,N,N,N,USDA/TC/LM,WI,
+AC,ACPA,ACPA,Acer palmatum,Japanese Maple,N,N,N,USDA/TC/Mortens,WI,
+AC,ACPL,ACPL,Acer platanoides,Norway Maple,N,N,Y,USDA/TC,WI/Mortens,
+AC,ACPL,ACPLCB,Acer platanoides 'Columnarbroad',Parkway Norway Maple,N,N,Y,USDA/TC,WI/Mortens,
+AC,ACPL,ACPLCK,Acer platanoides 'Crimson King',Crimson King Norway Maple,N,N,Y,USDA/TC,WI/Mortens,
+AC,ACPL,ACPLCO,Acer platanoides 'Columnare',Columnare Norway Maple,N,N,Y,USDA/TC,WI/Mortens,
+AC,ACPL,ACPLCS,Acer platanoides 'Crimson Sentry',Crimson Sentry Norway Maple,N,N,Y,USDA/TC,WI/Mortens,
+AC,ACPL,ACPLDE,Acer platanoides 'Deborah',Deborah Norway Maple,N,N,Y,USDA/TC,WI/Mortens,
+AC,ACPL,ACPLEL,Acer Platanoides 'Emerald Lustre',Acer Platanoides 'Emerald Lustre',N,N,Y,USDA/TC,WI/Mortens,
+AC,ACPL,ACPLEQ,Acer platanoides 'Emerald Queen',Emerald Queen Norway Maple,N,N,Y,USDA/TC,WI/Mortens,
+AC,ACPL,ACPLRR,Acer platanoides 'Royal Red',Royal Red Norway Maple,N,N,Y,USDA/TC,WI/Mortens,
+AC,ACPL,ACPLSC,Acer platanoides 'Schwedleri',Schwedleri Norway Maple,N,N,Y,USDA/TC,WI/Mortens,
+AC,ACPL,ACPLSP,Acer platanoides 'Superform',Superform Norway Maple,N,N,Y,USDA/TC,WI/Mortens,
+AC,ACPL,ACPLSU,Acer platanoides 'Summershade',Summershade Norway Maple,N,N,Y,USDA/TC,WI/Mortens,
+AC,ACRU,ACRU,Acer rubrum,Red Maple,Y,Y,N,USDA/LM/TC,WI,
+AC,ACRU,ACRUAR,Acer rubrum 'Armstrong',Armstrong Red Maple,Y,Y,N,USDA/LM/TC,WI,
+AC,ACSA,ACSA,Acer saccharinum,Silver Maple,Y,Y,N,USDA/LM,WI,
+AC,ACSA,ACSAMO,Acer saccharinum 'Montréal',Montréal Siler Maple,Y,Y,N,USDA/LM,WI,
+AC,ACSA,ACSAPY,Acer saccharinum 'Pyramidalis',Pyramidale Silver Maple,Y,Y,N,USDA/LM,WI,
+AC,ACSC,ACSC,Acer saccharum,Sugar Maple,Y,Y,N,TC/LM,WI,
+AC,ACSC,ACSCTU,Acer saccharum 'Temple Upright',Temple Upright Sugar Maple,Y,Y,N,TC/LM,WI,
+AC,ACTA,ACTA,Acer tataricum,Tartarian Maple,N,N,N,USDA,WI,
+AE,AECA,AECABR,Aesculus carnea 'Briotii',Aesculus carnea 'Briotii',N,N,N,USDA/TC/Mortens,WI,Hybrid of the native Aesculus pavia and non-native Aesculus hippocastanum (Europe)
+AE,AEGL,AEGL,Aesculus glabra,Ohio Buckeye,N,Y,N,USDA/TC/LM,WI,
+AE,AEHI,AEHI,Aesculus hippocastanum,Common Horsechesnut,N,N,N,USDA/TC/Mortens,WI,
+AL,ALGL,ALGL,Alnus glutinosa,European Black Alder,N,N,Y,USDA/TC,WI/Mortens,
+AM,AMCA,AMCA,Amelanchier canadensis,Canadian Serviceberry,Y,Y,N,USDA/TC/LM,WI,Synonym: Amelanchier arborea
+AM,AMGR,AMGR,Amelanchier x grandiflora,Apple Serviceberry,Y,Y,N,Mortens/LM/TC,WI,Hybrid of native Amelanchier canadensis and Amelanchier laevis
+AM,AMGR,AMGRAB,Amelanchier x grandiflora 'Autumn Brillance',Autumn Brillance Serviceberry,Y,Y,N,Mortens/LM/TC,WI,Hybrid of native Amelanchier canadensis and Amelanchier laevis
+AM,AMGR,AMGRPD,Amelanchier g. 'Princess Diana',Amelanchier g. 'Princess Diana',Y,Y,N,Mortens/LM/TC,WI,Hybrid of native Amelanchier canadensis and Amelanchier laevis
+AM,AMLA,AMLA,Amelanchier laevis,Amelanchier laevis,Y,Y,N,USDA/TC/Morton/APF(202),WI,
+BB,BBVU,BBVU,Berberis Vulgaris,Common Barberry,N,N,Y,USDA,WI,
+BE,BEAL,BEAL,Betula alleghaniensis,Yellow Birch,Y,Y,N,USDA/Mortens/LM,WI,
+BE,BENI,BENI,Betula nigra,River Birch,N,Y,N,USDA/LM/Mortens,WI,
+BE,BENI,BENIHE,Betula nigra 'Heritage',Heritage River Birch,N,Y,N,USDA/LM/Mortens,WI,
+BE,BEPA,BEPA,Betula papyrifera,Paper Birch,Y,Y,N,USDA/TC/LM,WI,
+BE,BEPO,BEPO,Betula populifolia,Gray Birch,Y,Y,N,USDA/TC/Mortens,WI,
+CA,CAAR,CAAR,Caragana Arborescens,Siberian Pea Tree,N,N,N,USDA/TC,WI,
+CA,CAAB,CAAB,Caragana Arborescens,Siberian Pea Tree,N,N,N,USDA/TC,WI,
+CA,CAAR,CAARPE,Caragana Arborescens 'Pendula',Pendula Siberian Pea Tree,N,N,N,USDA/TC,WI,
+CC,CCCA,CCCA,Cercis Canadensis,Eastern Redbud,N,Y,N,USDA/NRC/https://cwf-fcf.org/en/resources/encyclopedias/native-plant-encyclopedia/,WI,CWF says extreme southern Ontario therefore deeming it non-native to SLL yet native to ETF (KP)
+CD,CDJA,CDJA,Cercidiphyllum japonicum,Katsura Tree,N,N,N,USDA/TC/Mortens,WI,
+CE,CEOC,CEOC,Celtis occidentalis,Common Hackberry,Y,Y,N,USDA/LM/NRC,WI,
+CE,CEOC,CEOCPS,Celtis occidentalis 'Prairie Sentinel',Celtis occidentalis 'Prairie Sentinel',Y,Y,N,LM/NRC/Mortons,WI,
+CG,CGMN,CGMN,Crataegus Monogyna,Common Hawthorn,N,N,N,USDA/TC/Mortons,WI,
+CG,CGMO,CGMOSN,Crataegus x mordenensis 'Snowbird',Snowbird Hawthorn,N,N,N,TB,WI,Hybrid of non-native Crataegus laevigata (Europe) and native Crataegus succulenta
+CG,CGPU,CGPU,Crataegus Punctata,Dotted Hawthorn,Y,Y,N,USDA/TC/NRC/ http://www.efloras.org/object_page.aspx?object_id=126879&flora_id=1 / https://www.wildflower.org/plants/result.php?id_plant=CRPU,WI,Refer to websites in Origin Source column: found in Quebec and Ontario therefore deemed native to the saint-Laurence Lowlands (KP)
+CH,CHNO,CHNO,Chamaecyparis Nootkatensis,Yellow/Alaska Cedar,N,N,N,USDA/LM/Mortens,WI,Synomyn: Callitropsis nootkatensis
+CI,CICO,CICO,Cotinus Coggygria,European smoketree,N,N,N,USDA/Mortens,WI,
+CI,CICO,CICORP,"Cotinus coggygria ""Royal Purple""",Royal Purple' European smoketree,N,N,N,USDA/Mortens,WI,
+CN,CNRU,CNRU,Cornus Rugosa,Roundleaf dogwood,Y,Y,N,USDA/LM,WI,
+CN,CNFL,CNFL,Cornus Florida,Flowering dogwood,N,Y,N,USDA/TC,WI,
+CO,COCO,COCO,Corylus colurna,Turkish Filbert,N,N,N,USDA/TC/Mortens,WI,
+CR,CRCA,CRCA,Carpinus caroliniana,Blue-beech,Y,Y,N,TC/LM,WI,
+CT,CTSP,CTSP,Catalpa speciosa,Western Catalpa,N,Y,N,USDA/TC/LM,WI,
+CY,CYCO,CYCO,Carya Cordiformis,Bitternut Hickory,Y,Y,N,USDA/TC/LM,WI,
+CY,CYGL,CYGL,Carya Glabra,Pignut Hickory ,N,Y,N,USDA/LM/Mortens,WI,
+EU,EUAL,EUAL,Euonymous Alatus,Burning Bush,N,N,Y,USDA/TC,WI/Mortens,
+EU,EUAT,EUAT,Euonymus Atropurpureus,Burning bush,N,Y,N,USDA/TC/LM,WI,
+FA,FAGR,FAGR,Fagus Grandifolia ,American Beech,Y,Y,N,USDA/TC/LM,WI,
+FA,FASY,FASY,Fagus sylvatica,European Beech,N,N,N,USDA/TC/Mortens,WI,
+FA,FASY,FASYRI,Fagus sylvatica Riversii,European beech Rversii,N,N,N,USDA/TC/Mortens,WI,
+FR,FRAM,FRAM,Fraxinus americana,White Ash,Y,Y,N,USDA/TC/LM,WI,
+FR,FRAM,FRAMAP,Fraxinus americana 'Autumn Purple',Autumn Purple Ash,Y,Y,N,USDA/TC/LM,WI,
+FR,FRAM,FRAMKL,Fraxinus americana 'Kleinberg',Kleinberg White Ash,Y,Y,N,USDA/TC/LM,WI,
+FR,FRAM,FRAMMA,Fraxinus Americana 'Manitou',Manitou White Ash,Y,Y,N,USDA/TC/LM,WI,
+FR,FRAM,FRAMSK,Fraxinus americana 'Skyline',Skyline White Ash,Y,Y,N,USDA/TC/LM,WI,
+FR,FRPE,FRPE,Fraxinus pennsylvanica,Red Ash,Y,Y,N,USDA/TC/Mortens/LM,WI,
+FR,FRPE,FRPEMS,Fraxinus pennsylvanica 'Marshall Seedless',Marshall Seedless Red Ash,Y,Y,N,USDA/TC/Mortens/LM,WI,
+FR,FRPE,FRPEPA,Fraxinus pennsylvanica 'Patmore',Patmore Red Ash,Y,Y,N,USDA/TC/LM,WI,
+FR,FRPE,FRPEPS,Fraxinus pennsylvanica 'Prairies Spires',Prairies Spires Red Ash,Y,Y,N,USDA/TC/Mortens/LM,WI,
+FR,FRPE,FRPESU,Fraxinus pennsylvanica 'Summit',Summit Red Ash,Y,Y,N,USDA/TC/Mortens/LM,WI,
+GI,GIBI,GIBI,Ginkgo biloba,Maidenhair Tree,N,N,N,Mortens/TC/USDA,WI,
+GI,GIBI,GIBIPS,Ginkgo biloba 'Princeton Sentry',Princeton Sentry Maidenhair Tree,N,N,N,Mortens/TC/USDA,WI,
+GL,GLTR,GLTR,Gleditsia triacanthos,Common Honey-Locust,N,Y,N,USDA/TC/LM,WI,
+GL,GLTR,GLTRIM,Gleditsia triacanthos 'Imperial',Imperial Honey-Locust,N,Y,N,USDA/TC/LM/Mortens,WI,
+GL,GLTR,GLTRIN,Gleditsia triacanthos var. inermis,Thornless Honey-Locust,N,Y,N,USDA/LM,WI,
+GL,GLTR,GLTRNA,Gleditsia triacanthos 'Northern Acclaim',Northern Acclaim Honey-Locust,N,Y,N,Mortens/LM,WI,
+GL,GLTR,GLTRSH,Gleditsia triacanthos 'Shademaster',Shademaster Honey-Locust,N,Y,N,USDA/LM/Mortens,WI,
+GL,GLTR,GLTRSK,Gleditsia triacanthos 'Skyline',Skyline Honey-Locust,N,Y,N,USDA/LM,WI,
+GL,GLTR,GLTRSP,Gleditsia triacanthos 'Spectrum',Spectrum Honey-Locust,N,Y,N,USDA/TC/LM,WI,
+GL,GLTR,GLTRST,Gleditsia triacanthos 'Street Keeper',Gleditsia triacanthos 'Street Keeper',N,Y,N,USDA/LM/Mortens,WI,
+GL,GLTR,GLTRSU,Gleditsia triacanthos 'Sunburst',Sunburst Honey-Locust,N,Y,N,USDA/LM/Mortens,WI,
+GY,GYDI,GYDI,Gymnocladus dioicus,Kentucky Coffee Tree,N,Y,N,USDA/LM,WI,
+HY,HYPA,HYPA,Hydrangea Paniculata,Panicled Hydrangea,N,N,N,USDA/Mortens,WI,
+HY,HYQU,HYQU,Hydrangea Quercifolia,Oakleaf hydreangea,N,Y,N,USDA/Mortens/ https://www.wildflower.org/plants/result.php?id_plant=HYQU3 / http://www.efloras.org/object_page.aspx?object_id=130442&flora_id=1,WI,Refer to websites in Origin Source column: found in south-eastern United States therefore deemed native to ETF yet non-native to SLL (KP)
+JN,JNCO,JNCO,Juniperus Communis,Common juniper,Y,Y,N,USDA/TC/LM,WI,
+JN,JNVI,JNVI,Juniperus Virginiana,Eastern red cedar,Y,Y,N,USDA,WI,
+JU,JUCI,JUCI,Juglans cinerea,Butternut,Y,Y,N,USDA/TC/LM,WI,
+JU,JUNI,JUNI,Juglans nigra,Eastern Black Walnut,Y,Y,N,USDA/TC/LM/TIC,WI,Very small native region in SLL (Source LM; KP)
+LI,LIAM,LIAM,Linnaea Amabilis,Beauty bush,N,N,N,USDA/Mortens,WI,Synonym: Kolkwitzia amabilis
+LA,LADE,LADE,Larix Decidua,European Larch,N,N,N,USDA/TC/Mortens,WI,
+LA,LAKA,LAKA,Larix kaempferi,Japanese Larch,N,N,N,TC/Mortens,WI,
+LA,LALA,LALA,Larix Laricina,Tamarack,Y,Y,N,USDA/TC/LM,WI,
+LI,LITU,LITU,Liriodendron tulipifera,Tulip Tree,N,Y,N,USDA/TC/LM,WI,
+LO,LOMA,LOMA,Lonicera Maackii,Amur honeysuckle,N,N,Y,USDA,WI,
+LO,LOTA,LOTA,Lonicera Tatarica ,Tartarian honeysuckle,N,N,Y,USDA,WI,
+LO,LOXY,LOXY,Lonicera xylosteum,European Fly Honeysuckle,N,N,N,USDA/Mortens,WI,
+LQ,LQST,LQSTMO,Liquidambar styraciflua 'Moraine',Moraine Sweetgum,N,Y,N,USDA/TC/Mortens/LM,WI,
+LY,LYCH,LYCH,Lycium Chinese,Chinese desert-thorn,N,N,N,USDA/https://pfaf.org/user/Plant.aspx?LatinName=Lycium+chinense,WI,
+MA,MABA,MABA,Malus Baccata,Crab Apple,N,N,N,USDA/TC,WI,
+MA,MABA,MABACO,Malus baccata 'Columnaris',Columnar Siberian Crab Apple,N,N,N,USDA/TC,WI,
+MA,MABA,MABAMN,Malus Baccata 'Mandshurica',Mandshurica Crab Apple,N,N,N,USDA,WI,
+MA,MABA,MABARH,Malus baccata 'Rosthern',Rosthern Crab Apple,N,N,N,USDA/TC,WI,
+MA,MACO,MACO,Malus coronaria,Crab Apple,N,Y,N,USDA/TC/LM,WI,
+MA,MARO,MARO,Malus 'Robusta',Crab Apple,N,N,N,USDA/https://landscapeplants.oregonstate.edu/plants/malus-robusta,WI,Hybrid of non-native M. baccata and non-native M. prunifolia
+MA,MARO,MAROER,Malus robusta 'Erecta',Nom anglais,N,N,N,USDA/https://landscapeplants.oregonstate.edu/plants/malus-robusta,WI,Hybrid of non-native M. baccata and non-native M. prunifolia
+MA,MASC,MASCRJ,Malus × scheideckeri 'Red Jade,Red jade Crab Apple,N,N,N,USDA/TB,WI,Unknown hybrid origin therefore assumed to be non-native (KP)
+MA,MASY,MASY,Malus sylvestris,Crab Apple,N,N,N,USDA/TC,WI,Synonym: Malus pumila & Malus domestica
+MA,MACE,MAXXCE,Malus x Centurion®,Centurion® Crab Apple,N,N,N,Mortens,WI,Unknown hybrid origin therefore assumed to be non-native (KP)
+MA,MADO,MAXXDO,Malus x 'Dolgo',Dolgo Crab Apple,N,N,N,Mortens/https://www.naturehills.com/dolgo,WI,Member of Malus baccata
+MA,MAHG,MAXXHG,Malus x 'Harvest Gold'¿,Harvest Gold TM Crab Apple,N,N,N,Mortens,WI,Unknown hybrid origin therefore assumed to be non-native (KP)
+MA,MAJE,MAXXJE,Malus x 'Jefspire' (Purple Spire TM),Purple Spire Crabapple,N,N,N,TB,WI,Unknown hybrid origin therefore assumed to be non-native (KP)
+MA,MALO,MAXXLO,Malus 'Louisa',Louisa crabapple,N,N,N,TB,WI,Unknown hybrid origin therefore assumed to be non-native (KP)
+MA,MAMA,MAXXMA,Malus x 'Makamik',Makamik Crab Apple,N,N,N,https://www.worldplants.ca/display.php?id=612,WI,Unknown hybrid origin therefore assumed to be non-native (KP)
+MA,MAPA,MAXXPA,Malus 'Prairiefire',Crab Apple,N,N,N,TB,WI,Unknown hybrid origin therefore assumed to be non-native (KP)
+MA,MARB,MAXXRB,Malus x 'Robinson',Robinson Crab Apple,N,N,N,Mortens,WI,Unknown hybrid origin therefore assumed to be non-native (KP)
+MA,MARY,MAXXRO,Malus 'Royalty',Royalty Crab Apple,N,N,N,TB,WI,Unknown hybrid origin therefore assumed to be non-native (KP)
+MA,MARS,MAXXRS,Malus x 'Rosseau',Rosseau Crab Apple,N,N,N,https://www.worldplants.ca/display0.php?id=706,WI,Unknown hybrid origin therefore assumed to be non-native (KP)
+MC,MCAM,MCAM,Maackia amurensis,Amur Maackia,N,N,N,Mortens,WI,
+MC,MCAM,MCAMST,Maackia amurensis 'Starburst',Starburst Amur Maackia,N,N,N,Mortens,WI,
+MG,MGAC,MGXXAC,Magnolia acuminata,Magnolia acuminata,N,Y,N,USDA/TC/LM/Mortens,WI,
+MG,MGKO,MGXXKO,Magnolia Kobus,Magnolia Kobus,N,N,N,USDA/Mortens,WI,
+MG,MGSO,MGXXSO,Magnolia Soulangeana,Saucer magnolia,N,N,N,TB/Mortens,WI,Hybrid of non-native Magnolia denudata × Magnolia liliiflora
+MG,MGSU,MGXXSU,Magnolia 'Susan',Susan magnolia,N,N,N,TB/https://www.gardenia.net/plant/magnolia-susan,WI,
+MG,MGSN,MGXXSN,Magnolia x Sunsation ,Sunsation Magnolia,N,N,N,"TB/https://www.kcarboretum.org/featured-collections/10-tree-list/215-magnolia-brooklynensis-woodsman#:~:text=Botanical%20Name%3A%20Magnolia%20%C3%97brooklynensis%20'Woodsman'&text=Habit%3A%20A%20deciduous%2C%20large%20shrub,Hardy%20in%20Zones%204%2D9.&text=acuminata)%20and%20the%20Chinese%20Lily,liliiflora)%20in%201954.",WI,Hybrid of Magnolia 'Woodsman' (ETF native Magnolia acuminata x nonnative Magnolia liliflora) and 'Elizabeth' (ETF native Magnolia acuminata × nonative Magnolia denudata (China))
+MO,MOAL,MOAL,Morus Alba,White Mulberry,N,N,Y,USDA/TC/Mortens,WI/Mortens,
+OS,OSVI,OSVI,Ostrya virginiana,American Hop-Hornbeam Ironwood,Y,Y,N,USDA/TC/LM,WI,
+PH,PHCO,PHCO,Philadelphus Coronarius,Sweet mock orange,N,N,N,USDA/Mortens,WI,
+PH,PHPU,PHPU,Philadelphus Pubescens,Hoary Mockorange,N,Y,N,USDA/ https://www.wildflower.org/plants/result.php?id_plant=PHPU4,WI,Refer to website in Origin Source column: found in eastern United States therefore deemed native to ETF (KP)
+PH,PHVI,PHVI,Philadelphus Virginalis,Virginal mock orange,N,N,N,Mortens/https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=241483&isprofile=0&,WI,Non-native Philadelphus x lemoinei and Philadelphus navilis plenus
+PH,PHAM,PHAM,Phellodendron amurensis,Amur Cork tree,N,N,Y,TC/Mortens,WI/Mortens,
+PH,PHAM,PHAMMA,Phellodendron amurensis 'Macho',Macho Amur Cork Tree,N,N,Y,TC/Mortens,WI/Mortens,
+PI,PIAB,PIAB,Picea abies,Norway Spruce,N,N,N,USDA/TC/Mortens,WI,
+PI,PIAB,PIABCU,Picea abies 'Cupressina',Cupressina Norway spruce,N,N,N,USDA/TC/Mortens,WI,
+PI,PIEN,PIEN,Picea Engelmannii,Englemann Spruce,N,N,N,USDA/LM,WI,
+PI,PIGL,PIGL,Picea glauca,White Spruce,Y,Y,N,USDA/TC/LM,WI,
+PI,PIMA,PIMA,Picea Mariana,Black spruce,Y,Y,N,USDA/TC/LM,WI,
+PI,PIOM,PIOM,Picea omorika,Serbian Spruce,N,N,N,TC/Mortens,WI,
+PI,PIPU,PIPU,Picea pungens,Colorado Spruce,N,N,N,USDA/TC/LM,WI,
+PI,PIPU,PIPUGL,Picea pungens 'Glauca',Glauca Blue Spruce,N,N,N,USDA/TC/LM/Mortens,WI,
+PI,PIPU,PIPUKO,Picea pungens 'Koster',Koster's Blue Spruce,N,N,N,USDA/TC/LM,WI,
+PI,PIRU,PIRU,Picea rubens,Red Spruce,Y,Y,N,USDA/TC/LM,WI,
+PN,PNNI,PNNIAU,Pinus nigra 'Austriaca',Austrian Pine,N,N,N,USDA/TC/Mortens,WI,
+PN,PNRE,PNRE,Pinus resinosa,Red Pine,Y,Y,N,USDA/TC/LM,WI,
+PN,PNST,PNST,Pinus strobus,Eastern White Pine,Y,Y,N,USDA/TC/LM,WI,
+PN,PNSY,PNSY,Pinus Sylvestris,Scots Pine,N,N,N,USDA/TC/Mortens,WI,
+PO,PODE,PODE,Populus Deltoides,Eastern Cottonwood,Y,Y,N,USDA/TC/LM,WI,
+PO,PONI,PONI,Populus Nigra,Lombardy poplar,N,N,N,USDA/TC/Mortens,WI,
+PR,PRAV,PRAV,Prunus Avium,Sweet cherry,N,N,N,USDA/TC,WI,
+PR,PRCE,PRCE,Prunus Cerasifera,Cherry plum,N,N,N,USDA/TB,WI,
+PR,PRCE,PRCENE,Prunus cerasifera 'Newport',Prunus cerasifera 'Newport',N,N,N,USDA,WI,
+PR,PRCS,PRCS,Prunus Cerasus,Sour cherry,N,N,N,USDA/TC,WI,
+PR,PRCS,PRCSMO,Prunus Cerasus 'Montmorency',Montmorency' Sour cherry,N,N,N,USDA/TC,WI,
+PR,PRDO,PRDO,Prunus Domestica,Garden Plum,N,N,N,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6312543/,WI,
+PR,PRMA,PRMAJE,Prunus maakii 'Jefree' (Goldrush TM),Prunus maakii 'Jefree',N,N,N,TC/Mortens,WI,
+PR,PRNI,PRNI,Prunus Nigra,Canada Plum,Y,Y,N,USDA/TC/LM,WI,
+PR,PRPA,PRPA,Prunus Padus,Bird Cherry,N,N,N,USDA/http://www.euforgen.org/species/prunus-padus/,WI,
+PR,PRPE,PRPE,Prunus Persica,Batsch Peach,N,N,N,USDA/TB,WI,
+PR,PRPN,PRPN,Prunus Pensylvanica,Pin cherry,Y,Y,N,USDA/LM,WI,
+PR,PRSE,PRSE,Prunus Serotina,Black Cherry,Y,Y,N,USDA/TC/LM,WI,
+PR,PRVI,PRVI,Prunus virginiana,Chokecherry,Y,Y,N,USDA/TC/LM,WI,Synonym: Common chokecherry
+PR,PRVI,PRVICR,Prunus virginiana 'Canada Red',Canada Red Chokecherry,Y,Y,N,USDA/TC/Mortens/LM,WI,
+PR,PRVI,PRVISC,Prunus virginiana 'Schubert',Schubert's Chokecherry,Y,Y,N,Mortens/LM/TC,WI,
+PY,PYCA,PYCA,Pyrus calleryana,Callery Pear,N,N,Y,USDA/Mortens,WI/Mortens,
+PY,PYCA,PYCACH,Pyrus Calleryana 'Glen's Form',Pyrus calleryana Chantecleer,N,N,Y,USDA/Mortens,WI/Mortens,
+PY,PYCO,PYCO,Pyrus Domestica,Common Pear,N,N,N,USDA,WI,Synonym: Pyrus communis
+QU,QUAL,QUAL,Quercus alba,White Oak,Y,Y,N,USDA/TC/LM/NRC,WI,
+QU,QUBI,QUBI,Quercus bicolor,Swamp White Oak,Y,Y,N,USDA/TC/LM/NRC,WI,
+QU,QUMA,QUMA,Quercus macrocarpa,Bur Oak,Y,Y,N,USDA/TC/LM/NRC,WI,
+QU,QUPA,QUPA,Quercus palustrus,Pin Oak,N,Y,N,TC/LM,WI,
+QU,QURO,QURO,Quercus robur,English Oak,N,N,N,USDA/TC/Mortens,WI,
+QU,QURO,QUROCS,Quercus robur 'Crimson Spire',Quercus robur 'Crimson Spire',N,N,N,Mortens,WI,Hybrid of non-native Quercus robur (Europe) and SLL native Quercus alba
+QU,QURO,QUROFA,Quercus robur 'Fastigiata',Fastigiate English Oak,N,N,N,USDA/TC/Mortens,WI,
+QU,QURU,QURU,Quercus rubra,Red Oak,Y,Y,N,TC/LM,WI,
+QU,QUWA,QUWARP,Quercus x warei 'Regal Prince',Regal Prince Oak,N,N,N,Mortens,WI,"Hybrid of non-native Quercus robur ""Fastigiata"" (Europe) and SLL native Quercus bicolor"
+RH,RHCA,RHCA,Rhamnus Cathartica,European Buckthorn,N,N,Y,USDA/TC/Mortens,WI/Mortens,
+RO,ROPS,ROPS,Robinia pseudoacacia,Black Locust,N,Y,Y,TC/lLM/Mortens,WI/Mortens,
+RS,RSWO,RSWO,Rosa Woodsii,Woods rose,N,Y,N,USDA/ https://www.wildflower.org/plants/result.php?id_plant=ROWO / http://www.efloras.org/object_page.aspx?object_id=127152&flora_id=1,WI,Refer to website in Origin Source column: found in Prairie regions in certain eastern United States therefore deemed native to ETF and not SLL (KP)
+RU,RUTY,RUTY,Rhus Typhina,Staghorn Sumac,Y,Y,N,USDA/TC/LM,WI,
+SA,SAAL,SAALTR,Salix alba 'Tristis',Golden Weeping Willow,N,N,N,USDA/Mortens,WI,
+SA,SADI,SADI,Salix Discolor,Pussy Willow,Y,Y,N,USDA/LM,WI,
+SM,SMNI,SMNI,Sambucus Nigra,Black/European elderberry,N,N,N,USDA/Mortens,WI,
+SO,SOAU,SOAU,Sorbus aucuparia,European Mountain Ash,N,N,N,USDA/TC,WI,
+SO,SOAU,SOAURO,Sorbus aucuparia 'Rosedale',Rosedale European Mountain Ash,N,N,N,USDA/TC/Mortens,WI,
+SO,SOAU,SOAURS,Sorbus aucuparia 'Rossica',Rossica European Mountain Ash,N,N,N,USDA/TC/Mortens,WI,
+SO,SOTO,SOTO,Sorbus Torminalis,Checkertree,N,N,N,USDA/https://pfaf.org/user/Plant.aspx?LatinName=Sorbus+torminalis,WI,
+SO,SOXA,SOXA,Sorbus xanthocarpa,Sorbus xanthocarpa,N,N,N,USDA/TC,WI,Synonym: Sorbus aucuparia var. xanthocarpa
+SY,SYRE,SYRE,Syringa reticulata,Japanese Tree Lilac,N,N,N,USDA/Mortens,WI,
+SY,SYRE,SYREGE,Syringa reticulata 'Golden Eclipse',Golden Eclipse Japanese Tree Lilac,N,N,N,USDA/Mortens,WI,
+SY,SYRE,SYREIS,Syringa reticulata 'Ivory Silk',Ivory Silk Japanese Tree Lilac,N,N,N,USDA/Mortens,WI,
+SY,SYVU,SYVU,Syringa Vulgaris ,Common Lilac,N,N,N,USDA/TC/Mortens,WI,
+TA,TACA,TACA,Taxus Canadensis,Canadian Yew,Y,Y,N,USDA/TC/LM,WI,
+TH,THOC,THOC,Thuja occidentalis,Eastern White Cedar,Y,Y,N,USDA/TC/LM,WI,
+TH,THOC,THOCFA,Thuja occidentalis 'Fastigiata',Pyramidal Arborvitae,Y,Y,N,USDA/TC/LM,WI,
+TI,TIAM,TIAM,Tilia americana,American Basswood,Y,Y,N,Mortens/LM,WI,
+TI,TIAM,TIAMLI,Tilia a. Lincoln,Tilia a. Lincoln,Y,Y,N,Mortens/LM,WI,
+TI,TIAM,TIAMRE,Tilia americana 'Redmond',Redmond American Linden,Y,Y,N,USDA/TC/LM,WI,
+TI,TICO,TICO,Tilia cordata,Littleleaf European Linden,N,N,N,USDA,WI,
+TI,TICO,TICOCO,Tilia cordata 'Corzam',Corinthian Littleleaf Linden,N,N,N,USDA/Mortens,WI,
+TI,TICO,TICOGL,Tilia cordata 'Glenleven',Glenleven Littleleaf Linden,N,N,N,USDA/Mortens,WI,
+TI,TICO,TICOGR,Tilia cordata 'Greenspire',Greenspire Littleleaf Linden,N,N,N,Mortens,WI,
+TI,TICO,TICOSH,Tilia cordata 'Sheridan',Sheridan Littleleaf Linden,N,N,N,USDA,WI,
+TI,TIER,TIERWR,Tilia x europaea 'Wratislaviensis',Warsaw Linden,N,N,N,USDA,WI,
+TI,TIMO,TIMOHG,Tilia x mongolica 'Harvest Gold',Harvest Gold Mongolian Linden,N,N,N,Mortens,WI,
+TI,TITO,TITO,Tilia tomentosa,Silver Linden,N,N,N,USDA/TC/Mortens,WI,
+TS,TSCA,TSCA,Tsuga Canadensis,Eastern hemlock,Y,Y,N,USDA/TC.LM,WI,
+UL,ULAM,ULAM,Ulmus americana,White Elm,Y,Y,N,USDA/TC/LM,WI,
+UL,ULDA,ULDADI,Ulmus davidiana 'Discovery',Japanese Elm,N,N,N,USDA/Mortens,WI,
+UL,ULHO,ULHOPI,Ulmus x hollandica 'Pioneer',Pioneer Elm,N,N,N,Mortens,WI,
+UL,ULLA,ULLA,Ulmus Laevis,White Elm,N,N,N,http://www.euforgen.org/species/ulmus-laevis/,WI,
+UL,ULPU,ULPU,Ulmus pumila,Siberian Elm,N,N,Y,USDA/TC/LM,WI/Mortens,
+UL,ULWI,ULWIPR,Ulmus wilsoniana 'Prospector',Prospector's Elm,N,N,N,Mortens,WI,
+UL,ULFR,ULXXFR,Ulmus x 'Frontier',Ulmus x 'Frontier',N,N,N,Mortens/https://www.usna.usda.gov/assets/images/as_pdf_image/Ulmus_Frontier.pdf,WI,"Hybrid of two non-natives, the Ulmus minor & Ulmus parvifolia"
+UL,ULHO,ULXXHO,Ulmus x 'Homestead',Homestead Elm,N,N,N,Mortens/TB,WI,"From the non-native U. x hollandica, non-native U. minor and non-native  U. pumila. Deemed non-invasive: Fast grower (Mortens) but does not state invasive, no invasive traits mentioned in TB either (KP)"
+UL,ULMO,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,N,N,N,Mortons,WI,
+UL,ULMI,ULXXMO,Ulmus x 'Morton' (Accolade TM),Morton (Accolade TM) Elm,N,N,N,Mortons,WI,
+UL,ULMS,ULXXMS,Ulmus x 'Morton Stalwart',"'Morton Stalwart' - Commendation (TM) Elm,",N,N,N,Mortens/TB,WI,"Hybrid of non-native U. wilsoniana, non-native U. pumila, non-native U. japonica and non-native U. minor. Deemed non-invasive: Easy to grow in nursery (TB) and tolerant in difficult conditions but no invasive traits (KP)"
+UL,ULNH,ULXXNH,Ulmus x New Horizon,Ulmus x New Horizon,N,N,N,Mortens/TB,WI,Hybrid of non-native U. japonica and non-native U. pumila. Deemed non-invasive: U. pumila heritage makes it susceptible to elm leaf beetle (TB) and tolerant to difficult conditions (Mortens)
+UL,ULVG,ULXXVG,Ulmus x 'Morton Plainsman',Vanguard Elm,N,N,N,TB,WI,Hybrid of non-native U. japonica and non-native U. pumila. Deemed non-invasive: Fast grower and tolerant to difficult conditions (Mortens) attractive to elm leaf beetle and not aesthetically pleasing due to U. pumila heritage (TB)
+VI,VILE,VILE,Viburnum Lentago,Nannyberry,Y,Y,N,USDA/TC/LM,WI,
+VI,VIOP,VIOP,Viburnum opulus,European cranberry bush,N,N,N,TC/Mortens,WI,
+VI,VILA,VILA,Vitis Labrusca 'Concord',Fox grape,N,Y,N,USDA/https://gobotany.nativeplanttrust.org/species/vitis/labrusca/ / http://www.efloras.org/object_page.aspx?object_id=129761&flora_id=1 / https://www.wildflower.org/plants/result.php?id_plant=VILA8,WI,Refer to website in Origin Source column: Unclear information on distribution regarding Saint-Laurence Lowlands however deemed native to the eastern temperate forest (KP)
+WE,WEFL,WEFL,Weigela Florida,Oldfashioned weigela,N,N,N,USDA/Mortons,WI,
+EU,EUEU,EUEU,"Euonymus Europaeus""",European Spindle ,N,N,,,,
+AM,AMAR,AMAR,Amelanchier Arborea,Downy Serviceberry,Y,Y,,,,
+PN,PNMU,PNMU,Pinus mugo,Mountain Pine,N,N ,,Missouri Botanical Garden,,
+JN,JNSC,JNSC,Juniperus Scopulorum ,Rocky Mountain Juniper,N,N,,USDA,,
+JU,JURE,JURE,Juglans Regia,English Walnut,N,N,,Missouri Botanical Garden,,
+CH,CHPI,CHPI,Chamaecyparis Pisifera,Sawara Cypress,N,N,,Missouri Botanical Garden,,
+CU,CUCA,CUCA,Cupressus cashmeriana,Kashmir_cypress,N,N,,,,"M 'Woodsman x M 'Tina Durio', which is a mix of M liliiflora, non native to NA"
+MG,MGDA,MGXXDA,Daybreak_Magnolia,Magnolia x 'Daybreak',N,N,,,,
+MG,MGST,MGST,Magnolia Stellata,Magnolia Stellata,N,N,,Missouri Botanical Garden,,
